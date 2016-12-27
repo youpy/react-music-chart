@@ -16,7 +16,7 @@ export default class App extends Component {
     this.state = initialState;
   }
 
-  onHashChange() {
+  getStateFromHash() {
     const params = qs.parse(location.hash);
     var newState = {};
 
@@ -36,7 +36,11 @@ export default class App extends Component {
       newState.chartByFilter = params.chart_by.toLowerCase();
     }
 
-    this.setState(Object.assign({}, initialState, { chart_by: this.state.chart_by }, newState));
+    return newState;
+  }
+
+  onHashChange() {
+    this.setState(Object.assign({}, initialState, { chart_by: this.state.chart_by }, this.getStateFromHash()));
 
     if (Object.keys(newState).length !== 0) {
       window.scroll(0,0)
@@ -50,9 +54,8 @@ export default class App extends Component {
 
     window.onhashchange = this.onHashChange.bind(this);
 
-    this.onHashChange();
     this.setState(
-      Object.assign({}, this.state, {
+      Object.assign({}, this.state, this.getStateFromHash(), {
         chart_by: Object.keys(chart_by).sort()
       })
     );
