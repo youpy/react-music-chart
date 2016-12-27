@@ -978,7 +978,7 @@ export const chart = [
     "title": "$uccessor (ded004)",
     "url": "/products/uccessor-ded004",
     "img_url": "https://assets.boomkat.com/spree/products/373162/product/816216022732_T29168513830054.jpg",
-    "label": "NON Worldwide / Hospital Productions / Hospital Productions / NON Worldwide",
+    "label": "NON Worldwide / Hospital Productions",
     "genre": "Electronic",
     "chart_by": {
       "Will Long": 5,
