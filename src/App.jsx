@@ -95,10 +95,10 @@ export default class App extends Component {
         </LazyLoad>
         <div className="info">
           { item.url &&
-            <h2><a href={`https://www.boomkat.com${item.url}`}>{item.artist} / {item.title}</a></h2>
+            <h2 className="flow-text"><a href={`https://www.boomkat.com${item.url}`}>{item.artist} / {item.title}</a></h2>
           }
           { !item.url &&
-            <h2>{item.artist} / {item.title}</h2>
+            <h2 className="flow-text">{item.artist} / {item.title}</h2>
           }
           <div className="label"><a href={`#label=${encodeURIComponent(item.label)}`}>{item.label}</a></div>
           <div className="genre"><a href={`#genre=${encodeURIComponent(item.genre)}`}>{item.genre}</a></div>
@@ -163,23 +163,23 @@ export default class App extends Component {
       <div>
         <h1><a href="./">Boomkat Charts 2016: Merged</a></h1>
         <div className="row">
-          <div className="input-field col s2">
+          <div className="input-field col s12 m6 l2">
             <input className="validate" id="artist" type="text" onChange={this.onChangeArtistFilter.bind(this)} value={this.state.artistFilter} />
             <label for="artist" className={this.state.artistFilter !== '' ? 'active' : ''}>Artist</label>
           </div>
-          <div className="input-field col s2">
+          <div className="input-field col s12 m6 l2">
             <input id="title" type="text" onChange={this.onChangeTitleFilter.bind(this)} value={this.state.titleFilter} />
             <label for="title" className={this.state.titleFilter !== '' ? 'active' : ''}>Title</label>
           </div>
-          <div className="input-field col s2">
+          <div className="input-field col s12 m6 l2">
             <input id="label" type="text" onChange={this.onChangeLabelFilter.bind(this)} value={this.state.labelFilter} />
             <label for="label" className={this.state.labelFilter !== '' ? 'active' : ''}>Label</label>
           </div>
-          <div className="input-field col s2">
+          <div className="input-field col s12 m6 l2">
             <input id="genre" type="text" onChange={this.onChangeGenreFilter.bind(this)} value={this.state.genreFilter} />
             <label for="genre" className={this.state.genreFilter !== '' ? 'active' : ''}>Genre</label>
           </div>
-          <div className="input-field col s2">
+          <div className="input-field col s12 m12 l4">
             <input id="chart_by" type="text" onChange={this.onChangeChartByFilter.bind(this)} value={this.state.chartByFilter} />
             <label for="chart_by" className={this.state.chartByFilter !== '' ? 'active' : ''}>Chart By</label>
           </div>
