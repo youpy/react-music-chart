@@ -1,11 +1,57 @@
 <!doctype html>
 <html>
   <head>
-    <title>Sample App</title>
+    <title>Boomkat Charts 2016</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/css/materialize.min.css">
+    <style>
+     body {
+     }
+
+     h2 {
+       font-size: 100%;
+       margin-top: 0;
+     }
+
+     ul {
+       margin: 0;
+       padding: 0;
+     }
+
+     li {
+       display: inline;
+     }
+
+     .items {
+       margin: 2em 0 5em 0;
+     }
+
+     .item {
+       margin: 2em 0 0;
+       display: flex;
+     }
+
+     .item div.LazyLoad {
+       width: 150px;
+     }
+
+     .item div.info {
+       flex: 1;
+       padding: 0 0 0 1em;
+     }
+
+     .by {
+       font-size: 80%;
+       margin: 1em 0 0 0;
+     }
+    </style>
   </head>
   <body>
-    <div id='root'>
+    <div class="container">
+      <div id='root'>
+      </div>
     </div>
-    <script src="/static/bundle.js"></script>
-  </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.8/js/materialize.min.js"></script>
+    <script src="./static/bundle.js"></script>
+    </body>
 </html>
