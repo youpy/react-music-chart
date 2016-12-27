@@ -50,13 +50,12 @@ export default class App extends Component {
 
     window.onhashchange = this.onHashChange.bind(this);
 
+    this.onHashChange();
     this.setState(
       Object.assign({}, this.state, {
         chart_by: Object.keys(chart_by).sort()
       })
     );
-
-    this.onHashChange();
   }
 
   componentWillUnmount() {
@@ -99,7 +98,7 @@ export default class App extends Component {
           <div className="label"><a href={`#label=${encodeURIComponent(item.label)}`}>{item.label}</a></div>
           <div className="genre"><a href={`#genre=${encodeURIComponent(item.genre)}`}>{item.genre}</a></div>
           <ul className="by">
-            { Object.keys(item.chart_by).map((who) => <li key={who} className="chip"><a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>: {item.chart_by[who]}</li>) }
+            { Object.keys(item.chart_by).map((who) => <li key={who} className="chip" style={{ background: who.toLowerCase() === this.state.chartByFilter ? '#fcc' : null }}><a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>: {item.chart_by[who]}</li>) }
           </ul>
         </div>
       </div>
@@ -139,6 +138,10 @@ export default class App extends Component {
       }
     });
 
+    const who = this.state.chart_by.find((who) => who.toLowerCase() === this.state.chartByFilter);
+    if (who) {
+      items.sort((a, b) => a.chart_by[who] - b.chart_by[who]);
+    }
 
     return (
       <div>
