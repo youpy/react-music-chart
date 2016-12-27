@@ -40,9 +40,11 @@ export default class App extends Component {
   }
 
   onHashChange() {
-    this.setState(Object.assign({}, initialState, { chart_by: this.state.chart_by }, this.getStateFromHash()));
+    const stateFromHash = this.getStateFromHash();
 
-    if (Object.keys(newState).length !== 0) {
+    this.setState(Object.assign({}, initialState, { chart_by: this.state.chart_by }, stateFromHash));
+
+    if (Object.keys(stateFromHash).length !== 0) {
       window.scroll(0,0)
     }
   }
