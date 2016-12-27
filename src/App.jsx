@@ -98,7 +98,7 @@ export default class App extends Component {
           <div className="label"><a href={`#label=${encodeURIComponent(item.label)}`}>{item.label}</a></div>
           <div className="genre"><a href={`#genre=${encodeURIComponent(item.genre)}`}>{item.genre}</a></div>
           <ul className="by">
-            { Object.keys(item.chart_by).map((who) => <li key={who} className="chip" style={{ background: who.toLowerCase() === this.state.chartByFilter ? '#fcc' : null }}><a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>: {item.chart_by[who]}</li>) }
+            { Object.keys(item.chart_by).map((who) => <li key={who} className="chip" style={{ border: item.chart_by[who] === 1 ? '#ccc 2px solid' : null, background: who.toLowerCase() === this.state.chartByFilter ? '#fcc' : null }}><a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>: {item.chart_by[who]}</li>) }
           </ul>
         </div>
       </div>
