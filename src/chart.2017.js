@@ -8,26 +8,26 @@ export const chart = [
     "label": "Boomkat Editions",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 1,
-      "Robert Aiki Aubrey Lowe 2017": 2,
-      "Elon Katz 2017": 2,
-      "Iona Fortune 2017": 6,
-      "Pete Swanson 2017": 3,
-      "Félicia Atkinson 2017": 7,
-      "Miles 2017": 8,
-      "Helm 2017": 7,
+      "Boomkat: Top Releases": 1,
+      "Robert Aiki Aubrey Lowe": 2,
+      "Elon Katz": 2,
+      "Iona Fortune": 6,
+      "Pete Swanson": 3,
+      "Félicia Atkinson": 7,
+      "Miles": 8,
+      "Helm": 7,
       "Matt Johnson": 2,
-      "Deathprod 2017": 3,
-      "The Bug 2017": 9,
-      "Andy Stott 2017": 12,
-      "Turinn 2017": 1,
+      "Deathprod": 3,
+      "The Bug": 9,
+      "Andy Stott": 12,
+      "Turinn": 1,
       "Jo (Boomkat)": 1,
       "Will (Boomkat)": 5,
-      "John Twells 2017": 11,
+      "John Twells": 11,
       "Dean (Boomkat)": 32,
-      "Shifted 2017": 1,
+      "Shifted": 1,
       "Josh (Boomkat)": 26,
-      "Alexander Iadarola 2017": 2,
+      "Alexander Iadarola": 2,
       "Conor Thomas": 7
     },
     "score": 22.58839396714397
@@ -40,23 +40,23 @@ export const chart = [
     "label": "Shelter Press",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 4,
-      "Robert Aiki Aubrey Lowe 2017": 12,
-      "Akira Rabelais 2017": 4,
-      "Pete Swanson 2017": 1,
-      "Kate Carr 2017": 2,
-      "Carla Dal Forno 2017": 10,
-      "Turinn 2017": 5,
+      "Boomkat: Top Releases": 4,
+      "Robert Aiki Aubrey Lowe": 12,
+      "Akira Rabelais": 4,
+      "Pete Swanson": 1,
+      "Kate Carr": 2,
+      "Carla Dal Forno": 10,
+      "Turinn": 5,
       "Jo (Boomkat)": 6,
-      "Monique Recknagel 2017": 8,
-      "John Twells 2017": 20,
-      "Andrew Hargreaves 2017": 9,
-      "Low Jack 2017": 3,
-      "Bartolomé Sanson (Shelter Press) 2017": 5,
-      "JASSS 2017": 8,
+      "Monique Recknagel": 8,
+      "John Twells": 20,
+      "Andrew Hargreaves": 9,
+      "Low Jack": 3,
+      "Bartolomé Sanson (Shelter Press)": 5,
+      "JASSS": 8,
       "Josh (Boomkat)": 21,
-      "Mark Fell 2017": 11,
-      "Not Waving 2017": 12,
+      "Mark Fell": 11,
+      "Not Waving": 12,
       "Conor Thomas": 3
     },
     "score": 18.80992784992785
@@ -69,23 +69,23 @@ export const chart = [
     "label": "PAN",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 2,
-      "Peter Rehberg 2017": 3,
-      "Cera Khin 2017": 6,
-      "Peder Mannerfelt 2017": 8,
-      "Nic Tasker 2017": 1,
-      "Nightwave 2017": 5,
-      "Andy Stott 2017": 17,
-      "Annex 2017": 11,
-      "John Twells 2017": 14,
-      "Rian Treanor 2017": 2,
-      "Mat Steel (SND) 2017": 3,
+      "Boomkat: Top Releases": 2,
+      "Peter Rehberg": 3,
+      "Cera Khin": 6,
+      "Peder Mannerfelt": 8,
+      "Nic Tasker": 1,
+      "Nightwave": 5,
+      "Andy Stott": 17,
+      "Annex": 11,
+      "John Twells": 14,
+      "Rian Treanor": 2,
+      "Mat Steel (SND)": 3,
       "Dean (Boomkat)": 36,
-      "Gábor Lázár 2017": 1,
-      "Mark Fell 2017": 9,
-      "Not Waving 2017": 10,
+      "Gábor Lázár": 1,
+      "Mark Fell": 9,
+      "Not Waving": 10,
       "Conor Thomas": 8,
-      "Ossia 2017": 10
+      "Ossia": 10
     },
     "score": 17.968676682794328
   },
@@ -97,21 +97,21 @@ export const chart = [
     "label": "DDS",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 12,
-      "Robert Aiki Aubrey Lowe 2017": 8,
-      "Pete Swanson 2017": 7,
-      "Stephan Mathieu 2017": 3,
-      "Cera Khin 2017": 1,
-      "The Bug 2017": 6,
-      "Jon K 2017": 1,
-      "Nyege Nyege Tapes 2017": 9,
-      "Annex 2017": 10,
-      "Primitive World 2017": 6,
-      "John Twells 2017": 6,
-      "Mat Steel (SND) 2017": 6,
+      "Boomkat: Top Releases": 12,
+      "Robert Aiki Aubrey Lowe": 8,
+      "Pete Swanson": 7,
+      "Stephan Mathieu": 3,
+      "Cera Khin": 1,
+      "The Bug": 6,
+      "Jon K": 1,
+      "Nyege Nyege Tapes": 9,
+      "Annex": 10,
+      "Primitive World": 6,
+      "John Twells": 6,
+      "Mat Steel (SND)": 6,
       "Conor Thomas": 25,
-      "Beatrice Dillon 2017": 1,
-      "Ossia 2017": 5
+      "Beatrice Dillon": 1,
+      "Ossia": 5
     },
     "score": 15.960460317460313
   },
@@ -123,18 +123,18 @@ export const chart = [
     "label": "STUDENTS OF DECAY",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 3,
-      "Robert Aiki Aubrey Lowe 2017": 4,
-      "Illum Sphere 2017": 4,
-      "Félicia Atkinson 2017": 13,
-      "Pye Corner Audio 2017": 10,
-      "Deathprod 2017": 6,
-      "John Powell-Jones 2017": 2,
+      "Boomkat: Top Releases": 3,
+      "Robert Aiki Aubrey Lowe": 4,
+      "Illum Sphere": 4,
+      "Félicia Atkinson": 13,
+      "Pye Corner Audio": 10,
+      "Deathprod": 6,
+      "John Powell-Jones": 2,
       "Jo (Boomkat)": 2,
-      "John Twells 2017": 3,
-      "Andrew Hargreaves 2017": 5,
+      "John Twells": 3,
+      "Andrew Hargreaves": 5,
       "Dean (Boomkat)": 34,
-      "Not Waving 2017": 25
+      "Not Waving": 25
     },
     "score": 12.555933634992455
   },
@@ -146,15 +146,15 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 16,
-      "Maxwell Sterling 2017": 5,
-      "N.M.O. 2017": 10,
-      "Veronica Vasicka 2017": 5,
-      "Jay Glass Dubs 2017": 1,
+      "Boomkat: Top Releases": 16,
+      "Maxwell Sterling": 5,
+      "N.M.O.": 10,
+      "Veronica Vasicka": 5,
+      "Jay Glass Dubs": 1,
       "Jo (Boomkat)": 7,
       "Will (Boomkat)": 30,
-      "Annex 2017": 18,
-      "Joachim Nordwall 2017": 1,
+      "Annex": 18,
+      "Joachim Nordwall": 1,
       "Josh (Boomkat)": 28,
       "Conor Thomas": 37
     },
@@ -168,16 +168,16 @@ export const chart = [
     "label": "The Death Of Rave",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 19,
-      "Boomkat: Most Overlooked Releases 2017": 12,
-      "Maxwell Sterling 2017": 8,
-      "Tony Poland 2017": 4,
+      "Boomkat: Top Releases": 19,
+      "Boomkat: Most Overlooked Releases": 12,
+      "Maxwell Sterling": 8,
+      "Tony Poland": 4,
       "Will (Boomkat)": 10,
       "Liam (Boomkat)": 11,
-      "Slip 2017": 1,
+      "Slip": 1,
       "Josh (Boomkat)": 11,
-      "Not Waving 2017": 28,
-      "Alexander Iadarola 2017": 10,
+      "Not Waving": 28,
+      "Alexander Iadarola": 10,
       "Conor Thomas": 14
     },
     "score": 11.399985190248348
@@ -190,16 +190,16 @@ export const chart = [
     "label": "RVNG Intl.",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 15,
-      "Mumdance 2017": 2,
-      "Elon Katz 2017": 8,
-      "Kode 9 2017": 3,
-      "Pete Swanson 2017": 9,
-      "Félicia Atkinson 2017": 6,
-      "Turinn 2017": 4,
+      "Boomkat: Top Releases": 15,
+      "Mumdance": 2,
+      "Elon Katz": 8,
+      "Kode 9": 3,
+      "Pete Swanson": 9,
+      "Félicia Atkinson": 6,
+      "Turinn": 4,
       "Will (Boomkat)": 13,
-      "John Twells 2017": 18,
-      "Bartolomé Sanson (Shelter Press) 2017": 4,
+      "John Twells": 18,
+      "Bartolomé Sanson (Shelter Press)": 4,
       "Dean (Boomkat)": 16
     },
     "score": 11.399551282051283
@@ -212,13 +212,13 @@ export const chart = [
     "label": "Hospital Productions",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 11,
-      "Nic Tasker 2017": 6,
-      "CS + Kreme 2017": 6,
+      "Boomkat: Top Releases": 11,
+      "Nic Tasker": 6,
+      "CS + Kreme": 6,
       "Will (Boomkat)": 6,
-      "John Twells 2017": 2,
-      "Low Jack 2017": 2,
-      "Bartolomé Sanson (Shelter Press) 2017": 15,
+      "John Twells": 2,
+      "Low Jack": 2,
+      "Bartolomé Sanson (Shelter Press)": 15,
       "Dean (Boomkat)": 9,
       "Josh (Boomkat)": 3,
       "Conor Thomas": 5
@@ -233,15 +233,15 @@ export const chart = [
     "label": "Boomkat Editions",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 6,
-      "Iona Fortune 2017": 9,
-      "Andy Stott 2017": 5,
-      "John Powell-Jones 2017": 3,
-      "Gizmo (Berceuse Heroique) 2017": 12,
-      "Sean Canty (Demdike Stare) 2017": 7,
+      "Boomkat: Top Reissues & Archival Releases": 6,
+      "Iona Fortune": 9,
+      "Andy Stott": 5,
+      "John Powell-Jones": 3,
+      "Gizmo (Berceuse Heroique)": 12,
+      "Sean Canty (Demdike Stare)": 7,
       "Liam (Boomkat)": 1,
-      "Bartolomé Sanson (Shelter Press) 2017": 21,
-      "JASSS 2017": 9,
+      "Bartolomé Sanson (Shelter Press)": 21,
+      "JASSS": 9,
       "Conor Thomas": 12
     },
     "score": 10.455873015873015
@@ -254,15 +254,15 @@ export const chart = [
     "label": "RECOLLECTION GRM",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 4,
-      "Ian Fenton (Frozen Reeds) 2017": 11,
-      "Stephan Mathieu 2017": 20,
-      "Miles 2017": 5,
-      "Richard Chartier 2017": 28,
-      "Sean Canty (Demdike Stare) 2017": 10,
-      "Bartolomé Sanson (Shelter Press) 2017": 23,
+      "Boomkat: Top Reissues & Archival Releases": 4,
+      "Ian Fenton (Frozen Reeds)": 11,
+      "Stephan Mathieu": 20,
+      "Miles": 5,
+      "Richard Chartier": 28,
+      "Sean Canty (Demdike Stare)": 10,
+      "Bartolomé Sanson (Shelter Press)": 23,
       "Dean (Boomkat)": 11,
-      "Richard Skelton 2017": 5,
+      "Richard Skelton": 5,
       "Conor Thomas": 41
     },
     "score": 10.217080194460893
@@ -275,14 +275,14 @@ export const chart = [
     "label": "Planet Mu Records Ltd.",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 82,
-      "Kode 9 2017": 5,
-      "Keith Mcivor (Optimo) 2017": 9,
-      "Pete Swanson 2017": 6,
-      "Anastasia Kristensen 2017": 8,
-      "Nightwave 2017": 7,
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 8,
-      "Mat Steel (SND) 2017": 4,
+      "Boomkat: Top Releases": 82,
+      "Kode 9": 5,
+      "Keith Mcivor (Optimo)": 9,
+      "Pete Swanson": 6,
+      "Anastasia Kristensen": 8,
+      "Nightwave": 7,
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 8,
+      "Mat Steel (SND)": 4,
       "Conor Thomas": 22
     },
     "score": 9.23565691760814
@@ -295,14 +295,14 @@ export const chart = [
     "label": "DDS",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 30,
-      "Anthony Naples 2017": 8,
-      "Illum Sphere 2017": 12,
-      "Will Long 2017": 7,
-      "Tony Poland 2017": 5,
-      "Ben Morris 2017": 13,
-      "Low Jack 2017": 21,
-      "Mat Steel (SND) 2017": 10,
+      "Boomkat: Top Releases": 30,
+      "Anthony Naples": 8,
+      "Illum Sphere": 12,
+      "Will Long": 7,
+      "Tony Poland": 5,
+      "Ben Morris": 13,
+      "Low Jack": 21,
+      "Mat Steel (SND)": 10,
       "Dean (Boomkat)": 8
     },
     "score": 9.186813186813188
@@ -315,14 +315,14 @@ export const chart = [
     "label": "MILAN",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 5,
-      "Robert Aiki Aubrey Lowe 2017": 9,
-      "Kode 9 2017": 6,
-      "Will Long 2017": 10,
-      "The Bug 2017": 2,
-      "Andy Stott 2017": 14,
-      "Shapednoise 2017": 1,
-      "John Twells 2017": 1
+      "Boomkat: Top Releases": 5,
+      "Robert Aiki Aubrey Lowe": 9,
+      "Kode 9": 6,
+      "Will Long": 10,
+      "The Bug": 2,
+      "Andy Stott": 14,
+      "Shapednoise": 1,
+      "John Twells": 1
     },
     "score": 8.629841269841268
   },
@@ -334,14 +334,14 @@ export const chart = [
     "label": "Subtext",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 20,
-      "Robert Aiki Aubrey Lowe 2017": 3,
-      "Craig Tattersall (The Boats) 2017": 4,
-      "Logos 2017": 7,
-      "Andrew Hargreaves 2017": 3,
-      "Rian Treanor 2017": 4,
+      "Boomkat: Top Releases": 20,
+      "Robert Aiki Aubrey Lowe": 3,
+      "Craig Tattersall (The Boats)": 4,
+      "Logos": 7,
+      "Andrew Hargreaves": 3,
+      "Rian Treanor": 4,
       "Dean (Boomkat)": 29,
-      "Mark Fell 2017": 1
+      "Mark Fell": 1
     },
     "score": 8.4788013136289
   },
@@ -353,13 +353,13 @@ export const chart = [
     "label": "Conspiracy International",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 3,
-      "Peter Rehberg 2017": 4,
-      "Iona Fortune 2017": 2,
-      "Regis 2017": 12,
-      "Veronica Vasicka 2017": 2,
-      "Richard Chartier 2017": 22,
-      "Bartolomé Sanson (Shelter Press) 2017": 19,
+      "Boomkat: Top Reissues & Archival Releases": 3,
+      "Peter Rehberg": 4,
+      "Iona Fortune": 2,
+      "Regis": 12,
+      "Veronica Vasicka": 2,
+      "Richard Chartier": 22,
+      "Bartolomé Sanson (Shelter Press)": 19,
       "Conor Thomas": 24
     },
     "score": 8.361283891547048
@@ -372,14 +372,14 @@ export const chart = [
     "label": "Hyperdub",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 17,
-      "Prurient 2017": 21,
-      "Kowton 2017": 9,
-      "Parris 2017": 8,
+      "Boomkat: Top Releases": 17,
+      "Prurient": 21,
+      "Kowton": 9,
+      "Parris": 8,
       "Jo (Boomkat)": 10,
-      "Andrew Hargreaves 2017": 4,
-      "Bartolomé Sanson (Shelter Press) 2017": 13,
-      "Untold 2017": 1
+      "Andrew Hargreaves": 4,
+      "Bartolomé Sanson (Shelter Press)": 13,
+      "Untold": 1
     },
     "score": 8.353895353012998
   },
@@ -391,14 +391,14 @@ export const chart = [
     "label": "Point Of Departure",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 51,
-      "Robert Aiki Aubrey Lowe 2017": 5,
-      "Prurient 2017": 22,
-      "Pye Corner Audio 2017": 7,
+      "Boomkat: Top Releases": 51,
+      "Robert Aiki Aubrey Lowe": 5,
+      "Prurient": 22,
+      "Pye Corner Audio": 7,
       "Matt Johnson": 4,
-      "The Bug 2017": 4,
-      "Not Waving 2017": 4,
-      "Jaime Williams 2017": 5
+      "The Bug": 4,
+      "Not Waving": 4,
+      "Jaime Williams": 5
     },
     "score": 8.271583906289788
   },
@@ -410,14 +410,14 @@ export const chart = [
     "label": "PAN",
     "genre": "Electronic",
     "chart_by": {
-      "Tzusing 2017": 10,
-      "N.M.O. 2017": 3,
-      "Jay Glass Dubs 2017": 4,
+      "Tzusing": 10,
+      "N.M.O.": 3,
+      "Jay Glass Dubs": 4,
       "Will (Boomkat)": 29,
-      "Annex 2017": 26,
-      "John Twells 2017": 4,
-      "Richard Chartier 2017": 15,
-      "Alexander Iadarola 2017": 9
+      "Annex": 26,
+      "John Twells": 4,
+      "Richard Chartier": 15,
+      "Alexander Iadarola": 9
     },
     "score": 8.236811081638667
   },
@@ -429,14 +429,14 @@ export const chart = [
     "label": "Hyperdub",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 25,
-      "Helm 2017": 9,
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 5,
-      "Annex 2017": 23,
-      "Primitive World 2017": 4,
-      "Low Jack 2017": 29,
-      "Perc 2017": 5,
-      "Croww 2017": 9
+      "Boomkat: Top Releases": 25,
+      "Helm": 9,
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 5,
+      "Annex": 23,
+      "Primitive World": 4,
+      "Low Jack": 29,
+      "Perc": 5,
+      "Croww": 9
     },
     "score": 8.198036648342494
   },
@@ -448,13 +448,13 @@ export const chart = [
     "label": "Luaka Bop",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 15,
-      "Keith Mcivor (Optimo) 2017": 1,
-      "Iona Fortune 2017": 4,
-      "Pete Swanson 2017": 16,
-      "The Bug 2017": 3,
-      "Steve Barker 2017": 1,
-      "Not Waving 2017": 2
+      "Boomkat: Top Reissues & Archival Releases": 15,
+      "Keith Mcivor (Optimo)": 1,
+      "Iona Fortune": 4,
+      "Pete Swanson": 16,
+      "The Bug": 3,
+      "Steve Barker": 1,
+      "Not Waving": 2
     },
     "score": 7.6425
   },
@@ -466,13 +466,13 @@ export const chart = [
     "label": "Príncipe / Príncipe Discos",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 31,
-      "Pete Swanson 2017": 8,
-      "Helm 2017": 10,
-      "N.M.O. 2017": 6,
-      "Rian Treanor 2017": 8,
-      "Nkisi 2017": 1,
-      "Alexander Iadarola 2017": 6
+      "Boomkat: Top Releases": 31,
+      "Pete Swanson": 8,
+      "Helm": 10,
+      "N.M.O.": 6,
+      "Rian Treanor": 8,
+      "Nkisi": 1,
+      "Alexander Iadarola": 6
     },
     "score": 7.343118279569892
   },
@@ -484,13 +484,13 @@ export const chart = [
     "label": "PAN",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 66,
-      "Peter Rehberg 2017": 5,
-      "Nina 2017": 8,
-      "Deathprod 2017": 4,
-      "Bartolomé Sanson (Shelter Press) 2017": 11,
-      "JASSS 2017": 2,
-      "Joachim Nordwall 2017": 6
+      "Boomkat: Top Releases": 66,
+      "Peter Rehberg": 5,
+      "Nina": 8,
+      "Deathprod": 4,
+      "Bartolomé Sanson (Shelter Press)": 11,
+      "JASSS": 2,
+      "Joachim Nordwall": 6
     },
     "score": 7.2695454545454545
   },
@@ -502,13 +502,13 @@ export const chart = [
     "label": "Halcyon Veil",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 7,
-      "Dale Cornish 2017": 7,
-      "Andy Stott 2017": 11,
-      "Turinn 2017": 3,
-      "John Twells 2017": 15,
-      "Alexander Iadarola 2017": 4,
-      "Bus 2017": 11
+      "Boomkat: Top Releases": 7,
+      "Dale Cornish": 7,
+      "Andy Stott": 11,
+      "Turinn": 3,
+      "John Twells": 15,
+      "Alexander Iadarola": 4,
+      "Bus": 11
     },
     "score": 7.223506493506493
   },
@@ -520,12 +520,12 @@ export const chart = [
     "label": "Shelter Press",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 22,
-      "Boomkat: Most Overlooked Releases 2017": 5,
-      "Dale Cornish 2017": 11,
-      "Will Long 2017": 5,
-      "Gizmo (Berceuse Heroique) 2017": 11,
-      "Low Jack 2017": 4,
+      "Boomkat: Top Releases": 22,
+      "Boomkat: Most Overlooked Releases": 5,
+      "Dale Cornish": 11,
+      "Will Long": 5,
+      "Gizmo (Berceuse Heroique)": 11,
+      "Low Jack": 4,
       "Josh (Boomkat)": 9
     },
     "score": 7.197676767676767
@@ -538,13 +538,13 @@ export const chart = [
     "label": "NON Worldwide / UNO NYC / NON Worldwide",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 97,
-      "Kode 9 2017": 8,
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 6,
-      "Annex 2017": 5,
-      "Slip 2017": 5,
-      "Nkisi 2017": 6,
-      "Croww 2017": 10
+      "Boomkat: Top Releases": 97,
+      "Kode 9": 8,
+      "Stephen Bishop (Basic House / Opal Tapes)": 6,
+      "Annex": 5,
+      "Slip": 5,
+      "Nkisi": 6,
+      "Croww": 10
     },
     "score": 7.1937285223367695
   },
@@ -556,12 +556,12 @@ export const chart = [
     "label": "Dead Oceans",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Newworldaquarium 2017": 10,
-      "Pete Swanson 2017": 5,
-      "Will Long 2017": 9,
-      "Monique Recknagel 2017": 10,
-      "Erik K Skodvin 2017": 1,
-      "Jaime Williams 2017": 7
+      "Newworldaquarium": 10,
+      "Pete Swanson": 5,
+      "Will Long": 9,
+      "Monique Recknagel": 10,
+      "Erik K Skodvin": 1,
+      "Jaime Williams": 7
     },
     "score": 6.330793650793651
   },
@@ -573,11 +573,11 @@ export const chart = [
     "label": "SAHEL SOUNDS",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 8,
-      "Boomkat: Most Overlooked Releases 2017": 2,
-      "Pete Swanson 2017": 2,
-      "Turinn 2017": 10,
-      "Bartolomé Sanson (Shelter Press) 2017": 3,
+      "Boomkat: Top Releases": 8,
+      "Boomkat: Most Overlooked Releases": 2,
+      "Pete Swanson": 2,
+      "Turinn": 10,
+      "Bartolomé Sanson (Shelter Press)": 3,
       "Dean (Boomkat)": 35
     },
     "score": 6.317380952380951
@@ -590,12 +590,12 @@ export const chart = [
     "label": "Lullabies For Insomniacs",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 9,
-      "Boomkat: Most Overlooked Releases 2017": 10,
-      "Jon K 2017": 2,
-      "Shapednoise 2017": 10,
-      "Turinn 2017": 2,
-      "Bartolomé Sanson (Shelter Press) 2017": 16
+      "Boomkat: Top Reissues & Archival Releases": 9,
+      "Boomkat: Most Overlooked Releases": 10,
+      "Jon K": 2,
+      "Shapednoise": 10,
+      "Turinn": 2,
+      "Bartolomé Sanson (Shelter Press)": 16
     },
     "score": 6.274722222222222
   },
@@ -607,11 +607,11 @@ export const chart = [
     "label": "Ecstatic",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 66,
-      "Bokeh Versions 2017": 6,
+      "Boomkat: Top Reissues & Archival Releases": 66,
+      "Bokeh Versions": 6,
       "Will (Boomkat)": 21,
-      "Pessimist 2017": 6,
-      "Joachim Nordwall 2017": 2,
+      "Pessimist": 6,
+      "Joachim Nordwall": 2,
       "Josh (Boomkat)": 6
     },
     "score": 6.212554112554112
@@ -624,10 +624,10 @@ export const chart = [
     "label": "RVNG Intl.",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 35,
-      "Pete Swanson 2017": 4,
-      "Stephan Mathieu 2017": 18,
-      "Raime 2017": 2,
+      "Boomkat: Top Releases": 35,
+      "Pete Swanson": 4,
+      "Stephan Mathieu": 18,
+      "Raime": 2,
       "Will (Boomkat)": 35,
       "Josh (Boomkat)": 5
     },
@@ -641,12 +641,12 @@ export const chart = [
     "label": "The Death Of Rave",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 79,
-      "Teresa Winter 2017": 3,
-      "Not Waving 2017": 18,
-      "Jaime Williams 2017": 4,
+      "Boomkat: Top Reissues & Archival Releases": 79,
+      "Teresa Winter": 3,
+      "Not Waving": 18,
+      "Jaime Williams": 4,
       "Conor Thomas": 13,
-      "Croww 2017": 3
+      "Croww": 3
     },
     "score": 6.212360705398679
   },
@@ -658,12 +658,12 @@ export const chart = [
     "label": "Wah Wah Wino",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 14,
-      "Trevor Jackson 2017": 13,
-      "CS + Kreme 2017": 3,
-      "Mark Cremins (Rush Hour) 2017": 3,
-      "Gizmo (Berceuse Heroique) 2017": 19,
-      "Not Waving 2017": 8
+      "Boomkat: Top Releases": 14,
+      "Trevor Jackson": 13,
+      "CS + Kreme": 3,
+      "Mark Cremins (Rush Hour)": 3,
+      "Gizmo (Berceuse Heroique)": 19,
+      "Not Waving": 8
     },
     "score": 6.198529978793136
   },
@@ -675,12 +675,12 @@ export const chart = [
     "label": "Don't Be Afraid",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 89,
-      "Illum Sphere 2017": 7,
-      "Kowton 2017": 3,
-      "Pye Corner Audio 2017": 5,
-      "Deathprod 2017": 9,
-      "Ben Morris 2017": 12
+      "Boomkat: Top Releases": 89,
+      "Illum Sphere": 7,
+      "Kowton": 3,
+      "Pye Corner Audio": 5,
+      "Deathprod": 9,
+      "Ben Morris": 12
     },
     "score": 6.1763741751382195
   },
@@ -692,12 +692,12 @@ export const chart = [
     "label": "We Release Whatever The Fuck We Want",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 22,
-      "Iona Fortune 2017": 3,
-      "Pete Swanson 2017": 15,
-      "Lawrence English 2017": 10,
-      "Monique Recknagel 2017": 5,
-      "Erik K Skodvin 2017": 10
+      "Boomkat: Top Reissues & Archival Releases": 22,
+      "Iona Fortune": 3,
+      "Pete Swanson": 15,
+      "Lawrence English": 10,
+      "Monique Recknagel": 5,
+      "Erik K Skodvin": 10
     },
     "score": 6.169090909090908
   },
@@ -709,12 +709,12 @@ export const chart = [
     "label": "Haunter Records / 5 Gate Temple",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 85,
-      "Tzusing 2017": 6,
-      "Kowton 2017": 5,
-      "Carla Dal Forno 2017": 6,
-      "Pessimist 2017": 5,
-      "Not Waving 2017": 14
+      "Boomkat: Top Releases": 85,
+      "Tzusing": 6,
+      "Kowton": 5,
+      "Carla Dal Forno": 6,
+      "Pessimist": 5,
+      "Not Waving": 14
     },
     "score": 6.163305322128852
   },
@@ -726,12 +726,12 @@ export const chart = [
     "label": "DDS",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 28,
-      "Cera Khin 2017": 4,
-      "Andy Stott 2017": 9,
+      "Boomkat: Top Releases": 28,
+      "Cera Khin": 4,
+      "Andy Stott": 9,
       "Jo (Boomkat)": 4,
-      "Not Waving 2017": 19,
-      "Jaime Williams 2017": 9
+      "Not Waving": 19,
+      "Jaime Williams": 9
     },
     "score": 6.162113617376774
   },
@@ -743,12 +743,12 @@ export const chart = [
     "label": "Halcyon Veil",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 34,
-      "Dale Cornish 2017": 10,
-      "Tom Lea 2017": 20,
-      "John Twells 2017": 12,
-      "Jaime Williams 2017": 3,
-      "Croww 2017": 7
+      "Boomkat: Top Releases": 34,
+      "Dale Cornish": 10,
+      "Tom Lea": 20,
+      "John Twells": 12,
+      "Jaime Williams": 3,
+      "Croww": 7
     },
     "score": 6.147787114845937
   },
@@ -760,11 +760,11 @@ export const chart = [
     "label": "Incienso",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 10,
-      "Anthony Naples 2017": 9,
-      "a new line ( related ) 2017": 8,
-      "John Twells 2017": 10,
-      "Low Jack 2017": 28,
+      "Boomkat: Top Releases": 10,
+      "Anthony Naples": 9,
+      "a new line ( related )": 8,
+      "John Twells": 10,
+      "Low Jack": 28,
       "Dean (Boomkat)": 12
     },
     "score": 6.111031746031745
@@ -777,12 +777,12 @@ export const chart = [
     "label": "Crammed Discs",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 33,
-      "Trevor Jackson 2017": 12,
-      "Jay Glass Dubs 2017": 9,
-      "Nyege Nyege Tapes 2017": 6,
-      "Mark Fell 2017": 14,
-      "Not Waving 2017": 32
+      "Boomkat: Top Reissues & Archival Releases": 33,
+      "Trevor Jackson": 12,
+      "Jay Glass Dubs": 9,
+      "Nyege Nyege Tapes": 6,
+      "Mark Fell": 14,
+      "Not Waving": 32
     },
     "score": 6.098818542568542
   },
@@ -794,11 +794,11 @@ export const chart = [
     "label": "Modern Love",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 71,
-      "Prurient 2017": 6,
-      "Félicia Atkinson 2017": 17,
+      "Boomkat: Top Releases": 71,
+      "Prurient": 6,
+      "Félicia Atkinson": 17,
       "Will (Boomkat)": 32,
-      "Bartolomé Sanson (Shelter Press) 2017": 6,
+      "Bartolomé Sanson (Shelter Press)": 6,
       "Josh (Boomkat)": 23
     },
     "score": 6.0961939261313836
@@ -811,11 +811,11 @@ export const chart = [
     "label": "Recital Program",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 5,
-      "Boomkat: Most Overlooked Releases 2017": 1,
-      "Stephan Mathieu 2017": 17,
-      "Tony Poland 2017": 1,
-      "John Powell-Jones 2017": 1
+      "Boomkat: Top Reissues & Archival Releases": 5,
+      "Boomkat: Most Overlooked Releases": 1,
+      "Stephan Mathieu": 17,
+      "Tony Poland": 1,
+      "John Powell-Jones": 1
     },
     "score": 5.6517647058823535
   },
@@ -827,11 +827,11 @@ export const chart = [
     "label": "Freedom To Spend",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 21,
-      "Félicia Atkinson 2017": 3,
-      "Raime 2017": 1,
-      "Steve Barker 2017": 2,
-      "Bartolomé Sanson (Shelter Press) 2017": 17
+      "Boomkat: Top Reissues & Archival Releases": 21,
+      "Félicia Atkinson": 3,
+      "Raime": 1,
+      "Steve Barker": 2,
+      "Bartolomé Sanson (Shelter Press)": 17
     },
     "score": 5.3879551820728295
   },
@@ -843,11 +843,11 @@ export const chart = [
     "label": "Hospital Productions",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Prurient 2017": 1,
-      "Regis 2017": 15,
-      "Helm 2017": 3,
-      "Becka Diamond 2017": 5,
-      "Shapednoise 2017": 6
+      "Prurient": 1,
+      "Regis": 15,
+      "Helm": 3,
+      "Becka Diamond": 5,
+      "Shapednoise": 6
     },
     "score": 5.3533333333333335
   },
@@ -859,9 +859,9 @@ export const chart = [
     "label": "Modern Love",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 8,
-      "Miles 2017": 2,
-      "Andy Stott 2017": 1,
+      "Boomkat: Top Reissues & Archival Releases": 8,
+      "Miles": 2,
+      "Andy Stott": 1,
       "Dean (Boomkat)": 13,
       "Conor Thomas": 28
     },
@@ -875,11 +875,11 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 70,
-      "Newworldaquarium 2017": 5,
-      "Trevor Jackson 2017": 1,
-      "Veronica Vasicka 2017": 8,
-      "John Twells 2017": 17
+      "Boomkat: Top Releases": 70,
+      "Newworldaquarium": 5,
+      "Trevor Jackson": 1,
+      "Veronica Vasicka": 8,
+      "John Twells": 17
     },
     "score": 5.279621848739496
   },
@@ -891,10 +891,10 @@ export const chart = [
     "label": "5 Gate Temple",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 94,
-      "Boomkat: Most Overlooked Releases 2017": 11,
-      "Tzusing 2017": 7,
-      "Trevor Jackson 2017": 7,
+      "Boomkat: Top Releases": 94,
+      "Boomkat: Most Overlooked Releases": 11,
+      "Tzusing": 7,
+      "Trevor Jackson": 7,
       "Conor Thomas": 1
     },
     "score": 5.277452334899143
@@ -907,9 +907,9 @@ export const chart = [
     "label": "Motion Ward",
     "genre": "Basic Channel / Dub Techno",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 98,
-      "Boomkat: Most Overlooked Releases 2017": 24,
-      "Anthony Naples 2017": 1,
+      "Boomkat: Top Releases": 98,
+      "Boomkat: Most Overlooked Releases": 24,
+      "Anthony Naples": 1,
       "Will (Boomkat)": 7,
       "Josh (Boomkat)": 29
     },
@@ -923,11 +923,11 @@ export const chart = [
     "label": "DDS",
     "genre": "Electronic",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 6,
-      "Kowton 2017": 4,
-      "Steve Barker 2017": 8,
-      "Mat Steel (SND) 2017": 8,
-      "Beatrice Dillon 2017": 2
+      "Ian Fenton (Frozen Reeds)": 6,
+      "Kowton": 4,
+      "Steve Barker": 8,
+      "Mat Steel (SND)": 8,
+      "Beatrice Dillon": 2
     },
     "score": 5.2333333333333325
   },
@@ -939,11 +939,11 @@ export const chart = [
     "label": "Important Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 50,
-      "Lorenzo Senni 2017": 7,
-      "Peder Mannerfelt 2017": 2,
-      "Gizmo (Berceuse Heroique) 2017": 5,
-      "Not Waving 2017": 6
+      "Boomkat: Top Releases": 50,
+      "Lorenzo Senni": 7,
+      "Peder Mannerfelt": 2,
+      "Gizmo (Berceuse Heroique)": 5,
+      "Not Waving": 6
     },
     "score": 5.205904761904762
   },
@@ -956,9 +956,9 @@ export const chart = [
     "genre": "Electronic",
     "chart_by": {
       "Will (Boomkat)": 15,
-      "Erik K Skodvin 2017": 6,
-      "Gábor Lázár 2017": 2,
-      "Shifted 2017": 6,
+      "Erik K Skodvin": 6,
+      "Gábor Lázár": 2,
+      "Shifted": 6,
       "Josh (Boomkat)": 8
     },
     "score": 5.205
@@ -971,11 +971,11 @@ export const chart = [
     "label": "PAN",
     "genre": "Electronic",
     "chart_by": {
-      "Lorenzo Senni 2017": 2,
-      "CS + Kreme 2017": 7,
-      "Steve Barker 2017": 6,
-      "Low Jack 2017": 27,
-      "Not Waving 2017": 27
+      "Lorenzo Senni": 2,
+      "CS + Kreme": 7,
+      "Steve Barker": 6,
+      "Low Jack": 27,
+      "Not Waving": 27
     },
     "score": 5.1767195767195755
   },
@@ -987,10 +987,10 @@ export const chart = [
     "label": "BLACK TRUFFLE",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 46,
-      "Félicia Atkinson 2017": 2,
+      "Boomkat: Top Releases": 46,
+      "Félicia Atkinson": 2,
       "Will (Boomkat)": 17,
-      "Bartolomé Sanson (Shelter Press) 2017": 8,
+      "Bartolomé Sanson (Shelter Press)": 8,
       "Josh (Boomkat)": 22
     },
     "score": 5.150203441060218
@@ -1003,10 +1003,10 @@ export const chart = [
     "label": "Hyperdub",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 47,
-      "Shapednoise 2017": 3,
-      "Annex 2017": 21,
-      "Slip 2017": 4,
+      "Boomkat: Top Releases": 47,
+      "Shapednoise": 3,
+      "Annex": 21,
+      "Slip": 4,
       "Conor Thomas": 42
     },
     "score": 5.135207700101318
@@ -1019,10 +1019,10 @@ export const chart = [
     "label": "RVNG Intl.",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 12,
-      "Félicia Atkinson 2017": 4,
+      "Boomkat: Top Reissues & Archival Releases": 12,
+      "Félicia Atkinson": 4,
       "Jo (Boomkat)": 5,
-      "Bartolomé Sanson (Shelter Press) 2017": 22,
+      "Bartolomé Sanson (Shelter Press)": 22,
       "Dean (Boomkat)": 17
     },
     "score": 5.127522281639928
@@ -1035,10 +1035,10 @@ export const chart = [
     "label": "Optimo Music",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 35,
-      "Iona Fortune 2017": 7,
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 9,
-      "Joachim Nordwall 2017": 4,
+      "Boomkat: Top Reissues & Archival Releases": 35,
+      "Iona Fortune": 7,
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 9,
+      "Joachim Nordwall": 4,
       "Conor Thomas": 45
     },
     "score": 5.11095238095238
@@ -1051,9 +1051,9 @@ export const chart = [
     "label": "Modern Love",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 39,
-      "Shapednoise 2017": 9,
-      "Turinn 2017": 11,
+      "Boomkat: Top Releases": 39,
+      "Shapednoise": 9,
+      "Turinn": 11,
       "Will (Boomkat)": 24,
       "Josh (Boomkat)": 27
     },
@@ -1067,10 +1067,10 @@ export const chart = [
     "label": "Catch Wave Ltd.",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 14,
-      "Boomkat: Most Overlooked Releases 2017": 25,
-      "Pete Swanson 2017": 18,
-      "Bartolomé Sanson (Shelter Press) 2017": 27,
+      "Boomkat: Top Reissues & Archival Releases": 14,
+      "Boomkat: Most Overlooked Releases": 25,
+      "Pete Swanson": 18,
+      "Bartolomé Sanson (Shelter Press)": 27,
       "Conor Thomas": 21
     },
     "score": 5.050328042328042
@@ -1083,10 +1083,10 @@ export const chart = [
     "label": "Superior Viaduct",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 1,
-      "Ian Fenton (Frozen Reeds) 2017": 2,
-      "Stephan Mathieu 2017": 2,
-      "Lawrence English 2017": 1
+      "Boomkat: Top Reissues & Archival Releases": 1,
+      "Ian Fenton (Frozen Reeds)": 2,
+      "Stephan Mathieu": 2,
+      "Lawrence English": 1
     },
     "score": 4.6000000000000005
   },
@@ -1098,10 +1098,10 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 8,
-      "Akira Rabelais 2017": 5,
-      "Félicia Atkinson 2017": 1,
-      "Bartolomé Sanson (Shelter Press) 2017": 1
+      "Boomkat: Most Overlooked Releases": 8,
+      "Akira Rabelais": 5,
+      "Félicia Atkinson": 1,
+      "Bartolomé Sanson (Shelter Press)": 1
     },
     "score": 4.465000000000001
   },
@@ -1113,10 +1113,10 @@ export const chart = [
     "label": "Grönland Records / Groenland Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 69,
-      "Peter Rehberg 2017": 1,
-      "Regis 2017": 6,
-      "Veronica Vasicka 2017": 1
+      "Boomkat: Top Reissues & Archival Releases": 69,
+      "Peter Rehberg": 1,
+      "Regis": 6,
+      "Veronica Vasicka": 1
     },
     "score": 4.436231884057971
   },
@@ -1128,10 +1128,10 @@ export const chart = [
     "label": "XL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 49,
-      "Stephan Mathieu 2017": 1,
-      "Helm 2017": 1,
-      "Matt Colton 2017": 8
+      "Boomkat: Top Releases": 49,
+      "Stephan Mathieu": 1,
+      "Helm": 1,
+      "Matt Colton": 8
     },
     "score": 4.429081632653062
   },
@@ -1143,10 +1143,10 @@ export const chart = [
     "label": "Houndstooth",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Anastasia Kristensen 2017": 6,
-      "Pye Corner Audio 2017": 2,
-      "Matt Colton 2017": 4,
-      "Nightwave 2017": 1
+      "Anastasia Kristensen": 6,
+      "Pye Corner Audio": 2,
+      "Matt Colton": 4,
+      "Nightwave": 1
     },
     "score": 4.383333333333334
   },
@@ -1158,9 +1158,9 @@ export const chart = [
     "label": "Penultimate Press",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Miles 2017": 4,
-      "Turinn 2017": 8,
-      "Sean Canty (Demdike Stare) 2017": 2,
+      "Miles": 4,
+      "Turinn": 8,
+      "Sean Canty (Demdike Stare)": 2,
       "Dean (Boomkat)": 1
     },
     "score": 4.375
@@ -1173,10 +1173,10 @@ export const chart = [
     "label": "Optimo Music",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 6,
-      "Illum Sphere 2017": 1,
-      "Jon K 2017": 11,
-      "Sean Canty (Demdike Stare) 2017": 6
+      "Boomkat: Top Releases": 6,
+      "Illum Sphere": 1,
+      "Jon K": 11,
+      "Sean Canty (Demdike Stare)": 6
     },
     "score": 4.284848484848485
   },
@@ -1188,9 +1188,9 @@ export const chart = [
     "label": "Nyege Nyege Tapes",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 13,
-      "Raime 2017": 9,
-      "Rian Treanor 2017": 1,
+      "Boomkat: Top Releases": 13,
+      "Raime": 9,
+      "Rian Treanor": 1,
       "Conor Thomas": 6
     },
     "score": 4.270940170940171
@@ -1203,10 +1203,10 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 32,
-      "Kowton 2017": 1,
-      "Pessimist 2017": 13,
-      "Perc 2017": 9
+      "Prurient": 32,
+      "Kowton": 1,
+      "Pessimist": 13,
+      "Perc": 9
     },
     "score": 4.243856837606838
   },
@@ -1218,10 +1218,10 @@ export const chart = [
     "label": "Blume",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 2,
-      "Stephan Mathieu 2017": 8,
-      "Miles 2017": 3,
-      "Steve Barker 2017": 5
+      "Boomkat: Top Reissues & Archival Releases": 2,
+      "Stephan Mathieu": 8,
+      "Miles": 3,
+      "Steve Barker": 5
     },
     "score": 4.2316666666666665
   },
@@ -1233,10 +1233,10 @@ export const chart = [
     "label": "Empire Of Sign",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 18,
-      "Robert Aiki Aubrey Lowe 2017": 1,
-      "Pete Swanson 2017": 19,
-      "Bartolomé Sanson (Shelter Press) 2017": 20
+      "Boomkat: Top Reissues & Archival Releases": 18,
+      "Robert Aiki Aubrey Lowe": 1,
+      "Pete Swanson": 19,
+      "Bartolomé Sanson (Shelter Press)": 20
     },
     "score": 4.231637426900585
   },
@@ -1248,10 +1248,10 @@ export const chart = [
     "label": "Sonic Pieces",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 31,
-      "Félicia Atkinson 2017": 11,
-      "Erik K Skodvin 2017": 3,
-      "Bartolomé Sanson (Shelter Press) 2017": 2
+      "Boomkat: Most Overlooked Releases": 31,
+      "Félicia Atkinson": 11,
+      "Erik K Skodvin": 3,
+      "Bartolomé Sanson (Shelter Press)": 2
     },
     "score": 4.191300097751711
   },
@@ -1263,9 +1263,9 @@ export const chart = [
     "label": "The Death Of Rave",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 81,
-      "Maxwell Sterling 2017": 2,
-      "Felicita 2017": 10,
+      "Boomkat: Top Releases": 81,
+      "Maxwell Sterling": 2,
+      "Felicita": 10,
       "Conor Thomas": 4
     },
     "score": 4.172469135802469
@@ -1278,10 +1278,10 @@ export const chart = [
     "label": "Dais Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 33,
-      "Veronica Vasicka 2017": 6,
-      "Gizmo (Berceuse Heroique) 2017": 2,
-      "Sean Canty (Demdike Stare) 2017": 9
+      "Boomkat: Top Releases": 33,
+      "Veronica Vasicka": 6,
+      "Gizmo (Berceuse Heroique)": 2,
+      "Sean Canty (Demdike Stare)": 9
     },
     "score": 4.161616161616161
   },
@@ -1293,10 +1293,10 @@ export const chart = [
     "label": "The Trilogy Tapes",
     "genre": "Electronic",
     "chart_by": {
-      "Dale Cornish 2017": 2,
-      "Gizmo (Berceuse Heroique) 2017": 18,
-      "Shifted 2017": 8,
-      "Beatrice Dillon 2017": 21
+      "Dale Cornish": 2,
+      "Gizmo (Berceuse Heroique)": 18,
+      "Shifted": 8,
+      "Beatrice Dillon": 21
     },
     "score": 4.145634920634921
   },
@@ -1308,10 +1308,10 @@ export const chart = [
     "label": "Transversales Disques",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 27,
-      "Miles 2017": 7,
-      "Shapednoise 2017": 2,
-      "Bartolomé Sanson (Shelter Press) 2017": 29
+      "Boomkat: Top Reissues & Archival Releases": 27,
+      "Miles": 7,
+      "Shapednoise": 2,
+      "Bartolomé Sanson (Shelter Press)": 29
     },
     "score": 4.142875387702974
   },
@@ -1323,9 +1323,9 @@ export const chart = [
     "label": "FROZEN REEDS",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 11,
-      "Richard Chartier 2017": 18,
-      "Bartolomé Sanson (Shelter Press) 2017": 18,
+      "Boomkat: Top Reissues & Archival Releases": 11,
+      "Richard Chartier": 18,
+      "Bartolomé Sanson (Shelter Press)": 18,
       "Conor Thomas": 2
     },
     "score": 4.140404040404039
@@ -1338,10 +1338,10 @@ export const chart = [
     "label": "Hallow Ground",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 60,
-      "Boomkat: Most Overlooked Releases 2017": 22,
-      "Kate Carr 2017": 3,
-      "Andy Stott 2017": 4
+      "Boomkat: Top Releases": 60,
+      "Boomkat: Most Overlooked Releases": 22,
+      "Kate Carr": 3,
+      "Andy Stott": 4
     },
     "score": 4.12909090909091
   },
@@ -1353,10 +1353,10 @@ export const chart = [
     "label": "Lost Futures",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 7,
-      "Illum Sphere 2017": 11,
-      "Jon K 2017": 3,
-      "Ossia 2017": 19
+      "Boomkat: Top Reissues & Archival Releases": 7,
+      "Illum Sphere": 11,
+      "Jon K": 3,
+      "Ossia": 19
     },
     "score": 4.123946229209387
   },
@@ -1368,10 +1368,10 @@ export const chart = [
     "label": "Ribbon Music",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 69,
-      "Pye Corner Audio 2017": 4,
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 7,
-      "Jaime Williams 2017": 6
+      "Boomkat: Top Releases": 69,
+      "Pye Corner Audio": 4,
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 7,
+      "Jaime Williams": 6
     },
     "score": 4.114803312629399
   },
@@ -1383,9 +1383,9 @@ export const chart = [
     "label": "Leisure System",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Newworldaquarium 2017": 4,
-      "Peter Rehberg 2017": 10,
-      "Veronica Vasicka 2017": 10,
+      "Newworldaquarium": 4,
+      "Peter Rehberg": 10,
+      "Veronica Vasicka": 10,
       "Dean (Boomkat)": 24
     },
     "score": 4.098333333333334
@@ -1398,10 +1398,10 @@ export const chart = [
     "label": "PAN",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 91,
-      "Boomkat: Most Overlooked Releases 2017": 46,
-      "Elon Katz 2017": 10,
-      "Gizmo (Berceuse Heroique) 2017": 3
+      "Boomkat: Top Releases": 91,
+      "Boomkat: Most Overlooked Releases": 46,
+      "Elon Katz": 10,
+      "Gizmo (Berceuse Heroique)": 3
     },
     "score": 4.093212294951425
   },
@@ -1413,10 +1413,10 @@ export const chart = [
     "label": "Ecstatic",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 24,
-      "Pye Corner Audio 2017": 13,
-      "Low Jack 2017": 14,
-      "Tobi / Good News 2017": 4
+      "Boomkat: Top Reissues & Archival Releases": 24,
+      "Pye Corner Audio": 13,
+      "Low Jack": 14,
+      "Tobi / Good News": 4
     },
     "score": 4.088003663003662
   },
@@ -1428,10 +1428,10 @@ export const chart = [
     "label": "Diagonal",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 75,
-      "Lorenzo Senni 2017": 10,
-      "Primitive World 2017": 5,
-      "Jaime Williams 2017": 8
+      "Boomkat: Top Releases": 75,
+      "Lorenzo Senni": 10,
+      "Primitive World": 5,
+      "Jaime Williams": 8
     },
     "score": 4.087666666666667
   },
@@ -1443,9 +1443,9 @@ export const chart = [
     "label": "Soave",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 31,
-      "Lawrence English 2017": 6,
-      "Bartolomé Sanson (Shelter Press) 2017": 26,
+      "Boomkat: Top Reissues & Archival Releases": 31,
+      "Lawrence English": 6,
+      "Bartolomé Sanson (Shelter Press)": 26,
       "Dean (Boomkat)": 5
     },
     "score": 4.087477253928866
@@ -1458,9 +1458,9 @@ export const chart = [
     "label": "Mie Music",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 38,
-      "Boomkat: Most Overlooked Releases 2017": 39,
-      "John Powell-Jones 2017": 5,
+      "Boomkat: Top Releases": 38,
+      "Boomkat: Most Overlooked Releases": 39,
+      "John Powell-Jones": 5,
       "Jo (Boomkat)": 9
     },
     "score": 4.072613585245164
@@ -1473,10 +1473,10 @@ export const chart = [
     "label": "Editions Gravats",
     "genre": "Electronic",
     "chart_by": {
-      "Félicia Atkinson 2017": 15,
-      "Becka Diamond 2017": 6,
+      "Félicia Atkinson": 15,
+      "Becka Diamond": 6,
       "Will (Boomkat)": 25,
-      "Bartolomé Sanson (Shelter Press) 2017": 14
+      "Bartolomé Sanson (Shelter Press)": 14
     },
     "score": 4.068952380952381
   },
@@ -1488,10 +1488,10 @@ export const chart = [
     "label": "Mesh-Key",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 52,
-      "Keith Mcivor (Optimo) 2017": 11,
-      "Deathprod 2017": 7,
-      "Gizmo (Berceuse Heroique) 2017": 22
+      "Boomkat: Top Releases": 52,
+      "Keith Mcivor (Optimo)": 11,
+      "Deathprod": 7,
+      "Gizmo (Berceuse Heroique)": 22
     },
     "score": 4.05969030969031
   },
@@ -1503,10 +1503,10 @@ export const chart = [
     "label": "Aguirre",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 25,
-      "Stephan Mathieu 2017": 14,
+      "Boomkat: Top Reissues & Archival Releases": 25,
+      "Stephan Mathieu": 14,
       "Jo (Boomkat)": 8,
-      "Not Waving 2017": 17
+      "Not Waving": 17
     },
     "score": 4.059050420168067
   },
@@ -1518,10 +1518,10 @@ export const chart = [
     "label": "12th Isle",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 41,
-      "Trevor Jackson 2017": 15,
-      "Tony Poland 2017": 20,
-      "Not Waving 2017": 23
+      "Boomkat: Top Releases": 41,
+      "Trevor Jackson": 15,
+      "Tony Poland": 20,
+      "Not Waving": 23
     },
     "score": 4.036907034287734
   },
@@ -1533,9 +1533,9 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 5,
-      "Vladimir Ivkovic (Offen Music) 2017": 5,
-      "Finn 2017": 1
+      "Jon K": 5,
+      "Vladimir Ivkovic (Offen Music)": 5,
+      "Finn": 1
     },
     "score": 3.2800000000000002
   },
@@ -1547,9 +1547,9 @@ export const chart = [
     "label": "Profound Lore",
     "genre": "Electronic",
     "chart_by": {
-      "Becka Diamond 2017": 1,
-      "Low Jack 2017": 6,
-      "Shifted 2017": 5
+      "Becka Diamond": 1,
+      "Low Jack": 6,
+      "Shifted": 5
     },
     "score": 3.2733333333333334
   },
@@ -1561,9 +1561,9 @@ export const chart = [
     "label": "Thrill Jockey",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 9,
-      "Deathprod 2017": 1,
-      "Monique Recknagel 2017": 6
+      "Boomkat: Top Releases": 9,
+      "Deathprod": 1,
+      "Monique Recknagel": 6
     },
     "score": 3.2555555555555555
   },
@@ -1575,9 +1575,9 @@ export const chart = [
     "label": "Objects Limited",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 54,
-      "Rian Treanor 2017": 5,
-      "Bus 2017": 1
+      "Boomkat: Top Releases": 54,
+      "Rian Treanor": 5,
+      "Bus": 1
     },
     "score": 3.243703703703704
   },
@@ -1589,9 +1589,9 @@ export const chart = [
     "label": "Silent Street",
     "genre": "Disco / Boogie / Funk",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 20,
-      "Parris 2017": 6,
-      "Ossia 2017": 1
+      "Boomkat: Top Reissues & Archival Releases": 20,
+      "Parris": 6,
+      "Ossia": 1
     },
     "score": 3.243333333333333
   },
@@ -1603,9 +1603,9 @@ export const chart = [
     "label": "Bopside Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Illum Sphere 2017": 9,
-      "Mark Cremins (Rush Hour) 2017": 17,
-      "Ben Morris 2017": 1
+      "Illum Sphere": 9,
+      "Mark Cremins (Rush Hour)": 17,
+      "Ben Morris": 1
     },
     "score": 3.233986928104575
   },
@@ -1617,9 +1617,9 @@ export const chart = [
     "label": "The Helen Scarsdale Agency",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 32,
-      "Kate Carr 2017": 1,
-      "Richard Chartier 2017": 9
+      "Boomkat: Most Overlooked Releases": 32,
+      "Kate Carr": 1,
+      "Richard Chartier": 9
     },
     "score": 3.2284722222222224
   },
@@ -1631,9 +1631,9 @@ export const chart = [
     "label": "Hundebiss",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 23,
-      "Boomkat: Most Overlooked Releases 2017": 13,
-      "Low Jack 2017": 1
+      "Boomkat: Top Releases": 23,
+      "Boomkat: Most Overlooked Releases": 13,
+      "Low Jack": 1
     },
     "score": 3.2240802675585285
   },
@@ -1645,8 +1645,8 @@ export const chart = [
     "label": "Reel Torque",
     "genre": "Dub / Reggae",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 36,
-      "Sean Canty (Demdike Stare) 2017": 1,
+      "Boomkat: Top Reissues & Archival Releases": 36,
+      "Sean Canty (Demdike Stare)": 1,
       "Dean (Boomkat)": 14
     },
     "score": 3.21984126984127
@@ -1659,8 +1659,8 @@ export const chart = [
     "label": "Fade to Mind",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 83,
-      "N.M.O. 2017": 1,
+      "Boomkat: Top Releases": 83,
+      "N.M.O.": 1,
       "Conor Thomas": 15
     },
     "score": 3.21574297188755
@@ -1673,9 +1673,9 @@ export const chart = [
     "label": "HIDDEN HAWAII",
     "genre": "Electronic",
     "chart_by": {
-      "Logos 2017": 3,
-      "Pessimist 2017": 2,
-      "Ben Morris 2017": 5
+      "Logos": 3,
+      "Pessimist": 2,
+      "Ben Morris": 5
     },
     "score": 3.2066666666666666
   },
@@ -1687,9 +1687,9 @@ export const chart = [
     "label": "AVIAN",
     "genre": "Techno / House",
     "chart_by": {
-      "Veronica Vasicka 2017": 9,
-      "Shifted 2017": 3,
-      "Untold 2017": 2
+      "Veronica Vasicka": 9,
+      "Shifted": 3,
+      "Untold": 2
     },
     "score": 3.188888888888889
   },
@@ -1701,9 +1701,9 @@ export const chart = [
     "label": "V I S",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Jay Glass Dubs 2017": 3,
-      "Bokeh Versions 2017": 9,
-      "Tobi / Good News 2017": 2
+      "Jay Glass Dubs": 3,
+      "Bokeh Versions": 9,
+      "Tobi / Good News": 2
     },
     "score": 3.1888888888888887
   },
@@ -1715,9 +1715,9 @@ export const chart = [
     "label": "Whities Records",
     "genre": "Electronic",
     "chart_by": {
-      "Elon Katz 2017": 4,
-      "Jay Glass Dubs 2017": 6,
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 2
+      "Elon Katz": 4,
+      "Jay Glass Dubs": 6,
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 2
     },
     "score": 3.183333333333333
   },
@@ -1729,9 +1729,9 @@ export const chart = [
     "label": "MIC",
     "genre": "Electronic",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 3,
-      "Bokeh Versions 2017": 3,
-      "Tony Poland 2017": 13
+      "Keith Mcivor (Optimo)": 3,
+      "Bokeh Versions": 3,
+      "Tony Poland": 13
     },
     "score": 3.1487179487179486
   },
@@ -1743,9 +1743,9 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 17,
+      "Tom Lea": 17,
       "Simon (Boomkat)": 7,
-      "Felicita 2017": 2
+      "Felicita": 2
     },
     "score": 3.1403361344537815
   },
@@ -1757,9 +1757,9 @@ export const chart = [
     "label": "L.I.E.S.",
     "genre": "Techno / House",
     "chart_by": {
-      "Helm 2017": 8,
-      "Jon K 2017": 6,
-      "Veronica Vasicka 2017": 3
+      "Helm": 8,
+      "Jon K": 6,
+      "Veronica Vasicka": 3
     },
     "score": 3.125
   },
@@ -1771,9 +1771,9 @@ export const chart = [
     "label": "Diagonal",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Miles 2017": 10,
-      "Pessimist 2017": 3,
-      "Ossia 2017": 11
+      "Miles": 10,
+      "Pessimist": 3,
+      "Ossia": 11
     },
     "score": 3.104848484848485
   },
@@ -1786,7 +1786,7 @@ export const chart = [
     "genre": "Modern Classical / Ambient",
     "chart_by": {
       "Will (Boomkat)": 3,
-      "Erik K Skodvin 2017": 9,
+      "Erik K Skodvin": 9,
       "Josh (Boomkat)": 17
     },
     "score": 3.1006535947712415
@@ -1799,9 +1799,9 @@ export const chart = [
     "label": "Halcyon Veil",
     "genre": "Electronic",
     "chart_by": {
-      "Raime 2017": 6,
-      "Maxwell Sterling 2017": 4,
-      "Annex 2017": 17
+      "Raime": 6,
+      "Maxwell Sterling": 4,
+      "Annex": 17
     },
     "score": 3.095098039215686
   },
@@ -1813,9 +1813,9 @@ export const chart = [
     "label": "Planet Mu Records Ltd.",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 95,
-      "Tom Lea 2017": 3,
-      "John Twells 2017": 8
+      "Boomkat: Top Releases": 95,
+      "Tom Lea": 3,
+      "John Twells": 8
     },
     "score": 3.0937719298245616
   },
@@ -1827,9 +1827,9 @@ export const chart = [
     "label": "Smalltown Supersound",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 45,
-      "Will Long 2017": 3,
-      "a new line ( related ) 2017": 9
+      "Boomkat: Top Releases": 45,
+      "Will Long": 3,
+      "a new line ( related )": 9
     },
     "score": 3.0933333333333333
   },
@@ -1841,9 +1841,9 @@ export const chart = [
     "label": "Honest Jon's Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 84,
-      "Anthony Naples 2017": 5,
-      "Lorenzo Senni 2017": 4
+      "Boomkat: Top Reissues & Archival Releases": 84,
+      "Anthony Naples": 5,
+      "Lorenzo Senni": 4
     },
     "score": 3.0923809523809522
   },
@@ -1855,9 +1855,9 @@ export const chart = [
     "label": "EDITION RZ",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 13,
-      "Will Long 2017": 6,
-      "Craig Tattersall (The Boats) 2017": 5
+      "Boomkat: Top Reissues & Archival Releases": 13,
+      "Will Long": 6,
+      "Craig Tattersall (The Boats)": 5
     },
     "score": 3.0887179487179486
   },
@@ -1869,9 +1869,9 @@ export const chart = [
     "label": "Timedance",
     "genre": "Electronic",
     "chart_by": {
-      "Dale Cornish 2017": 4,
-      "Not Waving 2017": 13,
-      "Ossia 2017": 9
+      "Dale Cornish": 4,
+      "Not Waving": 13,
+      "Ossia": 9
     },
     "score": 3.0876068376068373
   },
@@ -1883,9 +1883,9 @@ export const chart = [
     "label": "Important Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 74,
-      "Richard Chartier 2017": 7,
-      "Richard Skelton 2017": 4
+      "Boomkat: Top Releases": 74,
+      "Richard Chartier": 7,
+      "Richard Skelton": 4
     },
     "score": 3.0812741312741307
   },
@@ -1897,9 +1897,9 @@ export const chart = [
     "label": "Freedom To Spend",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 91,
-      "Richard Chartier 2017": 20,
-      "Tobi / Good News 2017": 3
+      "Boomkat: Top Reissues & Archival Releases": 91,
+      "Richard Chartier": 20,
+      "Tobi / Good News": 3
     },
     "score": 3.078864468864469
   },
@@ -1911,9 +1911,9 @@ export const chart = [
     "label": "Hospital Productions",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 23,
-      "Prurient 2017": 10,
-      "Becka Diamond 2017": 4
+      "Boomkat: Most Overlooked Releases": 23,
+      "Prurient": 10,
+      "Becka Diamond": 4
     },
     "score": 3.078695652173913
   },
@@ -1925,9 +1925,9 @@ export const chart = [
     "label": "Downwards",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 64,
-      "Prurient 2017": 24,
-      "Joachim Nordwall 2017": 3
+      "Boomkat: Top Reissues & Archival Releases": 64,
+      "Prurient": 24,
+      "Joachim Nordwall": 3
     },
     "score": 3.078125
   },
@@ -1939,9 +1939,9 @@ export const chart = [
     "label": "The Helen Scarsdale Agency",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 76,
-      "Boomkat: Most Overlooked Releases 2017": 6,
-      "Richard Chartier 2017": 5
+      "Boomkat: Top Releases": 76,
+      "Boomkat: Most Overlooked Releases": 6,
+      "Richard Chartier": 5
     },
     "score": 3.0759649122807016
   },
@@ -1953,7 +1953,7 @@ export const chart = [
     "label": "Alga Marghen",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Stephan Mathieu 2017": 11,
+      "Stephan Mathieu": 11,
       "Will (Boomkat)": 37,
       "Josh (Boomkat)": 4
     },
@@ -1967,9 +1967,9 @@ export const chart = [
     "label": "Hemlock Recordings",
     "genre": "Techno / House",
     "chart_by": {
-      "Parris 2017": 9,
-      "Low Jack 2017": 19,
-      "Not Waving 2017": 5
+      "Parris": 9,
+      "Low Jack": 19,
+      "Not Waving": 5
     },
     "score": 3.072748538011696
   },
@@ -1981,8 +1981,8 @@ export const chart = [
     "label": "Drag City",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 18,
-      "Boomkat: Most Overlooked Releases 2017": 4,
+      "Boomkat: Top Releases": 18,
+      "Boomkat: Most Overlooked Releases": 4,
       "Conor Thomas": 40
     },
     "score": 3.066111111111111
@@ -1995,9 +1995,9 @@ export const chart = [
     "label": "STROOM",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 35,
-      "Carla Dal Forno 2017": 4,
-      "Not Waving 2017": 20
+      "Boomkat: Most Overlooked Releases": 35,
+      "Carla Dal Forno": 4,
+      "Not Waving": 20
     },
     "score": 3.0657142857142854
   },
@@ -2009,9 +2009,9 @@ export const chart = [
     "label": "Tresor Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Trevor Jackson 2017": 8,
-      "Primitive World 2017": 9,
-      "Ben Morris 2017": 11
+      "Trevor Jackson": 8,
+      "Primitive World": 9,
+      "Ben Morris": 11
     },
     "score": 3.06540404040404
   },
@@ -2023,9 +2023,9 @@ export const chart = [
     "label": "Bokeh Versions",
     "genre": "Dub / Reggae",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 28,
-      "Jay Glass Dubs 2017": 8,
-      "Low Jack 2017": 7
+      "Boomkat: Top Reissues & Archival Releases": 28,
+      "Jay Glass Dubs": 8,
+      "Low Jack": 7
     },
     "score": 3.0607142857142855
   },
@@ -2037,9 +2037,9 @@ export const chart = [
     "label": "Different Circles",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Mumdance 2017": 8,
-      "Logos 2017": 9,
-      "Low Jack 2017": 18
+      "Mumdance": 8,
+      "Logos": 9,
+      "Low Jack": 18
     },
     "score": 3.058333333333333
   },
@@ -2051,9 +2051,9 @@ export const chart = [
     "label": "STROOM",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 16,
-      "Pete Swanson 2017": 13,
-      "Jay Glass Dubs 2017": 7
+      "Boomkat: Top Reissues & Archival Releases": 16,
+      "Pete Swanson": 13,
+      "Jay Glass Dubs": 7
     },
     "score": 3.056456043956044
   },
@@ -2065,9 +2065,9 @@ export const chart = [
     "label": "L.I.E.S.",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Jon K 2017": 7,
-      "Mark Cremins (Rush Hour) 2017": 16,
-      "Low Jack 2017": 15
+      "Jon K": 7,
+      "Mark Cremins (Rush Hour)": 16,
+      "Low Jack": 15
     },
     "score": 3.054404761904762
   },
@@ -2079,9 +2079,9 @@ export const chart = [
     "label": "MW",
     "genre": "Techno / House",
     "chart_by": {
-      "Annex 2017": 28,
-      "Croww 2017": 15,
-      "Bus 2017": 6
+      "Annex": 28,
+      "Croww": 15,
+      "Bus": 6
     },
     "score": 3.0538095238095235
   },
@@ -2093,9 +2093,9 @@ export const chart = [
     "label": "BLACK TRUFFLE",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 39,
-      "Teresa Winter 2017": 8,
-      "Joachim Nordwall 2017": 9
+      "Boomkat: Top Reissues & Archival Releases": 39,
+      "Teresa Winter": 8,
+      "Joachim Nordwall": 9
     },
     "score": 3.052350427350427
   },
@@ -2107,9 +2107,9 @@ export const chart = [
     "label": "PAN",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 48,
-      "Maxwell Sterling 2017": 9,
-      "Erik K Skodvin 2017": 8
+      "Boomkat: Top Releases": 48,
+      "Maxwell Sterling": 9,
+      "Erik K Skodvin": 8
     },
     "score": 3.0513888888888885
   },
@@ -2121,9 +2121,9 @@ export const chart = [
     "label": "COLLAPSING MARKET",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 57,
-      "Lawrence English 2017": 8,
-      "Low Jack 2017": 9
+      "Boomkat: Top Reissues & Archival Releases": 57,
+      "Lawrence English": 8,
+      "Low Jack": 9
     },
     "score": 3.0507309941520466
   },
@@ -2135,9 +2135,9 @@ export const chart = [
     "label": "MISSISSIPPI",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 70,
-      "Iona Fortune 2017": 8,
-      "Stephan Mathieu 2017": 13
+      "Boomkat: Top Reissues & Archival Releases": 70,
+      "Iona Fortune": 8,
+      "Stephan Mathieu": 13
     },
     "score": 3.043241758241758
   },
@@ -2149,8 +2149,8 @@ export const chart = [
     "label": "L.I.E.S.",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 42,
-      "Tony Poland 2017": 7,
+      "Boomkat: Top Releases": 42,
+      "Tony Poland": 7,
       "Will (Boomkat)": 28
     },
     "score": 3.0404761904761903
@@ -2163,9 +2163,9 @@ export const chart = [
     "label": "The Trilogy Tapes",
     "genre": "Electronic",
     "chart_by": {
-      "Cera Khin 2017": 10,
-      "Low Jack 2017": 20,
-      "Beatrice Dillon 2017": 23
+      "Cera Khin": 10,
+      "Low Jack": 20,
+      "Beatrice Dillon": 23
     },
     "score": 3.038695652173913
   },
@@ -2177,8 +2177,8 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 32,
-      "Tony Poland 2017": 8,
+      "Boomkat: Top Releases": 32,
+      "Tony Poland": 8,
       "Conor Thomas": 44
     },
     "score": 3.0357954545454544
@@ -2191,9 +2191,9 @@ export const chart = [
     "label": "We Release Whatever The Fuck We Want",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 85,
-      "Félicia Atkinson 2017": 8,
-      "Bartolomé Sanson (Shelter Press) 2017": 24
+      "Boomkat: Top Reissues & Archival Releases": 85,
+      "Félicia Atkinson": 8,
+      "Bartolomé Sanson (Shelter Press)": 24
     },
     "score": 3.035686274509804
   },
@@ -2205,9 +2205,9 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 24,
-      "Félicia Atkinson 2017": 19,
-      "Bus 2017": 12
+      "Boomkat: Top Releases": 24,
+      "Félicia Atkinson": 19,
+      "Bus": 12
     },
     "score": 3.0355263157894736
   },
@@ -2219,9 +2219,9 @@ export const chart = [
     "label": "Dark Entries Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 76,
-      "Pye Corner Audio 2017": 9,
-      "Richard Chartier 2017": 23
+      "Boomkat: Top Reissues & Archival Releases": 76,
+      "Pye Corner Audio": 9,
+      "Richard Chartier": 23
     },
     "score": 3.0335494533435035
   },
@@ -2233,9 +2233,9 @@ export const chart = [
     "label": "Sacred Bones Records",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 44,
-      "Boomkat: Most Overlooked Releases 2017": 21,
-      "Richard Chartier 2017": 11
+      "Boomkat: Top Releases": 44,
+      "Boomkat: Most Overlooked Releases": 21,
+      "Richard Chartier": 11
     },
     "score": 3.0322510822510824
   },
@@ -2247,7 +2247,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 37,
+      "Boomkat: Top Releases": 37,
       "Liam (Boomkat)": 10,
       "Conor Thomas": 34
     },
@@ -2261,8 +2261,8 @@ export const chart = [
     "label": "Freedom To Spend",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 73,
-      "Félicia Atkinson 2017": 16,
+      "Boomkat: Top Reissues & Archival Releases": 73,
+      "Félicia Atkinson": 16,
       "Dean (Boomkat)": 15
     },
     "score": 3.0285730593607307
@@ -2275,9 +2275,9 @@ export const chart = [
     "label": "Mistry",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 96,
-      "Boomkat: Most Overlooked Releases 2017": 42,
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 11
+      "Boomkat: Top Releases": 96,
+      "Boomkat: Most Overlooked Releases": 42,
+      "Kiran Sande (Blackest Ever Black / Low Company)": 11
     },
     "score": 3.025027056277056
   },
@@ -2289,9 +2289,9 @@ export const chart = [
     "label": "Boomkat Editions",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 30,
-      "Annex 2017": 40,
-      "Bus 2017": 17
+      "Boomkat: Top Reissues & Archival Releases": 30,
+      "Annex": 40,
+      "Bus": 17
     },
     "score": 3.0234313725490196
   },
@@ -2303,9 +2303,9 @@ export const chart = [
     "label": "Offen Music",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 80,
-      "Mark Cremins (Rush Hour) 2017": 20,
-      "Not Waving 2017": 29
+      "Boomkat: Top Releases": 80,
+      "Mark Cremins (Rush Hour)": 20,
+      "Not Waving": 29
     },
     "score": 3.0193965517241375
   },
@@ -2317,9 +2317,9 @@ export const chart = [
     "label": "UIQ",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 90,
-      "Annex 2017": 42,
-      "Low Jack 2017": 26
+      "Boomkat: Top Releases": 90,
+      "Annex": 42,
+      "Low Jack": 26
     },
     "score": 3.0146764346764345
   },
@@ -2344,8 +2344,8 @@ export const chart = [
     "label": "MILAN",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Monique Recknagel 2017": 1,
-      "Erik K Skodvin 2017": 2
+      "Monique Recknagel": 1,
+      "Erik K Skodvin": 2
     },
     "score": 2.3000000000000003
   },
@@ -2357,8 +2357,8 @@ export const chart = [
     "label": "Presto!?",
     "genre": "Electronic",
     "chart_by": {
-      "Lorenzo Senni 2017": 1,
-      "Gábor Lázár 2017": 5
+      "Lorenzo Senni": 1,
+      "Gábor Lázár": 5
     },
     "score": 2.24
   },
@@ -2370,8 +2370,8 @@ export const chart = [
     "label": "Smalltown Supersound",
     "genre": "Electronic",
     "chart_by": {
-      "Akira Rabelais 2017": 6,
-      "Pye Corner Audio 2017": 1
+      "Akira Rabelais": 6,
+      "Pye Corner Audio": 1
     },
     "score": 2.2333333333333334
   },
@@ -2383,8 +2383,8 @@ export const chart = [
     "label": "P.W. Elverum & Sun",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "The Bug 2017": 1,
-      "Lawrence English 2017": 9
+      "The Bug": 1,
+      "Lawrence English": 9
     },
     "score": 2.2222222222222223
   },
@@ -2396,8 +2396,8 @@ export const chart = [
     "label": "Sub Rosa",
     "genre": "Electronic",
     "chart_by": {
-      "Samuel Kerridge 2017": 1,
-      "Ossia 2017": 18
+      "Samuel Kerridge": 1,
+      "Ossia": 18
     },
     "score": 2.2111111111111112
   },
@@ -2409,8 +2409,8 @@ export const chart = [
     "label": "HESSLE AUDIO",
     "genre": "Techno / House",
     "chart_by": {
-      "Annex 2017": 1,
-      "Low Jack 2017": 23
+      "Annex": 1,
+      "Low Jack": 23
     },
     "score": 2.208695652173913
   },
@@ -2422,7 +2422,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 1,
+      "Swing Ting": 1,
       "Conor Thomas": 30
     },
     "score": 2.206666666666667
@@ -2435,7 +2435,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 1,
+      "Vladimir Ivkovic (Offen Music)": 1,
       "Conor Thomas": 43
     },
     "score": 2.204651162790698
@@ -2448,8 +2448,8 @@ export const chart = [
     "label": "Tresor Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 51,
-      "a new line ( related ) 2017": 1
+      "Boomkat: Most Overlooked Releases": 51,
+      "a new line ( related )": 1
     },
     "score": 2.203921568627451
   },
@@ -2461,8 +2461,8 @@ export const chart = [
     "label": "Sahko Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 62,
-      "Will Long 2017": 1
+      "Boomkat: Top Reissues & Archival Releases": 62,
+      "Will Long": 1
     },
     "score": 2.203225806451613
   },
@@ -2474,8 +2474,8 @@ export const chart = [
     "label": "Optimo Music",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 75,
-      "Iona Fortune 2017": 1
+      "Boomkat: Top Reissues & Archival Releases": 75,
+      "Iona Fortune": 1
     },
     "score": 2.2026666666666666
   },
@@ -2500,8 +2500,8 @@ export const chart = [
     "label": "Constellation",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Andrew Hargreaves 2017": 2,
-      "Sarah Davachi 2017": 2
+      "Andrew Hargreaves": 2,
+      "Sarah Davachi": 2
     },
     "score": 2.2
   },
@@ -2513,8 +2513,8 @@ export const chart = [
     "label": "Swing Ting",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Swing Ting 2017": 2,
-      "Finn 2017": 2
+      "Swing Ting": 2,
+      "Finn": 2
     },
     "score": 2.2
   },
@@ -2526,8 +2526,8 @@ export const chart = [
     "label": "Downwards",
     "genre": "Techno / House",
     "chart_by": {
-      "Perc 2017": 2,
-      "JASSS 2017": 6
+      "Perc": 2,
+      "JASSS": 6
     },
     "score": 2.1333333333333333
   },
@@ -2539,8 +2539,8 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Maxwell Sterling 2017": 7,
-      "Nina 2017": 2
+      "Maxwell Sterling": 7,
+      "Nina": 2
     },
     "score": 2.1285714285714286
   },
@@ -2552,7 +2552,7 @@ export const chart = [
     "label": "Astral Industries",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 2,
+      "Kiran Sande (Blackest Ever Black / Low Company)": 2,
       "Will (Boomkat)": 12
     },
     "score": 2.1166666666666667
@@ -2565,8 +2565,8 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Newworldaquarium 2017": 2,
-      "Pete Swanson 2017": 12
+      "Newworldaquarium": 2,
+      "Pete Swanson": 12
     },
     "score": 2.1166666666666667
   },
@@ -2578,8 +2578,8 @@ export const chart = [
     "label": "Whities Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Bokeh Versions 2017": 2,
-      "Slip 2017": 13
+      "Bokeh Versions": 2,
+      "Slip": 13
     },
     "score": 2.1153846153846154
   },
@@ -2591,8 +2591,8 @@ export const chart = [
     "label": "Morphine Records",
     "genre": "World",
     "chart_by": {
-      "CS + Kreme 2017": 2,
-      "Mark Cremins (Rush Hour) 2017": 15
+      "CS + Kreme": 2,
+      "Mark Cremins (Rush Hour)": 15
     },
     "score": 2.1133333333333333
   },
@@ -2604,8 +2604,8 @@ export const chart = [
     "label": "HESSLE AUDIO",
     "genre": "Electronic",
     "chart_by": {
-      "a new line ( related ) 2017": 5,
-      "Untold 2017": 3
+      "a new line ( related )": 5,
+      "Untold": 3
     },
     "score": 2.106666666666667
   },
@@ -2617,8 +2617,8 @@ export const chart = [
     "label": "(Play Loud! Productions)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 3,
-      "Carla Dal Forno 2017": 5
+      "Kiran Sande (Blackest Ever Black / Low Company)": 3,
+      "Carla Dal Forno": 5
     },
     "score": 2.1066666666666665
   },
@@ -2630,8 +2630,8 @@ export const chart = [
     "label": "Black Editions",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 41,
-      "Lawrence English 2017": 2
+      "Boomkat: Top Reissues & Archival Releases": 41,
+      "Lawrence English": 2
     },
     "score": 2.104878048780488
   },
@@ -2643,8 +2643,8 @@ export const chart = [
     "label": "Tresor Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Gábor Lázár 2017": 3,
-      "Joachim Nordwall 2017": 7
+      "Gábor Lázár": 3,
+      "Joachim Nordwall": 7
     },
     "score": 2.095238095238095
   },
@@ -2656,8 +2656,8 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Pye Corner Audio 2017": 3,
-      "Annex 2017": 15
+      "Pye Corner Audio": 3,
+      "Annex": 15
     },
     "score": 2.0799999999999996
   },
@@ -2669,8 +2669,8 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Prurient 2017": 20,
-      "Primitive World 2017": 3
+      "Prurient": 20,
+      "Primitive World": 3
     },
     "score": 2.0766666666666667
   },
@@ -2682,8 +2682,8 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Low Jack 2017": 8,
-      "Perc 2017": 4
+      "Low Jack": 8,
+      "Perc": 4
     },
     "score": 2.0749999999999997
   },
@@ -2695,7 +2695,7 @@ export const chart = [
     "label": "Forever Now",
     "genre": "Electronic",
     "chart_by": {
-      "Maxwell Sterling 2017": 3,
+      "Maxwell Sterling": 3,
       "Josh (Boomkat)": 32
     },
     "score": 2.0729166666666665
@@ -2708,8 +2708,8 @@ export const chart = [
     "label": "Optimo Music",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 36,
-      "Boomkat: Most Overlooked Releases 2017": 3
+      "Boomkat: Top Releases": 36,
+      "Boomkat: Most Overlooked Releases": 3
     },
     "score": 2.0722222222222224
   },
@@ -2721,8 +2721,8 @@ export const chart = [
     "label": "No Corner",
     "genre": "Electronic",
     "chart_by": {
-      "Trevor Jackson 2017": 9,
-      "Ossia 2017": 4
+      "Trevor Jackson": 9,
+      "Ossia": 4
     },
     "score": 2.072222222222222
   },
@@ -2734,8 +2734,8 @@ export const chart = [
     "label": "Cejero",
     "genre": "Electronic",
     "chart_by": {
-      "Nina 2017": 9,
-      "Gizmo (Berceuse Heroique) 2017": 4
+      "Nina": 9,
+      "Gizmo (Berceuse Heroique)": 4
     },
     "score": 2.072222222222222
   },
@@ -2747,7 +2747,7 @@ export const chart = [
     "label": "Local Action",
     "genre": "Techno / House",
     "chart_by": {
-      "Equiknoxx 2017": 3,
+      "Equiknoxx": 3,
       "Conor Thomas": 49
     },
     "score": 2.0707482993197277
@@ -2760,8 +2760,8 @@ export const chart = [
     "label": "Hundebiss",
     "genre": "Beats / Hip Hop",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 53,
-      "Andy Stott 2017": 3
+      "Boomkat: Top Reissues & Archival Releases": 53,
+      "Andy Stott": 3
     },
     "score": 2.0704402515723275
   },
@@ -2773,8 +2773,8 @@ export const chart = [
     "label": "ELISION FIELDS / Les Séries Shandar",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 60,
-      "Steve Barker 2017": 3
+      "Boomkat: Top Reissues & Archival Releases": 60,
+      "Steve Barker": 3
     },
     "score": 2.0700000000000003
   },
@@ -2786,8 +2786,8 @@ export const chart = [
     "label": "History Always Favours The Winners",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Regis 2017": 13,
-      "John Powell-Jones 2017": 4
+      "Regis": 13,
+      "John Powell-Jones": 4
     },
     "score": 2.065384615384615
   },
@@ -2799,8 +2799,8 @@ export const chart = [
     "label": "SAHEL SOUNDS",
     "genre": "World",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 8,
-      "Mark Fell 2017": 5
+      "Gizmo (Berceuse Heroique)": 8,
+      "Mark Fell": 5
     },
     "score": 2.065
   },
@@ -2812,7 +2812,7 @@ export const chart = [
     "label": "Dais Records",
     "genre": "Electronic",
     "chart_by": {
-      "Pete Swanson 2017": 14,
+      "Pete Swanson": 14,
       "Dean (Boomkat)": 4
     },
     "score": 2.064285714285714
@@ -2825,8 +2825,8 @@ export const chart = [
     "label": "Mood Hut",
     "genre": "Electronic",
     "chart_by": {
-      "CS + Kreme 2017": 5,
-      "Bus 2017": 9
+      "CS + Kreme": 5,
+      "Bus": 9
     },
     "score": 2.062222222222222
   },
@@ -2838,8 +2838,8 @@ export const chart = [
     "label": "Timedance",
     "genre": "Techno / House",
     "chart_by": {
-      "Tic 2017": 6,
-      "Kowton 2017": 7
+      "Tic": 6,
+      "Kowton": 7
     },
     "score": 2.0619047619047617
   },
@@ -2851,8 +2851,8 @@ export const chart = [
     "label": "(Optical Sound)",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 4,
-      "Richard Chartier 2017": 17
+      "Regis": 4,
+      "Richard Chartier": 17
     },
     "score": 2.0617647058823527
   },
@@ -2865,7 +2865,7 @@ export const chart = [
     "genre": "Electronic",
     "chart_by": {
       "Dean (Boomkat)": 10,
-      "Joachim Nordwall 2017": 5
+      "Joachim Nordwall": 5
     },
     "score": 2.06
   },
@@ -2878,7 +2878,7 @@ export const chart = [
     "genre": "",
     "chart_by": {
       "Matt Johnson": 5,
-      "Slip 2017": 10
+      "Slip": 10
     },
     "score": 2.06
   },
@@ -2890,8 +2890,8 @@ export const chart = [
     "label": "Ecstatic",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Robert Aiki Aubrey Lowe 2017": 6,
-      "Primitive World 2017": 8
+      "Robert Aiki Aubrey Lowe": 6,
+      "Primitive World": 8
     },
     "score": 2.058333333333333
   },
@@ -2903,8 +2903,8 @@ export const chart = [
     "label": "(Senufo Editions)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 5,
-      "Lorenzo Senni 2017": 11
+      "Stephan Mathieu": 5,
+      "Lorenzo Senni": 11
     },
     "score": 2.058181818181818
   },
@@ -2916,8 +2916,8 @@ export const chart = [
     "label": "Houndstooth",
     "genre": "Techno / House",
     "chart_by": {
-      "Matt Colton 2017": 7,
-      "Parris 2017": 7
+      "Matt Colton": 7,
+      "Parris": 7
     },
     "score": 2.057142857142857
   },
@@ -2929,8 +2929,8 @@ export const chart = [
     "label": "Teklife",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Kode 9 2017": 7,
-      "N.M.O. 2017": 7
+      "Kode 9": 7,
+      "N.M.O.": 7
     },
     "score": 2.057142857142857
   },
@@ -2942,8 +2942,8 @@ export const chart = [
     "label": "BLACK TRUFFLE",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Helm 2017": 5,
-      "Mark Fell 2017": 12
+      "Helm": 5,
+      "Mark Fell": 12
     },
     "score": 2.0566666666666666
   },
@@ -2968,8 +2968,8 @@ export const chart = [
     "label": "OBJEKT",
     "genre": "Techno / House",
     "chart_by": {
-      "Tic 2017": 9,
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 6
+      "Tic": 9,
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 6
     },
     "score": 2.0555555555555554
   },
@@ -2981,7 +2981,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 4,
+      "Errorsmith": 4,
       "Conor Thomas": 48
     },
     "score": 2.0541666666666667
@@ -2994,8 +2994,8 @@ export const chart = [
     "label": "Big Dada",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 54,
-      "Parris 2017": 4
+      "Boomkat: Most Overlooked Releases": 54,
+      "Parris": 4
     },
     "score": 2.053703703703704
   },
@@ -3007,8 +3007,8 @@ export const chart = [
     "label": "Ideologic Organ",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 7,
-      "Ben Morris 2017": 8
+      "Andy Votel's Faker's Dozen.": 7,
+      "Ben Morris": 8
     },
     "score": 2.0535714285714284
   },
@@ -3020,8 +3020,8 @@ export const chart = [
     "label": "Where To Now?",
     "genre": "Electronic",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 8,
-      "Bokeh Versions 2017": 7
+      "Ian Fenton (Frozen Reeds)": 8,
+      "Bokeh Versions": 7
     },
     "score": 2.0535714285714284
   },
@@ -3033,8 +3033,8 @@ export const chart = [
     "label": "Whities Records",
     "genre": "Electronic",
     "chart_by": {
-      "Elon Katz 2017": 5,
-      "Not Waving 2017": 15
+      "Elon Katz": 5,
+      "Not Waving": 15
     },
     "score": 2.0533333333333332
   },
@@ -3046,8 +3046,8 @@ export const chart = [
     "label": "OMINIRA",
     "genre": "Techno / House",
     "chart_by": {
-      "Newworldaquarium 2017": 6,
-      "Kowton 2017": 10
+      "Newworldaquarium": 6,
+      "Kowton": 10
     },
     "score": 2.0533333333333332
   },
@@ -3059,8 +3059,8 @@ export const chart = [
     "label": "Chained Library",
     "genre": "Techno / House",
     "chart_by": {
-      "Elon Katz 2017": 7,
-      "Richard Skelton 2017": 9
+      "Elon Katz": 7,
+      "Richard Skelton": 9
     },
     "score": 2.0507936507936506
   },
@@ -3072,8 +3072,8 @@ export const chart = [
     "label": "UNKNOWN LABEL",
     "genre": "Electronic",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 7,
-      "Bus 2017": 10
+      "Mark Cremins (Rush Hour)": 7,
+      "Bus": 10
     },
     "score": 2.0485714285714285
   },
@@ -3085,8 +3085,8 @@ export const chart = [
     "label": "Livity Sound Recordings",
     "genre": "Techno / House",
     "chart_by": {
-      "Cera Khin 2017": 7,
-      "Low Jack 2017": 10
+      "Cera Khin": 7,
+      "Low Jack": 10
     },
     "score": 2.0485714285714285
   },
@@ -3098,8 +3098,8 @@ export const chart = [
     "label": "UIQ",
     "genre": "Electronic",
     "chart_by": {
-      "Jay Glass Dubs 2017": 5,
-      "Low Jack 2017": 25
+      "Jay Glass Dubs": 5,
+      "Low Jack": 25
     },
     "score": 2.048
   },
@@ -3111,8 +3111,8 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Helm 2017": 6,
-      "Croww 2017": 14
+      "Helm": 6,
+      "Croww": 14
     },
     "score": 2.0476190476190474
   },
@@ -3124,8 +3124,8 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Electronic",
     "chart_by": {
-      "Maxwell Sterling 2017": 6,
-      "Mark Cremins (Rush Hour) 2017": 14
+      "Maxwell Sterling": 6,
+      "Mark Cremins (Rush Hour)": 14
     },
     "score": 2.0476190476190474
   },
@@ -3137,8 +3137,8 @@ export const chart = [
     "label": "(Jolly Discs)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 9,
-      "Carla Dal Forno 2017": 8
+      "Kiran Sande (Blackest Ever Black / Low Company)": 9,
+      "Carla Dal Forno": 8
     },
     "score": 2.047222222222222
   },
@@ -3150,8 +3150,8 @@ export const chart = [
     "label": "Drifting Over",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 30,
-      "Anastasia Kristensen 2017": 5
+      "Prurient": 30,
+      "Anastasia Kristensen": 5
     },
     "score": 2.046666666666667
   },
@@ -3163,8 +3163,8 @@ export const chart = [
     "label": "Reel Torque",
     "genre": "Electronic",
     "chart_by": {
-      "Logos 2017": 5,
-      "Annex 2017": 37
+      "Logos": 5,
+      "Annex": 37
     },
     "score": 2.0454054054054054
   },
@@ -3176,8 +3176,8 @@ export const chart = [
     "label": "Cosmo Rhythmatic",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 49,
-      "Shapednoise 2017": 5
+      "Boomkat: Most Overlooked Releases": 49,
+      "Shapednoise": 5
     },
     "score": 2.0440816326530613
   },
@@ -3189,8 +3189,8 @@ export const chart = [
     "label": "Anno",
     "genre": "Techno / House",
     "chart_by": {
-      "Anthony Naples 2017": 7,
-      "Huerco S. 2017": 14
+      "Anthony Naples": 7,
+      "Huerco S.": 14
     },
     "score": 2.0428571428571427
   },
@@ -3202,8 +3202,8 @@ export const chart = [
     "label": "Finders Keepers Records",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 92,
-      "Andy Votel's Faker's Dozen. 2017": 5
+      "Boomkat: Top Reissues & Archival Releases": 92,
+      "Andy Votel's Faker's Dozen.": 5
     },
     "score": 2.042173913043478
   },
@@ -3215,8 +3215,8 @@ export const chart = [
     "label": "Rabid Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 26,
-      "Nightwave 2017": 6
+      "Boomkat: Top Releases": 26,
+      "Nightwave": 6
     },
     "score": 2.041025641025641
   },
@@ -3241,7 +3241,7 @@ export const chart = [
     "label": "Blume",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 49,
+      "Boomkat: Top Reissues & Archival Releases": 49,
       "Dean (Boomkat)": 6
     },
     "score": 2.0374149659863945
@@ -3255,7 +3255,7 @@ export const chart = [
     "genre": "Electronic",
     "chart_by": {
       "Dean (Boomkat)": 19,
-      "Beatrice Dillon 2017": 8
+      "Beatrice Dillon": 8
     },
     "score": 2.0355263157894736
   },
@@ -3267,8 +3267,8 @@ export const chart = [
     "label": "Japan Blues",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 92,
-      "Anthony Naples 2017": 6
+      "Boomkat: Top Releases": 92,
+      "Anthony Naples": 6
     },
     "score": 2.0355072463768114
   },
@@ -3280,8 +3280,8 @@ export const chart = [
     "label": "52Hz",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 29,
-      "The Bug 2017": 7
+      "Boomkat: Top Releases": 29,
+      "The Bug": 7
     },
     "score": 2.035467980295566
   },
@@ -3293,8 +3293,8 @@ export const chart = [
     "label": "Freedom To Spend",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 34,
-      "Steve Barker 2017": 7
+      "Boomkat: Top Reissues & Archival Releases": 34,
+      "Steve Barker": 7
     },
     "score": 2.034453781512605
   },
@@ -3306,8 +3306,8 @@ export const chart = [
     "label": "Smalltown Supersound",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 10,
-      "Vereker 2017": 14
+      "Boomkat: Top Reissues & Archival Releases": 10,
+      "Vereker": 14
     },
     "score": 2.0342857142857143
   },
@@ -3319,8 +3319,8 @@ export const chart = [
     "label": "Wah Wah Wino",
     "genre": "Electronic",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 15,
-      "Tobi / Good News 2017": 10
+      "Kiran Sande (Blackest Ever Black / Low Company)": 15,
+      "Tobi / Good News": 10
     },
     "score": 2.0333333333333337
   },
@@ -3332,8 +3332,8 @@ export const chart = [
     "label": "Downwards",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Prurient 2017": 26,
-      "Will Long 2017": 8
+      "Prurient": 26,
+      "Will Long": 8
     },
     "score": 2.0326923076923076
   },
@@ -3345,8 +3345,8 @@ export const chart = [
     "label": "Superior Viaduct",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 63,
-      "Nina 2017": 7
+      "Boomkat: Top Reissues & Archival Releases": 63,
+      "Nina": 7
     },
     "score": 2.0317460317460316
   },
@@ -3358,8 +3358,8 @@ export const chart = [
     "label": "Príncipe",
     "genre": "Techno / House",
     "chart_by": {
-      "Low Jack 2017": 30,
-      "Bus 2017": 8
+      "Low Jack": 30,
+      "Bus": 8
     },
     "score": 2.0316666666666667
   },
@@ -3371,8 +3371,8 @@ export const chart = [
     "label": "Root Strata",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 15,
-      "Robert Aiki Aubrey Lowe 2017": 11
+      "Boomkat: Most Overlooked Releases": 15,
+      "Robert Aiki Aubrey Lowe": 11
     },
     "score": 2.0315151515151517
   },
@@ -3384,8 +3384,8 @@ export const chart = [
     "label": "OPAL TAPES",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 19,
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 10
+      "Boomkat: Most Overlooked Releases": 19,
+      "Stephen Bishop (Basic House / Opal Tapes)": 10
     },
     "score": 2.0305263157894737
   },
@@ -3397,7 +3397,7 @@ export const chart = [
     "label": "17853 Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Ben Morris 2017": 10,
+      "Ben Morris": 10,
       "Dean (Boomkat)": 20
     },
     "score": 2.03
@@ -3410,7 +3410,7 @@ export const chart = [
     "label": "Spectrum Spools",
     "genre": "Electronic",
     "chart_by": {
-      "Prurient 2017": 13,
+      "Prurient": 13,
       "Will (Boomkat)": 14
     },
     "score": 2.0296703296703296
@@ -3423,8 +3423,8 @@ export const chart = [
     "label": "Different Circles",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Logos 2017": 10,
-      "Annex 2017": 24
+      "Logos": 10,
+      "Annex": 24
     },
     "score": 2.0283333333333333
   },
@@ -3436,8 +3436,8 @@ export const chart = [
     "label": "PORRIDGE BULLET",
     "genre": "Dub / Reggae",
     "chart_by": {
-      "Trevor Jackson 2017": 16,
-      "Mark Cremins (Rush Hour) 2017": 13
+      "Trevor Jackson": 16,
+      "Mark Cremins (Rush Hour)": 13
     },
     "score": 2.0278846153846155
   },
@@ -3449,8 +3449,8 @@ export const chart = [
     "label": "Unknown Precept",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Trevor Jackson 2017": 17,
-      "Low Jack 2017": 13
+      "Trevor Jackson": 17,
+      "Low Jack": 13
     },
     "score": 2.0271493212669682
   },
@@ -3462,8 +3462,8 @@ export const chart = [
     "label": "Discrepant",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 30,
-      "Nyege Nyege Tapes 2017": 10
+      "Boomkat: Most Overlooked Releases": 30,
+      "Nyege Nyege Tapes": 10
     },
     "score": 2.026666666666667
   },
@@ -3475,8 +3475,8 @@ export const chart = [
     "label": "12th Isle",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 26,
-      "Tony Poland 2017": 11
+      "Boomkat: Most Overlooked Releases": 26,
+      "Tony Poland": 11
     },
     "score": 2.0258741258741257
   },
@@ -3488,8 +3488,8 @@ export const chart = [
     "label": "Nyege Nyege Tapes",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 56,
-      "Boomkat: Most Overlooked Releases 2017": 9
+      "Boomkat: Top Releases": 56,
+      "Boomkat: Most Overlooked Releases": 9
     },
     "score": 2.0257936507936507
   },
@@ -3501,8 +3501,8 @@ export const chart = [
     "label": "Subtext",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 62,
-      "John Twells 2017": 9
+      "Boomkat: Top Releases": 62,
+      "John Twells": 9
     },
     "score": 2.0254480286738348
   },
@@ -3527,8 +3527,8 @@ export const chart = [
     "label": "Soundman Chronicles",
     "genre": "Basic Channel / Dub Techno",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 65,
-      "Ben Morris 2017": 9
+      "Boomkat: Top Releases": 65,
+      "Ben Morris": 9
     },
     "score": 2.025299145299145
   },
@@ -3540,7 +3540,7 @@ export const chart = [
     "label": "Gqom Oh!",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Raime 2017": 11,
+      "Raime": 11,
       "Dean (Boomkat)": 31
     },
     "score": 2.024633431085044
@@ -3553,8 +3553,8 @@ export const chart = [
     "label": "Room 40",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 52,
-      "Bartolomé Sanson (Shelter Press) 2017": 10
+      "Boomkat: Most Overlooked Releases": 52,
+      "Bartolomé Sanson (Shelter Press)": 10
     },
     "score": 2.023846153846154
   },
@@ -3566,8 +3566,8 @@ export const chart = [
     "label": "UNKNOWN LABEL",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 40,
-      "Tic 2017": 11
+      "Boomkat: Most Overlooked Releases": 40,
+      "Tic": 11
     },
     "score": 2.023181818181818
   },
@@ -3579,8 +3579,8 @@ export const chart = [
     "label": "Boomkat Editions",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 72,
-      "Maxwell Sterling 2017": 10
+      "Boomkat: Top Reissues & Archival Releases": 72,
+      "Maxwell Sterling": 10
     },
     "score": 2.022777777777778
   },
@@ -3592,8 +3592,8 @@ export const chart = [
     "label": "MILAN",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 45,
-      "Lawrence English 2017": 11
+      "Boomkat: Top Reissues & Archival Releases": 45,
+      "Lawrence English": 11
     },
     "score": 2.0226262626262623
   },
@@ -3605,8 +3605,8 @@ export const chart = [
     "label": "Kompakt",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 78,
-      "Vereker 2017": 10
+      "Boomkat: Top Releases": 78,
+      "Vereker": 10
     },
     "score": 2.0225641025641026
   },
@@ -3618,7 +3618,7 @@ export const chart = [
     "label": "Hallow Ground",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 16,
+      "Boomkat: Most Overlooked Releases": 16,
       "Conor Thomas": 20
     },
     "score": 2.0225
@@ -3631,8 +3631,8 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 20,
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 16
+      "Jon K": 20,
+      "Kiran Sande (Blackest Ever Black / Low Company)": 16
     },
     "score": 2.0225
   },
@@ -3644,7 +3644,7 @@ export const chart = [
     "label": "City-2 St. Giga",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 14,
+      "Boomkat: Most Overlooked Releases": 14,
       "Conor Thomas": 26
     },
     "score": 2.021978021978022
@@ -3657,8 +3657,8 @@ export const chart = [
     "label": "Hyperdelia",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 56,
-      "Slip 2017": 11
+      "Boomkat: Most Overlooked Releases": 56,
+      "Slip": 11
     },
     "score": 2.0217532467532466
   },
@@ -3670,7 +3670,7 @@ export const chart = [
     "label": "Ecstatic",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 61,
+      "Boomkat: Top Releases": 61,
       "Conor Thomas": 11
     },
     "score": 2.021460506706408
@@ -3709,8 +3709,8 @@ export const chart = [
     "label": "The Trilogy Tapes",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 87,
-      "CS + Kreme 2017": 11
+      "Boomkat: Top Releases": 87,
+      "CS + Kreme": 11
     },
     "score": 2.0204806687565307
   },
@@ -3722,7 +3722,7 @@ export const chart = [
     "label": "DIE SCHACHTEL",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Pete Swanson 2017": 21,
+      "Pete Swanson": 21,
       "Dean (Boomkat)": 21
     },
     "score": 2.019047619047619
@@ -3735,7 +3735,7 @@ export const chart = [
     "label": "OTHER IDEAS",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 37,
+      "Boomkat: Top Reissues & Archival Releases": 37,
       "Josh (Boomkat)": 15
     },
     "score": 2.0187387387387385
@@ -3748,8 +3748,8 @@ export const chart = [
     "label": "(_Bruxcist)",
     "genre": "",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 22,
-      "Gizmo (Berceuse Heroique) 2017": 21
+      "Mark Cremins (Rush Hour)": 22,
+      "Gizmo (Berceuse Heroique)": 21
     },
     "score": 2.0186147186147183
   },
@@ -3761,8 +3761,8 @@ export const chart = [
     "label": "Fractal Fantasy",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 93,
-      "Bus 2017": 13
+      "Boomkat: Top Releases": 93,
+      "Bus": 13
     },
     "score": 2.0175351530190238
   },
@@ -3774,7 +3774,7 @@ export const chart = [
     "label": "Mannequin",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 17,
+      "Boomkat: Top Reissues & Archival Releases": 17,
       "Conor Thomas": 36
     },
     "score": 2.0173202614379084
@@ -3787,8 +3787,8 @@ export const chart = [
     "label": "FAITICHE",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 23,
-      "Richard Chartier 2017": 24
+      "Boomkat: Top Reissues & Archival Releases": 23,
+      "Richard Chartier": 24
     },
     "score": 2.0170289855072463
   },
@@ -3800,8 +3800,8 @@ export const chart = [
     "label": "Family Vineyard",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 38,
-      "Boomkat: Most Overlooked Releases 2017": 17
+      "Boomkat: Top Reissues & Archival Releases": 38,
+      "Boomkat: Most Overlooked Releases": 17
     },
     "score": 2.0170278637770895
   },
@@ -3813,7 +3813,7 @@ export const chart = [
     "label": "History Always Favours The Winners",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 43,
+      "Boomkat: Top Releases": 43,
       "Conor Thomas": 19
     },
     "score": 2.0151774785801715
@@ -3826,8 +3826,8 @@ export const chart = [
     "label": "Efficient Space",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 90,
-      "Jon K 2017": 16
+      "Boomkat: Top Reissues & Archival Releases": 90,
+      "Jon K": 16
     },
     "score": 2.0147222222222223
   },
@@ -3839,7 +3839,7 @@ export const chart = [
     "label": "COYOTE RECORDS",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 68,
+      "Boomkat: Top Releases": 68,
       "Conor Thomas": 17
     },
     "score": 2.014705882352941
@@ -3852,8 +3852,8 @@ export const chart = [
     "label": "Alter",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 21,
-      "Boomkat: Most Overlooked Releases 2017": 41
+      "Boomkat: Top Releases": 21,
+      "Boomkat: Most Overlooked Releases": 41
     },
     "score": 2.0144018583042973
   },
@@ -3865,7 +3865,7 @@ export const chart = [
     "label": "Superior Viaduct",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 61,
+      "Boomkat: Top Reissues & Archival Releases": 61,
       "Conor Thomas": 18
     },
     "score": 2.014389799635701
@@ -3878,8 +3878,8 @@ export const chart = [
     "label": "Rhino",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 53,
-      "Richard Chartier 2017": 19
+      "Boomkat: Top Releases": 53,
+      "Richard Chartier": 19
     },
     "score": 2.0142999006951343
   },
@@ -3891,8 +3891,8 @@ export const chart = [
     "label": "Total Stasis",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 67,
-      "Boomkat: Most Overlooked Releases 2017": 18
+      "Boomkat: Top Releases": 67,
+      "Boomkat: Most Overlooked Releases": 18
     },
     "score": 2.0140961857379764
   },
@@ -3904,8 +3904,8 @@ export const chart = [
     "label": "Ideologic Organ",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 55,
-      "Félicia Atkinson 2017": 20
+      "Boomkat: Top Releases": 55,
+      "Félicia Atkinson": 20
     },
     "score": 2.0136363636363637
   },
@@ -3930,8 +3930,8 @@ export const chart = [
     "label": "Palto Flats",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 40,
-      "Pete Swanson 2017": 24
+      "Boomkat: Top Reissues & Archival Releases": 40,
+      "Pete Swanson": 24
     },
     "score": 2.013333333333333
   },
@@ -3943,8 +3943,8 @@ export const chart = [
     "label": "PORRIDGE BULLET",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 60,
-      "Tony Poland 2017": 21
+      "Boomkat: Most Overlooked Releases": 60,
+      "Tony Poland": 21
     },
     "score": 2.012857142857143
   },
@@ -3956,8 +3956,8 @@ export const chart = [
     "label": "Dais Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 77,
-      "Richard Chartier 2017": 21
+      "Boomkat: Top Reissues & Archival Releases": 77,
+      "Richard Chartier": 21
     },
     "score": 2.0121212121212118
   },
@@ -3969,8 +3969,8 @@ export const chart = [
     "label": "Diagonal",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 79,
-      "Not Waving 2017": 21
+      "Boomkat: Top Releases": 79,
+      "Not Waving": 21
     },
     "score": 2.0120554550934298
   },
@@ -3982,7 +3982,7 @@ export const chart = [
     "label": "Superior Viaduct",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 47,
+      "Boomkat: Top Reissues & Archival Releases": 47,
       "Dean (Boomkat)": 27
     },
     "score": 2.011662726556344
@@ -3995,8 +3995,8 @@ export const chart = [
     "label": "Luaka Bop",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 32,
-      "Boomkat: Most Overlooked Releases 2017": 44
+      "Boomkat: Top Reissues & Archival Releases": 32,
+      "Boomkat: Most Overlooked Releases": 44
     },
     "score": 2.0107954545454545
   },
@@ -4008,7 +4008,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 43,
+      "Boomkat: Most Overlooked Releases": 43,
       "Conor Thomas": 35
     },
     "score": 2.0103654485049836
@@ -4021,8 +4021,8 @@ export const chart = [
     "label": "Klangbad",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 59,
-      "Boomkat: Most Overlooked Releases 2017": 29
+      "Boomkat: Top Releases": 59,
+      "Boomkat: Most Overlooked Releases": 29
     },
     "score": 2.0102863822326125
   },
@@ -4034,7 +4034,7 @@ export const chart = [
     "label": "Equilibrio",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 67,
+      "Boomkat: Top Reissues & Archival Releases": 67,
       "Dean (Boomkat)": 30
     },
     "score": 2.009651741293532
@@ -4047,8 +4047,8 @@ export const chart = [
     "label": "Look Mama!",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 72,
-      "Boomkat: Most Overlooked Releases 2017": 33
+      "Boomkat: Top Releases": 72,
+      "Boomkat: Most Overlooked Releases": 33
     },
     "score": 2.0088383838383836
   },
@@ -4060,7 +4060,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 1
+      "Novo Line": 1
     },
     "score": 1.2
   },
@@ -4072,7 +4072,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mumdance 2017": 1
+      "Mumdance": 1
     },
     "score": 1.2
   },
@@ -4084,7 +4084,7 @@ export const chart = [
     "label": "(Ongehoord)",
     "genre": "",
     "chart_by": {
-      "CS + Kreme 2017": 1
+      "CS + Kreme": 1
     },
     "score": 1.2
   },
@@ -4096,7 +4096,7 @@ export const chart = [
     "label": "All Saints Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Jamal Moss 2017": 1
+      "Jamal Moss": 1
     },
     "score": 1.2
   },
@@ -4108,7 +4108,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 1
+      "Tom Lea": 1
     },
     "score": 1.2
   },
@@ -4120,7 +4120,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Extreme / Noise / Computer Music",
     "chart_by": {
-      "Croww 2017": 1
+      "Croww": 1
     },
     "score": 1.2
   },
@@ -4144,7 +4144,7 @@ export const chart = [
     "label": "Numero Group",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Sarah Davachi 2017": 1
+      "Sarah Davachi": 1
     },
     "score": 1.2
   },
@@ -4156,7 +4156,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 1
+      "Errorsmith": 1
     },
     "score": 1.2
   },
@@ -4168,7 +4168,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Teresa Winter 2017": 1
+      "Teresa Winter": 1
     },
     "score": 1.2
   },
@@ -4180,7 +4180,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 1
+      "Andy Votel's Faker's Dozen.": 1
     },
     "score": 1.2
   },
@@ -4192,7 +4192,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Folk / Roots",
     "chart_by": {
-      "JASSS 2017": 1
+      "JASSS": 1
     },
     "score": 1.2
   },
@@ -4204,7 +4204,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 1
+      "Kara-Lis Coverdale": 1
     },
     "score": 1.2
   },
@@ -4216,7 +4216,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mat Steel (SND) 2017": 1
+      "Mat Steel (SND)": 1
     },
     "score": 1.2
   },
@@ -4228,7 +4228,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peder Mannerfelt 2017": 1
+      "Peder Mannerfelt": 1
     },
     "score": 1.2
   },
@@ -4240,7 +4240,7 @@ export const chart = [
     "label": "DUNNO Recordings",
     "genre": "Disco / Boogie / Funk",
     "chart_by": {
-      "Not Waving 2017": 1
+      "Not Waving": 1
     },
     "score": 1.2
   },
@@ -4252,7 +4252,7 @@ export const chart = [
     "label": "Constellation",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 1
+      "Doug Shipton (Finders Keepers)": 1
     },
     "score": 1.2
   },
@@ -4264,7 +4264,7 @@ export const chart = [
     "label": "(Wah Wah Wino)",
     "genre": "",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 1
+      "Mark Cremins (Rush Hour)": 1
     },
     "score": 1.2
   },
@@ -4276,7 +4276,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 1
+      "G.H.": 1
     },
     "score": 1.2
   },
@@ -4288,7 +4288,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Perc 2017": 1
+      "Perc": 1
     },
     "score": 1.2
   },
@@ -4300,7 +4300,7 @@ export const chart = [
     "label": "Light Sounds Dark",
     "genre": "",
     "chart_by": {
-      "Nina 2017": 1
+      "Nina": 1
     },
     "score": 1.2
   },
@@ -4312,7 +4312,7 @@ export const chart = [
     "label": "Biophon Records / Biophon Records (Norway)",
     "genre": "Electronic",
     "chart_by": {
-      "Akira Rabelais 2017": 1
+      "Akira Rabelais": 1
     },
     "score": 1.2
   },
@@ -4324,7 +4324,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 1
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 1
     },
     "score": 1.2
   },
@@ -4336,7 +4336,7 @@ export const chart = [
     "label": "O Genesis",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Matt Colton 2017": 1
+      "Matt Colton": 1
     },
     "score": 1.2
   },
@@ -4348,7 +4348,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andrew Hargreaves 2017": 1
+      "Andrew Hargreaves": 1
     },
     "score": 1.2
   },
@@ -4360,7 +4360,7 @@ export const chart = [
     "label": "La Vida Es Un Mus Discos",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 1
+      "Kiran Sande (Blackest Ever Black / Low Company)": 1
     },
     "score": 1.2
   },
@@ -4372,7 +4372,7 @@ export const chart = [
     "label": "(Unexplained Sounds Group)",
     "genre": "",
     "chart_by": {
-      "Richard Skelton 2017": 1
+      "Richard Skelton": 1
     },
     "score": 1.2
   },
@@ -4396,7 +4396,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Newworldaquarium 2017": 1
+      "Newworldaquarium": 1
     },
     "score": 1.2
   },
@@ -4408,7 +4408,7 @@ export const chart = [
     "label": "Great Circles",
     "genre": "Electronic",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 1
+      "Gizmo (Berceuse Heroique)": 1
     },
     "score": 1.2
   },
@@ -4420,7 +4420,7 @@ export const chart = [
     "label": "Honest Jon's Records",
     "genre": "Dub / Reggae",
     "chart_by": {
-      "Alexander Iadarola 2017": 1
+      "Alexander Iadarola": 1
     },
     "score": 1.2
   },
@@ -4432,7 +4432,7 @@ export const chart = [
     "label": "Ipecac Recordings",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Jaime Williams 2017": 1
+      "Jaime Williams": 1
     },
     "score": 1.2
   },
@@ -4444,7 +4444,7 @@ export const chart = [
     "label": "Silva Screen Records",
     "genre": "",
     "chart_by": {
-      "Miles 2017": 1
+      "Miles": 1
     },
     "score": 1.2
   },
@@ -4456,7 +4456,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Elon Katz 2017": 1
+      "Elon Katz": 1
     },
     "score": 1.2
   },
@@ -4468,7 +4468,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 1
+      "Equiknoxx": 1
     },
     "score": 1.2
   },
@@ -4480,7 +4480,7 @@ export const chart = [
     "label": "Ex-Local",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Anastasia Kristensen 2017": 1
+      "Anastasia Kristensen": 1
     },
     "score": 1.2
   },
@@ -4492,7 +4492,7 @@ export const chart = [
     "label": "Brunette Editions",
     "genre": "Electronic",
     "chart_by": {
-      "Maxwell Sterling 2017": 1
+      "Maxwell Sterling": 1
     },
     "score": 1.2
   },
@@ -4504,7 +4504,7 @@ export const chart = [
     "label": "Contort Yourself",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Tobi / Good News 2017": 1
+      "Tobi / Good News": 1
     },
     "score": 1.2
   },
@@ -4516,7 +4516,7 @@ export const chart = [
     "label": "AGF PRODUCKTION",
     "genre": "Electronic",
     "chart_by": {
-      "Richard Chartier 2017": 1
+      "Richard Chartier": 1
     },
     "score": 1.2
   },
@@ -4528,7 +4528,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 1
+      "India Jordan": 1
     },
     "score": 1.2
   },
@@ -4540,7 +4540,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Parris 2017": 1
+      "Parris": 1
     },
     "score": 1.2
   },
@@ -4552,7 +4552,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 1
+      "Ian Fenton (Frozen Reeds)": 1
     },
     "score": 1.2
   },
@@ -4564,7 +4564,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tzusing 2017": 1
+      "Tzusing": 1
     },
     "score": 1.2
   },
@@ -4576,7 +4576,7 @@ export const chart = [
     "label": "SHIPWREC",
     "genre": "Techno / House",
     "chart_by": {
-      "Helena Hauff 2017": 1
+      "Helena Hauff": 1
     },
     "score": 1.2
   },
@@ -4600,7 +4600,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bokeh Versions 2017": 1
+      "Bokeh Versions": 1
     },
     "score": 1.2
   },
@@ -4612,7 +4612,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Primitive World 2017": 1
+      "Primitive World": 1
     },
     "score": 1.2
   },
@@ -4624,7 +4624,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Felicita 2017": 1
+      "Felicita": 1
     },
     "score": 1.2
   },
@@ -4636,7 +4636,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Carla Dal Forno 2017": 1
+      "Carla Dal Forno": 1
     },
     "score": 1.2
   },
@@ -4648,7 +4648,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 1
+      "Tic": 1
     },
     "score": 1.2
   },
@@ -4672,7 +4672,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kode 9 2017": 1
+      "Kode 9": 1
     },
     "score": 1.2
   },
@@ -4696,7 +4696,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 1
+      "Vereker": 1
     },
     "score": 1.2
   },
@@ -4708,7 +4708,7 @@ export const chart = [
     "label": "Not On Label",
     "genre": "",
     "chart_by": {
-      "Logos 2017": 1
+      "Logos": 1
     },
     "score": 1.2
   },
@@ -4720,7 +4720,7 @@ export const chart = [
     "label": "Groenland Records",
     "genre": "Electronic",
     "chart_by": {
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 1
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 1
     },
     "score": 1.2
   },
@@ -4732,7 +4732,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 1
+      "Stephen Bishop (Basic House / Opal Tapes)": 1
     },
     "score": 1.2
   },
@@ -4744,7 +4744,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 1
+      "Craig Tattersall (The Boats)": 1
     },
     "score": 1.2
   },
@@ -4756,7 +4756,7 @@ export const chart = [
     "label": "Abstract Reality",
     "genre": "Techno / House",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 1
+      "Nyege Nyege Tapes": 1
     },
     "score": 1.2
   },
@@ -4768,7 +4768,7 @@ export const chart = [
     "label": "(Lillerne Tapes)",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 1
+      "Huerco S.": 1
     },
     "score": 1.2
   },
@@ -4780,7 +4780,7 @@ export const chart = [
     "label": "UVB-76 Music",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Pessimist 2017": 1
+      "Pessimist": 1
     },
     "score": 1.2
   },
@@ -4792,7 +4792,7 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Regis 2017": 1
+      "Regis": 1
     },
     "score": 1.2
   },
@@ -4804,7 +4804,7 @@ export const chart = [
     "label": "Perc Trax",
     "genre": "Techno / House",
     "chart_by": {
-      "Dale Cornish 2017": 1
+      "Dale Cornish": 1
     },
     "score": 1.2
   },
@@ -4816,7 +4816,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 2
+      "Tom Lea": 2
     },
     "score": 1.1
   },
@@ -4828,7 +4828,7 @@ export const chart = [
     "label": "Kathexis",
     "genre": "Electronic",
     "chart_by": {
-      "Samuel Kerridge 2017": 2
+      "Samuel Kerridge": 2
     },
     "score": 1.1
   },
@@ -4852,7 +4852,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 2
+      "Tic": 2
     },
     "score": 1.1
   },
@@ -4876,7 +4876,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Croww 2017": 2
+      "Croww": 2
     },
     "score": 1.1
   },
@@ -4888,7 +4888,7 @@ export const chart = [
     "label": "Mexican Summer",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Jaime Williams 2017": 2
+      "Jaime Williams": 2
     },
     "score": 1.1
   },
@@ -4900,7 +4900,7 @@ export const chart = [
     "label": "Hands in the Dark Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Richard Skelton 2017": 2
+      "Richard Skelton": 2
     },
     "score": 1.1
   },
@@ -4912,7 +4912,7 @@ export const chart = [
     "label": "NON Worldwide",
     "genre": "Electronic",
     "chart_by": {
-      "Nkisi 2017": 2
+      "Nkisi": 2
     },
     "score": 1.1
   },
@@ -4924,7 +4924,7 @@ export const chart = [
     "label": "Touch",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Mark Fell 2017": 2
+      "Mark Fell": 2
     },
     "score": 1.1
   },
@@ -4936,7 +4936,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 2
+      "Bus": 2
     },
     "score": 1.1
   },
@@ -4948,7 +4948,7 @@ export const chart = [
     "label": "[GLARC]",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 2
+      "Slip": 2
     },
     "score": 1.1
   },
@@ -4960,7 +4960,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Shifted 2017": 2
+      "Shifted": 2
     },
     "score": 1.1
   },
@@ -4972,7 +4972,7 @@ export const chart = [
     "label": "(Saravah)",
     "genre": "",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 2
+      "Doug Shipton (Finders Keepers)": 2
     },
     "score": 1.1
   },
@@ -4984,7 +4984,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 2
+      "G.H.": 2
     },
     "score": 1.1
   },
@@ -5008,7 +5008,7 @@ export const chart = [
     "label": "Lazy Tapes",
     "genre": "Electronic",
     "chart_by": {
-      "Ossia 2017": 2
+      "Ossia": 2
     },
     "score": 1.1
   },
@@ -5020,7 +5020,7 @@ export const chart = [
     "label": "Line",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Richard Chartier 2017": 2
+      "Richard Chartier": 2
     },
     "score": 1.1
   },
@@ -5032,7 +5032,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Primitive World 2017": 2
+      "Primitive World": 2
     },
     "score": 1.1
   },
@@ -5044,7 +5044,7 @@ export const chart = [
     "label": "City Slang",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Monique Recknagel 2017": 2
+      "Monique Recknagel": 2
     },
     "score": 1.1
   },
@@ -5056,7 +5056,7 @@ export const chart = [
     "label": "Akuphone",
     "genre": "World",
     "chart_by": {
-      "Vereker 2017": 2
+      "Vereker": 2
     },
     "score": 1.1
   },
@@ -5068,7 +5068,7 @@ export const chart = [
     "label": "HESSLE AUDIO",
     "genre": "Techno / House",
     "chart_by": {
-      "Annex 2017": 2
+      "Annex": 2
     },
     "score": 1.1
   },
@@ -5080,7 +5080,7 @@ export const chart = [
     "label": "Important Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Teresa Winter 2017": 2
+      "Teresa Winter": 2
     },
     "score": 1.1
   },
@@ -5092,7 +5092,7 @@ export const chart = [
     "label": "Lobster Fury",
     "genre": "Techno / House",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 2
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 2
     },
     "score": 1.1
   },
@@ -5104,7 +5104,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 2
+      "Stephen Bishop (Basic House / Opal Tapes)": 2
     },
     "score": 1.1
   },
@@ -5116,7 +5116,7 @@ export const chart = [
     "label": "WERGO",
     "genre": "",
     "chart_by": {
-      "Logos 2017": 2
+      "Logos": 2
     },
     "score": 1.1
   },
@@ -5128,7 +5128,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 2
+      "Craig Tattersall (The Boats)": 2
     },
     "score": 1.1
   },
@@ -5152,7 +5152,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Carla Dal Forno 2017": 2
+      "Carla Dal Forno": 2
     },
     "score": 1.1
   },
@@ -5164,7 +5164,7 @@ export const chart = [
     "label": "(Young Echo Records)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 2
+      "Tony Poland": 2
     },
     "score": 1.1
   },
@@ -5176,7 +5176,7 @@ export const chart = [
     "label": "The Tapeworm",
     "genre": "",
     "chart_by": {
-      "Jay Glass Dubs 2017": 2
+      "Jay Glass Dubs": 2
     },
     "score": 1.1
   },
@@ -5188,7 +5188,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Parris 2017": 2
+      "Parris": 2
     },
     "score": 1.1
   },
@@ -5200,7 +5200,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 2
+      "Vladimir Ivkovic (Offen Music)": 2
     },
     "score": 1.1
   },
@@ -5212,7 +5212,7 @@ export const chart = [
     "label": "(Brew)",
     "genre": "",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 2
+      "Mark Cremins (Rush Hour)": 2
     },
     "score": 1.1
   },
@@ -5224,7 +5224,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mat Steel (SND) 2017": 2
+      "Mat Steel (SND)": 2
     },
     "score": 1.1
   },
@@ -5236,7 +5236,7 @@ export const chart = [
     "label": "(Out-er)",
     "genre": "",
     "chart_by": {
-      "Ben Morris 2017": 2
+      "Ben Morris": 2
     },
     "score": 1.1
   },
@@ -5248,7 +5248,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 2
+      "Andy Stott": 2
     },
     "score": 1.1
   },
@@ -5260,7 +5260,7 @@ export const chart = [
     "label": "Finders Keepers Records",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 2
+      "Andy Votel's Faker's Dozen.": 2
     },
     "score": 1.1
   },
@@ -5272,7 +5272,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 2
+      "Kara-Lis Coverdale": 2
     },
     "score": 1.1
   },
@@ -5284,7 +5284,7 @@ export const chart = [
     "label": "Pacific Command",
     "genre": "Techno / House",
     "chart_by": {
-      "a new line ( related ) 2017": 2
+      "a new line ( related )": 2
     },
     "score": 1.1
   },
@@ -5296,7 +5296,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 2
+      "Errorsmith": 2
     },
     "score": 1.1
   },
@@ -5320,7 +5320,7 @@ export const chart = [
     "label": "Golden Mist Records",
     "genre": "World",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 2
+      "Nyege Nyege Tapes": 2
     },
     "score": 1.1
   },
@@ -5332,7 +5332,7 @@ export const chart = [
     "label": "ECM Records",
     "genre": "",
     "chart_by": {
-      "Jamal Moss 2017": 2
+      "Jamal Moss": 2
     },
     "score": 1.1
   },
@@ -5344,7 +5344,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 2
+      "Novo Line": 2
     },
     "score": 1.1
   },
@@ -5356,7 +5356,7 @@ export const chart = [
     "label": "LuckyMe",
     "genre": "Techno / House",
     "chart_by": {
-      "Nightwave 2017": 2
+      "Nightwave": 2
     },
     "score": 1.1
   },
@@ -5368,7 +5368,7 @@ export const chart = [
     "label": "(Ascetic House)",
     "genre": "",
     "chart_by": {
-      "Becka Diamond 2017": 2
+      "Becka Diamond": 2
     },
     "score": 1.1
   },
@@ -5380,7 +5380,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nic Tasker 2017": 2
+      "Nic Tasker": 2
     },
     "score": 1.1
   },
@@ -5392,7 +5392,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Deathprod 2017": 2
+      "Deathprod": 2
     },
     "score": 1.1
   },
@@ -5404,7 +5404,7 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Electronic",
     "chart_by": {
-      "Prurient 2017": 2
+      "Prurient": 2
     },
     "score": 1.1
   },
@@ -5416,7 +5416,7 @@ export const chart = [
     "label": "DFA / SCD / DFA Records",
     "genre": "Electronic",
     "chart_by": {
-      "Akira Rabelais 2017": 2
+      "Akira Rabelais": 2
     },
     "score": 1.1
   },
@@ -5428,7 +5428,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Matt Colton 2017": 2
+      "Matt Colton": 2
     },
     "score": 1.1
   },
@@ -5440,7 +5440,7 @@ export const chart = [
     "label": "raster-noton",
     "genre": "Electronic",
     "chart_by": {
-      "N.M.O. 2017": 2
+      "N.M.O.": 2
     },
     "score": 1.1
   },
@@ -5452,7 +5452,7 @@ export const chart = [
     "label": "Good Timin’",
     "genre": "",
     "chart_by": {
-      "Anthony Naples 2017": 2
+      "Anthony Naples": 2
     },
     "score": 1.1
   },
@@ -5464,7 +5464,7 @@ export const chart = [
     "label": "Mute",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Peter Rehberg 2017": 2
+      "Peter Rehberg": 2
     },
     "score": 1.1
   },
@@ -5476,7 +5476,7 @@ export const chart = [
     "label": "(Return To Disorder)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 2
+      "Helena Hauff": 2
     },
     "score": 1.1
   },
@@ -5488,7 +5488,7 @@ export const chart = [
     "label": "Total Stasis",
     "genre": "Electronic",
     "chart_by": {
-      "Tzusing 2017": 2
+      "Tzusing": 2
     },
     "score": 1.1
   },
@@ -5500,7 +5500,7 @@ export const chart = [
     "label": "Wisdom Teeth",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 2
+      "Trevor Jackson": 2
     },
     "score": 1.1
   },
@@ -5512,7 +5512,7 @@ export const chart = [
     "label": "Berceuse Heroique",
     "genre": "Techno / House",
     "chart_by": {
-      "Cera Khin 2017": 2
+      "Cera Khin": 2
     },
     "score": 1.1
   },
@@ -5524,7 +5524,7 @@ export const chart = [
     "label": "Sound of Speed",
     "genre": "Techno / House",
     "chart_by": {
-      "Will Long 2017": 2
+      "Will Long": 2
     },
     "score": 1.1
   },
@@ -5536,7 +5536,7 @@ export const chart = [
     "label": "Mute",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Helm 2017": 2
+      "Helm": 2
     },
     "score": 1.1
   },
@@ -5548,7 +5548,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kode 9 2017": 2
+      "Kode 9": 2
     },
     "score": 1.1
   },
@@ -5560,7 +5560,7 @@ export const chart = [
     "label": "Golden Teacher Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 2
+      "Keith Mcivor (Optimo)": 2
     },
     "score": 1.1
   },
@@ -5572,7 +5572,7 @@ export const chart = [
     "label": "We Can Elude Control",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Regis 2017": 2
+      "Regis": 2
     },
     "score": 1.1
   },
@@ -5584,7 +5584,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 2
+      "Huerco S.": 2
     },
     "score": 1.1
   },
@@ -5596,7 +5596,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kowton 2017": 2
+      "Kowton": 2
     },
     "score": 1.1
   },
@@ -5608,7 +5608,7 @@ export const chart = [
     "label": "Nous",
     "genre": "",
     "chart_by": {
-      "Anastasia Kristensen 2017": 2
+      "Anastasia Kristensen": 2
     },
     "score": 1.1
   },
@@ -5620,7 +5620,7 @@ export const chart = [
     "label": "Emotional Rescue",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Illum Sphere 2017": 2
+      "Illum Sphere": 2
     },
     "score": 1.1
   },
@@ -5644,7 +5644,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 2
+      "Equiknoxx": 2
     },
     "score": 1.1
   },
@@ -5656,7 +5656,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 2
+      "India Jordan": 2
     },
     "score": 1.1
   },
@@ -5668,7 +5668,7 @@ export const chart = [
     "label": "Monika",
     "genre": "Electronic",
     "chart_by": {
-      "Illum Sphere 2017": 3
+      "Illum Sphere": 3
     },
     "score": 1.0666666666666667
   },
@@ -5680,7 +5680,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Alexander Iadarola 2017": 3
+      "Alexander Iadarola": 3
     },
     "score": 1.0666666666666667
   },
@@ -5692,7 +5692,7 @@ export const chart = [
     "label": "MORD",
     "genre": "Techno / House",
     "chart_by": {
-      "Anastasia Kristensen 2017": 3
+      "Anastasia Kristensen": 3
     },
     "score": 1.0666666666666667
   },
@@ -5704,7 +5704,7 @@ export const chart = [
     "label": "MEAKUSMA",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Nina 2017": 3
+      "Nina": 3
     },
     "score": 1.0666666666666667
   },
@@ -5716,7 +5716,7 @@ export const chart = [
     "label": "Pinkman",
     "genre": "Electronic",
     "chart_by": {
-      "Novo Line 2017": 3
+      "Novo Line": 3
     },
     "score": 1.0666666666666667
   },
@@ -5728,7 +5728,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 3
+      "Prurient": 3
     },
     "score": 1.0666666666666667
   },
@@ -5740,7 +5740,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 3
+      "Raime": 3
     },
     "score": 1.0666666666666667
   },
@@ -5752,7 +5752,7 @@ export const chart = [
     "label": "Astral Plane Recordings",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Nightwave 2017": 3
+      "Nightwave": 3
     },
     "score": 1.0666666666666667
   },
@@ -5764,7 +5764,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nic Tasker 2017": 3
+      "Nic Tasker": 3
     },
     "score": 1.0666666666666667
   },
@@ -5776,7 +5776,7 @@ export const chart = [
     "label": "Halcyon Veil",
     "genre": "Electronic",
     "chart_by": {
-      "Dale Cornish 2017": 3
+      "Dale Cornish": 3
     },
     "score": 1.0666666666666667
   },
@@ -5788,7 +5788,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mark Fell 2017": 3
+      "Mark Fell": 3
     },
     "score": 1.0666666666666667
   },
@@ -5800,7 +5800,7 @@ export const chart = [
     "label": "Penultimate Press",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Slip 2017": 3
+      "Slip": 3
     },
     "score": 1.0666666666666667
   },
@@ -5812,7 +5812,7 @@ export const chart = [
     "label": "Dais Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Becka Diamond 2017": 3
+      "Becka Diamond": 3
     },
     "score": 1.0666666666666667
   },
@@ -5824,7 +5824,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Carla Dal Forno 2017": 3
+      "Carla Dal Forno": 3
     },
     "score": 1.0666666666666667
   },
@@ -5836,7 +5836,7 @@ export const chart = [
     "label": "Mad Decent",
     "genre": "World",
     "chart_by": {
-      "Lawrence English 2017": 3
+      "Lawrence English": 3
     },
     "score": 1.0666666666666667
   },
@@ -5848,7 +5848,7 @@ export const chart = [
     "label": "Bokeh Versions",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 3
+      "Nyege Nyege Tapes": 3
     },
     "score": 1.0666666666666667
   },
@@ -5860,7 +5860,7 @@ export const chart = [
     "label": "Shelter Press",
     "genre": "Electronic",
     "chart_by": {
-      "Richard Chartier 2017": 3
+      "Richard Chartier": 3
     },
     "score": 1.0666666666666667
   },
@@ -5872,7 +5872,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 3
+      "Vladimir Ivkovic (Offen Music)": 3
     },
     "score": 1.0666666666666667
   },
@@ -5884,7 +5884,7 @@ export const chart = [
     "label": "The Trilogy Tapes",
     "genre": "Techno / House",
     "chart_by": {
-      "Ben Morris 2017": 3
+      "Ben Morris": 3
     },
     "score": 1.0666666666666667
   },
@@ -5896,7 +5896,7 @@ export const chart = [
     "label": "Sonic Pieces",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 3
+      "Craig Tattersall (The Boats)": 3
     },
     "score": 1.0666666666666667
   },
@@ -5908,7 +5908,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 3
+      "Stephen Bishop (Basic House / Opal Tapes)": 3
     },
     "score": 1.0666666666666667
   },
@@ -5920,7 +5920,7 @@ export const chart = [
     "label": "Film",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 3
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 3
     },
     "score": 1.0666666666666667
   },
@@ -5944,7 +5944,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 3
+      "Huerco S.": 3
     },
     "score": 1.0666666666666667
   },
@@ -5956,7 +5956,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Sean Canty (Demdike Stare) 2017": 3
+      "Sean Canty (Demdike Stare)": 3
     },
     "score": 1.0666666666666667
   },
@@ -5968,7 +5968,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 3
+      "Beatrice Dillon": 3
     },
     "score": 1.0666666666666667
   },
@@ -5980,7 +5980,7 @@ export const chart = [
     "label": "Moabit",
     "genre": "Electronic",
     "chart_by": {
-      "Regis 2017": 3
+      "Regis": 3
     },
     "score": 1.0666666666666667
   },
@@ -5992,7 +5992,7 @@ export const chart = [
     "label": "Transgressive",
     "genre": "Electronic",
     "chart_by": {
-      "Felicita 2017": 3
+      "Felicita": 3
     },
     "score": 1.0666666666666667
   },
@@ -6004,7 +6004,7 @@ export const chart = [
     "label": "MISSISSIPPI",
     "genre": "World",
     "chart_by": {
-      "Ossia 2017": 3
+      "Ossia": 3
     },
     "score": 1.0666666666666667
   },
@@ -6016,7 +6016,7 @@ export const chart = [
     "label": "The Vinyl Factory",
     "genre": "Electronic",
     "chart_by": {
-      "Perc 2017": 3
+      "Perc": 3
     },
     "score": 1.0666666666666667
   },
@@ -6028,7 +6028,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 3
+      "G.H.": 3
     },
     "score": 1.0666666666666667
   },
@@ -6040,7 +6040,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 3
+      "Swing Ting": 3
     },
     "score": 1.0666666666666667
   },
@@ -6052,7 +6052,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 3
+      "Vereker": 3
     },
     "score": 1.0666666666666667
   },
@@ -6064,7 +6064,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 3
+      "Tic": 3
     },
     "score": 1.0666666666666667
   },
@@ -6076,7 +6076,7 @@ export const chart = [
     "label": "Soundway Records",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 3
+      "Doug Shipton (Finders Keepers)": 3
     },
     "score": 1.0666666666666667
   },
@@ -6088,7 +6088,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Cera Khin 2017": 3
+      "Cera Khin": 3
     },
     "score": 1.0666666666666667
   },
@@ -6100,7 +6100,7 @@ export const chart = [
     "label": "Her Records",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Tzusing 2017": 3
+      "Tzusing": 3
     },
     "score": 1.0666666666666667
   },
@@ -6112,7 +6112,7 @@ export const chart = [
     "label": "(Exterminador Records)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 3
+      "Helena Hauff": 3
     },
     "score": 1.0666666666666667
   },
@@ -6124,7 +6124,7 @@ export const chart = [
     "label": "(Maple Death)",
     "genre": "",
     "chart_by": {
-      "Lorenzo Senni 2017": 3
+      "Lorenzo Senni": 3
     },
     "score": 1.0666666666666667
   },
@@ -6136,7 +6136,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Samuel Kerridge 2017": 3
+      "Samuel Kerridge": 3
     },
     "score": 1.0666666666666667
   },
@@ -6148,7 +6148,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Rian Treanor 2017": 3
+      "Rian Treanor": 3
     },
     "score": 1.0666666666666667
   },
@@ -6160,7 +6160,7 @@ export const chart = [
     "label": "Second Editions",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 3
+      "Ian Fenton (Frozen Reeds)": 3
     },
     "score": 1.0666666666666667
   },
@@ -6172,7 +6172,7 @@ export const chart = [
     "label": "(Sex Tags Amfibia)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 3
+      "Tony Poland": 3
     },
     "score": 1.0666666666666667
   },
@@ -6184,7 +6184,7 @@ export const chart = [
     "label": "(Superconscious Records)",
     "genre": "",
     "chart_by": {
-      "Anthony Naples 2017": 3
+      "Anthony Naples": 3
     },
     "score": 1.0666666666666667
   },
@@ -6196,7 +6196,7 @@ export const chart = [
     "label": "Fire Records",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 3
+      "Andy Votel's Faker's Dozen.": 3
     },
     "score": 1.0666666666666667
   },
@@ -6208,7 +6208,7 @@ export const chart = [
     "label": "Subtext",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "JASSS 2017": 3
+      "JASSS": 3
     },
     "score": 1.0666666666666667
   },
@@ -6220,7 +6220,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 3
+      "Kara-Lis Coverdale": 3
     },
     "score": 1.0666666666666667
   },
@@ -6232,7 +6232,7 @@ export const chart = [
     "label": "(Kosmische Musik, 1973)",
     "genre": "",
     "chart_by": {
-      "Sarah Davachi 2017": 3
+      "Sarah Davachi": 3
     },
     "score": 1.0666666666666667
   },
@@ -6244,7 +6244,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 3
+      "India Jordan": 3
     },
     "score": 1.0666666666666667
   },
@@ -6256,7 +6256,7 @@ export const chart = [
     "label": "HABIBI Funk Records",
     "genre": "Electronic",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 3
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 3
     },
     "score": 1.0666666666666667
   },
@@ -6268,7 +6268,7 @@ export const chart = [
     "label": "LM DUPLI-CATION",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Monique Recknagel 2017": 3
+      "Monique Recknagel": 3
     },
     "score": 1.0666666666666667
   },
@@ -6280,7 +6280,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "a new line ( related ) 2017": 3
+      "a new line ( related )": 3
     },
     "score": 1.0666666666666667
   },
@@ -6292,7 +6292,7 @@ export const chart = [
     "label": "All Saints Records",
     "genre": "Electronic",
     "chart_by": {
-      "Jamal Moss 2017": 3
+      "Jamal Moss": 3
     },
     "score": 1.0666666666666667
   },
@@ -6316,7 +6316,7 @@ export const chart = [
     "label": "Hyperdub",
     "genre": "Electronic",
     "chart_by": {
-      "Elon Katz 2017": 3
+      "Elon Katz": 3
     },
     "score": 1.0666666666666667
   },
@@ -6340,7 +6340,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Newworldaquarium 2017": 3
+      "Newworldaquarium": 3
     },
     "score": 1.0666666666666667
   },
@@ -6352,7 +6352,7 @@ export const chart = [
     "label": "ITALIANS DO IT BETTER",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Akira Rabelais 2017": 3
+      "Akira Rabelais": 3
     },
     "score": 1.0666666666666667
   },
@@ -6364,7 +6364,7 @@ export const chart = [
     "label": "Dais Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Richard Skelton 2017": 3
+      "Richard Skelton": 3
     },
     "score": 1.0666666666666667
   },
@@ -6376,7 +6376,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 3
+      "Errorsmith": 3
     },
     "score": 1.0666666666666667
   },
@@ -6388,7 +6388,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 3
+      "Finn": 3
     },
     "score": 1.0666666666666667
   },
@@ -6400,7 +6400,7 @@ export const chart = [
     "label": "PTP",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Annex 2017": 3
+      "Annex": 3
     },
     "score": 1.0666666666666667
   },
@@ -6424,7 +6424,7 @@ export const chart = [
     "label": "Timedance",
     "genre": "Techno / House",
     "chart_by": {
-      "Parris 2017": 3
+      "Parris": 3
     },
     "score": 1.0666666666666667
   },
@@ -6448,7 +6448,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Matt Colton 2017": 3
+      "Matt Colton": 3
     },
     "score": 1.0666666666666667
   },
@@ -6460,7 +6460,7 @@ export const chart = [
     "label": "Lava Lava",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 3
+      "Trevor Jackson": 3
     },
     "score": 1.0666666666666667
   },
@@ -6496,7 +6496,7 @@ export const chart = [
     "label": "InFiné",
     "genre": "Techno / House",
     "chart_by": {
-      "Nkisi 2017": 3
+      "Nkisi": 3
     },
     "score": 1.0666666666666667
   },
@@ -6508,7 +6508,7 @@ export const chart = [
     "label": "Pinkman Broken Dreams",
     "genre": "Techno / House",
     "chart_by": {
-      "Not Waving 2017": 3
+      "Not Waving": 3
     },
     "score": 1.0666666666666667
   },
@@ -6532,7 +6532,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 3
+      "Bus": 3
     },
     "score": 1.0666666666666667
   },
@@ -6544,7 +6544,7 @@ export const chart = [
     "label": "The Trilogy Tapes / UNKNOWN LABEL",
     "genre": "Disco / Boogie / Funk",
     "chart_by": {
-      "Peder Mannerfelt 2017": 3
+      "Peder Mannerfelt": 3
     },
     "score": 1.0666666666666667
   },
@@ -6556,7 +6556,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mumdance 2017": 3
+      "Mumdance": 3
     },
     "score": 1.0666666666666667
   },
@@ -6568,7 +6568,7 @@ export const chart = [
     "label": "(Edition Telemark)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 4
+      "Stephan Mathieu": 4
     },
     "score": 1.05
   },
@@ -6580,7 +6580,7 @@ export const chart = [
     "label": "Godmode",
     "genre": "Electronic",
     "chart_by": {
-      "Will Long 2017": 4
+      "Will Long": 4
     },
     "score": 1.05
   },
@@ -6592,7 +6592,7 @@ export const chart = [
     "label": "STOCKHOLM LTD",
     "genre": "Techno / House",
     "chart_by": {
-      "Peder Mannerfelt 2017": 4
+      "Peder Mannerfelt": 4
     },
     "score": 1.05
   },
@@ -6604,7 +6604,7 @@ export const chart = [
     "label": "Inta",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 4
+      "Jon K": 4
     },
     "score": 1.05
   },
@@ -6616,7 +6616,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mumdance 2017": 4
+      "Mumdance": 4
     },
     "score": 1.05
   },
@@ -6628,7 +6628,7 @@ export const chart = [
     "label": "Posh Isolation",
     "genre": "Electronic",
     "chart_by": {
-      "N.M.O. 2017": 4
+      "N.M.O.": 4
     },
     "score": 1.05
   },
@@ -6640,7 +6640,7 @@ export const chart = [
     "label": "(Claxon)",
     "genre": "",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 4
+      "Doug Shipton (Finders Keepers)": 4
     },
     "score": 1.05
   },
@@ -6652,7 +6652,7 @@ export const chart = [
     "label": "(TDE/Interscope)",
     "genre": "",
     "chart_by": {
-      "Shapednoise 2017": 4
+      "Shapednoise": 4
     },
     "score": 1.05
   },
@@ -6664,7 +6664,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Electronic",
     "chart_by": {
-      "Nina 2017": 4
+      "Nina": 4
     },
     "score": 1.05
   },
@@ -6676,7 +6676,7 @@ export const chart = [
     "label": "Karlrecords",
     "genre": "Electronic",
     "chart_by": {
-      "Vereker 2017": 4
+      "Vereker": 4
     },
     "score": 1.05
   },
@@ -6688,7 +6688,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 4
+      "Novo Line": 4
     },
     "score": 1.05
   },
@@ -6700,7 +6700,7 @@ export const chart = [
     "label": "MANANA//Records",
     "genre": "World",
     "chart_by": {
-      "Bokeh Versions 2017": 4
+      "Bokeh Versions": 4
     },
     "score": 1.05
   },
@@ -6712,7 +6712,7 @@ export const chart = [
     "label": "Sähko Recordings",
     "genre": "",
     "chart_by": {
-      "Anastasia Kristensen 2017": 4
+      "Anastasia Kristensen": 4
     },
     "score": 1.05
   },
@@ -6724,7 +6724,7 @@ export const chart = [
     "label": "Klanggalerie / Mannequin",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "JASSS 2017": 4
+      "JASSS": 4
     },
     "score": 1.05
   },
@@ -6736,7 +6736,7 @@ export const chart = [
     "label": "IDLE HANDS",
     "genre": "Electronic",
     "chart_by": {
-      "Raime 2017": 4
+      "Raime": 4
     },
     "score": 1.05
   },
@@ -6748,7 +6748,7 @@ export const chart = [
     "label": "Metrica",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Mark Fell 2017": 4
+      "Mark Fell": 4
     },
     "score": 1.05
   },
@@ -6760,7 +6760,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Shifted 2017": 4
+      "Shifted": 4
     },
     "score": 1.05
   },
@@ -6772,7 +6772,7 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Electronic",
     "chart_by": {
-      "Nightwave 2017": 4
+      "Nightwave": 4
     },
     "score": 1.05
   },
@@ -6784,7 +6784,7 @@ export const chart = [
     "label": "Don't Drone Alone",
     "genre": "Electronic",
     "chart_by": {
-      "Tom Lea 2017": 4
+      "Tom Lea": 4
     },
     "score": 1.05
   },
@@ -6796,7 +6796,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "a new line ( related ) 2017": 4
+      "a new line ( related )": 4
     },
     "score": 1.05
   },
@@ -6808,7 +6808,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nic Tasker 2017": 4
+      "Nic Tasker": 4
     },
     "score": 1.05
   },
@@ -6820,7 +6820,7 @@ export const chart = [
     "label": "0CLONES",
     "genre": "Electronic",
     "chart_by": {
-      "Croww 2017": 4
+      "Croww": 4
     },
     "score": 1.05
   },
@@ -6832,7 +6832,7 @@ export const chart = [
     "label": "2MR",
     "genre": "Techno / House",
     "chart_by": {
-      "Trevor Jackson 2017": 4
+      "Trevor Jackson": 4
     },
     "score": 1.05
   },
@@ -6844,7 +6844,7 @@ export const chart = [
     "label": "(Stilleben)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 4
+      "Helena Hauff": 4
     },
     "score": 1.05
   },
@@ -6856,7 +6856,7 @@ export const chart = [
     "label": "Total Stasis",
     "genre": "Electronic",
     "chart_by": {
-      "CS + Kreme 2017": 4
+      "CS + Kreme": 4
     },
     "score": 1.05
   },
@@ -6868,7 +6868,7 @@ export const chart = [
     "label": "Cititrax",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 4
+      "Prurient": 4
     },
     "score": 1.05
   },
@@ -6892,7 +6892,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 4
+      "India Jordan": 4
     },
     "score": 1.05
   },
@@ -6904,7 +6904,7 @@ export const chart = [
     "label": "Upset The Rhythm",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Lawrence English 2017": 4
+      "Lawrence English": 4
     },
     "score": 1.05
   },
@@ -6916,7 +6916,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 4
+      "Ian Fenton (Frozen Reeds)": 4
     },
     "score": 1.05
   },
@@ -6928,7 +6928,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 4
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 4
     },
     "score": 1.05
   },
@@ -6952,7 +6952,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 4
+      "Nyege Nyege Tapes": 4
     },
     "score": 1.05
   },
@@ -6964,7 +6964,7 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Electronic",
     "chart_by": {
-      "Pessimist 2017": 4
+      "Pessimist": 4
     },
     "score": 1.05
   },
@@ -6976,7 +6976,7 @@ export const chart = [
     "label": "Subtext",
     "genre": "Electronic",
     "chart_by": {
-      "Erik K Skodvin 2017": 4
+      "Erik K Skodvin": 4
     },
     "score": 1.05
   },
@@ -6988,7 +6988,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 4
+      "Vladimir Ivkovic (Offen Music)": 4
     },
     "score": 1.05
   },
@@ -7000,7 +7000,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Anthony Naples 2017": 4
+      "Anthony Naples": 4
     },
     "score": 1.05
   },
@@ -7012,7 +7012,7 @@ export const chart = [
     "label": "Alien Jams",
     "genre": "Techno / House",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 4
+      "Stephen Bishop (Basic House / Opal Tapes)": 4
     },
     "score": 1.05
   },
@@ -7024,7 +7024,7 @@ export const chart = [
     "label": "FAITICHE",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Richard Chartier 2017": 4
+      "Richard Chartier": 4
     },
     "score": 1.05
   },
@@ -7036,7 +7036,7 @@ export const chart = [
     "label": "Profound Lore",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Huerco S. 2017": 4
+      "Huerco S.": 4
     },
     "score": 1.05
   },
@@ -7048,7 +7048,7 @@ export const chart = [
     "label": "Secretly Canadian",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Sarah Davachi 2017": 4
+      "Sarah Davachi": 4
     },
     "score": 1.05
   },
@@ -7060,7 +7060,7 @@ export const chart = [
     "label": "Grade 10",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Ben Morris 2017": 4
+      "Ben Morris": 4
     },
     "score": 1.05
   },
@@ -7072,7 +7072,7 @@ export const chart = [
     "label": "Miasmah",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Monique Recknagel 2017": 4
+      "Monique Recknagel": 4
     },
     "score": 1.05
   },
@@ -7084,7 +7084,7 @@ export const chart = [
     "label": "Conspiracy International",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Teresa Winter 2017": 4
+      "Teresa Winter": 4
     },
     "score": 1.05
   },
@@ -7096,7 +7096,7 @@ export const chart = [
     "label": "Infonet",
     "genre": "",
     "chart_by": {
-      "Ralf Köster (MFOC/ Golden Pudel Hamburg) 2017": 4
+      "Ralf Köster (MFOC/ Golden Pudel Hamburg)": 4
     },
     "score": 1.05
   },
@@ -7108,7 +7108,7 @@ export const chart = [
     "label": "Death Waltz Recording Company",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 4
+      "Andy Votel's Faker's Dozen.": 4
     },
     "score": 1.05
   },
@@ -7120,7 +7120,7 @@ export const chart = [
     "label": "Ultramajic",
     "genre": "Electronic",
     "chart_by": {
-      "Gábor Lázár 2017": 4
+      "Gábor Lázár": 4
     },
     "score": 1.05
   },
@@ -7132,7 +7132,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Logos 2017": 4
+      "Logos": 4
     },
     "score": 1.05
   },
@@ -7156,7 +7156,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 4
+      "Equiknoxx": 4
     },
     "score": 1.05
   },
@@ -7168,7 +7168,7 @@ export const chart = [
     "label": "(Hidden Village)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 4
+      "Kiran Sande (Blackest Ever Black / Low Company)": 4
     },
     "score": 1.05
   },
@@ -7192,7 +7192,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Sean Canty (Demdike Stare) 2017": 4
+      "Sean Canty (Demdike Stare)": 4
     },
     "score": 1.05
   },
@@ -7204,7 +7204,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Samuel Kerridge 2017": 4
+      "Samuel Kerridge": 4
     },
     "score": 1.05
   },
@@ -7216,7 +7216,7 @@ export const chart = [
     "label": "(VAP)",
     "genre": "",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 4
+      "Keith Mcivor (Optimo)": 4
     },
     "score": 1.05
   },
@@ -7228,7 +7228,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Helm 2017": 4
+      "Helm": 4
     },
     "score": 1.05
   },
@@ -7240,7 +7240,7 @@ export const chart = [
     "label": "EarthQuack",
     "genre": "",
     "chart_by": {
-      "Jamal Moss 2017": 4
+      "Jamal Moss": 4
     },
     "score": 1.05
   },
@@ -7252,7 +7252,7 @@ export const chart = [
     "label": "Ramrock",
     "genre": "",
     "chart_by": {
-      "Steve Barker 2017": 4
+      "Steve Barker": 4
     },
     "score": 1.05
   },
@@ -7264,7 +7264,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Felicita 2017": 4
+      "Felicita": 4
     },
     "score": 1.05
   },
@@ -7276,7 +7276,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 4
+      "Bus": 4
     },
     "score": 1.05
   },
@@ -7288,7 +7288,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 4
+      "Beatrice Dillon": 4
     },
     "score": 1.05
   },
@@ -7300,7 +7300,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 4
+      "Tic": 4
     },
     "score": 1.05
   },
@@ -7312,7 +7312,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kode 9 2017": 4
+      "Kode 9": 4
     },
     "score": 1.05
   },
@@ -7324,7 +7324,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 4
+      "Finn": 4
     },
     "score": 1.05
   },
@@ -7336,7 +7336,7 @@ export const chart = [
     "label": "TTT",
     "genre": "",
     "chart_by": {
-      "Untold 2017": 4
+      "Untold": 4
     },
     "score": 1.05
   },
@@ -7348,7 +7348,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Veronica Vasicka 2017": 4
+      "Veronica Vasicka": 4
     },
     "score": 1.05
   },
@@ -7360,7 +7360,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tzusing 2017": 4
+      "Tzusing": 4
     },
     "score": 1.05
   },
@@ -7372,7 +7372,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nkisi 2017": 4
+      "Nkisi": 4
     },
     "score": 1.05
   },
@@ -7384,7 +7384,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 4
+      "G.H.": 4
     },
     "score": 1.05
   },
@@ -7396,7 +7396,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 4
+      "Kate Carr": 4
     },
     "score": 1.05
   },
@@ -7408,7 +7408,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 4
+      "Kara-Lis Coverdale": 4
     },
     "score": 1.05
   },
@@ -7420,7 +7420,7 @@ export const chart = [
     "label": "Onderstroom",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 4
+      "Mark Cremins (Rush Hour)": 4
     },
     "score": 1.05
   },
@@ -7432,7 +7432,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 4
+      "Swing Ting": 4
     },
     "score": 1.05
   },
@@ -7456,7 +7456,7 @@ export const chart = [
     "label": "Enklav",
     "genre": "Techno / House",
     "chart_by": {
-      "Annex 2017": 4
+      "Annex": 4
     },
     "score": 1.05
   },
@@ -7468,7 +7468,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 5
+      "Swing Ting": 5
     },
     "score": 1.04
   },
@@ -7480,7 +7480,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bokeh Versions 2017": 5
+      "Bokeh Versions": 5
     },
     "score": 1.04
   },
@@ -7492,7 +7492,7 @@ export const chart = [
     "label": "(Amish Records)",
     "genre": "",
     "chart_by": {
-      "Erik K Skodvin 2017": 5
+      "Erik K Skodvin": 5
     },
     "score": 1.04
   },
@@ -7516,7 +7516,7 @@ export const chart = [
     "label": "Hotline Recordings",
     "genre": "Techno / House",
     "chart_by": {
-      "Parris 2017": 5
+      "Parris": 5
     },
     "score": 1.04
   },
@@ -7528,7 +7528,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "John Twells 2017": 5
+      "John Twells": 5
     },
     "score": 1.04
   },
@@ -7540,7 +7540,7 @@ export const chart = [
     "label": "2062 / Temporary Residence Ltd.",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Lawrence English 2017": 5
+      "Lawrence English": 5
     },
     "score": 1.04
   },
@@ -7552,7 +7552,7 @@ export const chart = [
     "label": "(self-released)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 5
+      "Kiran Sande (Blackest Ever Black / Low Company)": 5
     },
     "score": 1.04
   },
@@ -7564,7 +7564,7 @@ export const chart = [
     "label": "(INA-GRM)",
     "genre": "",
     "chart_by": {
-      "Sean Canty (Demdike Stare) 2017": 5
+      "Sean Canty (Demdike Stare)": 5
     },
     "score": 1.04
   },
@@ -7576,7 +7576,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Felicita 2017": 5
+      "Felicita": 5
     },
     "score": 1.04
   },
@@ -7588,7 +7588,7 @@ export const chart = [
     "label": "Edições CN",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 5
+      "Mark Cremins (Rush Hour)": 5
     },
     "score": 1.04
   },
@@ -7600,7 +7600,7 @@ export const chart = [
     "label": "Modern Love",
     "genre": "Electronic",
     "chart_by": {
-      "G.H. 2017": 5
+      "G.H.": 5
     },
     "score": 1.04
   },
@@ -7612,7 +7612,7 @@ export const chart = [
     "label": "(Voix)",
     "genre": "",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 5
+      "Doug Shipton (Finders Keepers)": 5
     },
     "score": 1.04
   },
@@ -7624,7 +7624,7 @@ export const chart = [
     "label": "(Harvest, 1971)",
     "genre": "",
     "chart_by": {
-      "Sarah Davachi 2017": 5
+      "Sarah Davachi": 5
     },
     "score": 1.04
   },
@@ -7636,7 +7636,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mat Steel (SND) 2017": 5
+      "Mat Steel (SND)": 5
     },
     "score": 1.04
   },
@@ -7648,7 +7648,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 5
+      "Kate Carr": 5
     },
     "score": 1.04
   },
@@ -7660,7 +7660,7 @@ export const chart = [
     "label": "RVNG Intl.",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Iona Fortune 2017": 5
+      "Iona Fortune": 5
     },
     "score": 1.04
   },
@@ -7672,7 +7672,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 5
+      "Kara-Lis Coverdale": 5
     },
     "score": 1.04
   },
@@ -7684,7 +7684,7 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Beats / Hip Hop",
     "chart_by": {
-      "JASSS 2017": 5
+      "JASSS": 5
     },
     "score": 1.04
   },
@@ -7696,7 +7696,7 @@ export const chart = [
     "label": "Devotion",
     "genre": "Electronic",
     "chart_by": {
-      "Teresa Winter 2017": 5
+      "Teresa Winter": 5
     },
     "score": 1.04
   },
@@ -7708,7 +7708,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 5
+      "Errorsmith": 5
     },
     "score": 1.04
   },
@@ -7720,7 +7720,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tobi / Good News 2017": 5
+      "Tobi / Good News": 5
     },
     "score": 1.04
   },
@@ -7744,7 +7744,7 @@ export const chart = [
     "label": "Kranky",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Samuel Kerridge 2017": 5
+      "Samuel Kerridge": 5
     },
     "score": 1.04
   },
@@ -7756,7 +7756,7 @@ export const chart = [
     "label": "Crammed Discs",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Low Jack 2017": 5
+      "Low Jack": 5
     },
     "score": 1.04
   },
@@ -7768,7 +7768,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mumdance 2017": 5
+      "Mumdance": 5
     },
     "score": 1.04
   },
@@ -7780,7 +7780,7 @@ export const chart = [
     "label": "Universal",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Novo Line 2017": 5
+      "Novo Line": 5
     },
     "score": 1.04
   },
@@ -7792,7 +7792,7 @@ export const chart = [
     "label": "Slip",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Raime 2017": 5
+      "Raime": 5
     },
     "score": 1.04
   },
@@ -7804,7 +7804,7 @@ export const chart = [
     "label": "Optimo Music / Optimo Music Selva Discos",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Illum Sphere 2017": 5
+      "Illum Sphere": 5
     },
     "score": 1.04
   },
@@ -7816,7 +7816,7 @@ export const chart = [
     "label": "Endangered Species",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Croww 2017": 5
+      "Croww": 5
     },
     "score": 1.04
   },
@@ -7828,7 +7828,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "The Bug 2017": 5
+      "The Bug": 5
     },
     "score": 1.04
   },
@@ -7840,7 +7840,7 @@ export const chart = [
     "label": "(Nuyorican Productions)",
     "genre": "",
     "chart_by": {
-      "Dale Cornish 2017": 5
+      "Dale Cornish": 5
     },
     "score": 1.04
   },
@@ -7864,7 +7864,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nic Tasker 2017": 5
+      "Nic Tasker": 5
     },
     "score": 1.04
   },
@@ -7876,7 +7876,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Deathprod 2017": 5
+      "Deathprod": 5
     },
     "score": 1.04
   },
@@ -7888,7 +7888,7 @@ export const chart = [
     "label": "Bureau B",
     "genre": "Electronic",
     "chart_by": {
-      "Nina 2017": 5
+      "Nina": 5
     },
     "score": 1.04
   },
@@ -7900,7 +7900,7 @@ export const chart = [
     "label": "Fabric Worldwide",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 5
+      "Prurient": 5
     },
     "score": 1.04
   },
@@ -7912,7 +7912,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peder Mannerfelt 2017": 5
+      "Peder Mannerfelt": 5
     },
     "score": 1.04
   },
@@ -7924,7 +7924,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nkisi 2017": 5
+      "Nkisi": 5
     },
     "score": 1.04
   },
@@ -7936,7 +7936,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 5
+      "Finn": 5
     },
     "score": 1.04
   },
@@ -7948,7 +7948,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 5
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 5
     },
     "score": 1.04
   },
@@ -7960,7 +7960,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 5
+      "Bus": 5
     },
     "score": 1.04
   },
@@ -7972,7 +7972,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Alexander Iadarola 2017": 5
+      "Alexander Iadarola": 5
     },
     "score": 1.04
   },
@@ -7984,7 +7984,7 @@ export const chart = [
     "label": "Nonplus Records",
     "genre": "Electronic",
     "chart_by": {
-      "Untold 2017": 5
+      "Untold": 5
     },
     "score": 1.04
   },
@@ -7996,7 +7996,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 5
+      "India Jordan": 5
     },
     "score": 1.04
   },
@@ -8008,7 +8008,7 @@ export const chart = [
     "label": "Anòmia",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 5
+      "N.M.O.": 5
     },
     "score": 1.04
   },
@@ -8020,7 +8020,7 @@ export const chart = [
     "label": "Thrill Jockey",
     "genre": "Electronic",
     "chart_by": {
-      "Félicia Atkinson 2017": 5
+      "Félicia Atkinson": 5
     },
     "score": 1.04
   },
@@ -8032,7 +8032,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Lorenzo Senni 2017": 5
+      "Lorenzo Senni": 5
     },
     "score": 1.04
   },
@@ -8044,7 +8044,7 @@ export const chart = [
     "label": "Rough Trade",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Matt Colton 2017": 5
+      "Matt Colton": 5
     },
     "score": 1.04
   },
@@ -8056,7 +8056,7 @@ export const chart = [
     "label": "(Vanila)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 5
+      "Helena Hauff": 5
     },
     "score": 1.04
   },
@@ -8068,7 +8068,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 5
+      "Ian Fenton (Frozen Reeds)": 5
     },
     "score": 1.04
   },
@@ -8080,7 +8080,7 @@ export const chart = [
     "label": "Bopside",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 5
+      "Trevor Jackson": 5
     },
     "score": 1.04
   },
@@ -8092,7 +8092,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Cera Khin 2017": 5
+      "Cera Khin": 5
     },
     "score": 1.04
   },
@@ -8104,7 +8104,7 @@ export const chart = [
     "label": "OIL GANG",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Tzusing 2017": 5
+      "Tzusing": 5
     },
     "score": 1.04
   },
@@ -8116,7 +8116,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 5
+      "Tom Lea": 5
     },
     "score": 1.04
   },
@@ -8128,7 +8128,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 5
+      "Equiknoxx": 5
     },
     "score": 1.04
   },
@@ -8140,7 +8140,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 5
+      "Tic": 5
     },
     "score": 1.04
   },
@@ -8164,7 +8164,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 5
+      "Regis": 5
     },
     "score": 1.04
   },
@@ -8176,7 +8176,7 @@ export const chart = [
     "label": "GROWING BIN RECORDS",
     "genre": "Electronic",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 5
+      "Keith Mcivor (Optimo)": 5
     },
     "score": 1.04
   },
@@ -8188,7 +8188,7 @@ export const chart = [
     "label": "(Anòmia)",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 5
+      "Huerco S.": 5
     },
     "score": 1.04
   },
@@ -8200,7 +8200,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 5
+      "Stephen Bishop (Basic House / Opal Tapes)": 5
     },
     "score": 1.04
   },
@@ -8212,7 +8212,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 5
+      "Nyege Nyege Tapes": 5
     },
     "score": 1.04
   },
@@ -8224,7 +8224,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 5
+      "Beatrice Dillon": 5
     },
     "score": 1.04
   },
@@ -8236,7 +8236,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 5
+      "Vereker": 5
     },
     "score": 1.04
   },
@@ -8260,7 +8260,7 @@ export const chart = [
     "label": "Act",
     "genre": "",
     "chart_by": {
-      "Jamal Moss 2017": 5
+      "Jamal Moss": 5
     },
     "score": 1.04
   },
@@ -8272,7 +8272,7 @@ export const chart = [
     "label": "(Going Good)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 6
+      "Tony Poland": 6
     },
     "score": 1.0333333333333334
   },
@@ -8284,7 +8284,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 6
+      "Beatrice Dillon": 6
     },
     "score": 1.0333333333333334
   },
@@ -8296,7 +8296,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Perc 2017": 6
+      "Perc": 6
     },
     "score": 1.0333333333333334
   },
@@ -8308,7 +8308,7 @@ export const chart = [
     "label": "Hallow Ground",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Tobi / Good News 2017": 6
+      "Tobi / Good News": 6
     },
     "score": 1.0333333333333334
   },
@@ -8320,7 +8320,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Teresa Winter 2017": 6
+      "Teresa Winter": 6
     },
     "score": 1.0333333333333334
   },
@@ -8356,7 +8356,7 @@ export const chart = [
     "label": "(HAFTW)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 6
+      "Stephan Mathieu": 6
     },
     "score": 1.0333333333333334
   },
@@ -8368,7 +8368,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 6
+      "Andy Votel's Faker's Dozen.": 6
     },
     "score": 1.0333333333333334
   },
@@ -8380,7 +8380,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peter Rehberg 2017": 6
+      "Peter Rehberg": 6
     },
     "score": 1.0333333333333334
   },
@@ -8392,7 +8392,7 @@ export const chart = [
     "label": "Mark Fell",
     "genre": "Apparel",
     "chart_by": {
-      "Rian Treanor 2017": 6
+      "Rian Treanor": 6
     },
     "score": 1.0333333333333334
   },
@@ -8404,7 +8404,7 @@ export const chart = [
     "label": "Hyperdub",
     "genre": "Electronic",
     "chart_by": {
-      "Lorenzo Senni 2017": 6
+      "Lorenzo Senni": 6
     },
     "score": 1.0333333333333334
   },
@@ -8416,7 +8416,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Felicita 2017": 6
+      "Felicita": 6
     },
     "score": 1.0333333333333334
   },
@@ -8428,7 +8428,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 6
+      "Swing Ting": 6
     },
     "score": 1.0333333333333334
   },
@@ -8440,7 +8440,7 @@ export const chart = [
     "label": "81 / Swamp 81",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Illum Sphere 2017": 6
+      "Illum Sphere": 6
     },
     "score": 1.0333333333333334
   },
@@ -8452,7 +8452,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 6
+      "Andy Stott": 6
     },
     "score": 1.0333333333333334
   },
@@ -8464,7 +8464,7 @@ export const chart = [
     "label": "No Label",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 6
+      "Trevor Jackson": 6
     },
     "score": 1.0333333333333334
   },
@@ -8476,7 +8476,7 @@ export const chart = [
     "label": "Invisible Inc",
     "genre": "Electronic",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 6
+      "Keith Mcivor (Optimo)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8488,7 +8488,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 6
+      "Vladimir Ivkovic (Offen Music)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8500,7 +8500,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 6
+      "Finn": 6
     },
     "score": 1.0333333333333334
   },
@@ -8512,7 +8512,7 @@ export const chart = [
     "label": "(Accidental Jr.)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 6
+      "Kiran Sande (Blackest Ever Black / Low Company)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8524,7 +8524,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 6
+      "Huerco S.": 6
     },
     "score": 1.0333333333333334
   },
@@ -8536,7 +8536,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 6
+      "India Jordan": 6
     },
     "score": 1.0333333333333334
   },
@@ -8548,7 +8548,7 @@ export const chart = [
     "label": "(Other Forms)",
     "genre": "",
     "chart_by": {
-      "Richard Skelton 2017": 6
+      "Richard Skelton": 6
     },
     "score": 1.0333333333333334
   },
@@ -8560,7 +8560,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Matt Colton 2017": 6
+      "Matt Colton": 6
     },
     "score": 1.0333333333333334
   },
@@ -8572,7 +8572,7 @@ export const chart = [
     "label": "(Electrix Records)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 6
+      "Helena Hauff": 6
     },
     "score": 1.0333333333333334
   },
@@ -8584,7 +8584,7 @@ export const chart = [
     "label": "Honest Jon's Records",
     "genre": "Electronic",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 6
+      "Gizmo (Berceuse Heroique)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8608,7 +8608,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 6
+      "Kara-Lis Coverdale": 6
     },
     "score": 1.0333333333333334
   },
@@ -8620,7 +8620,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 6
+      "Annex": 6
     },
     "score": 1.0333333333333334
   },
@@ -8632,7 +8632,7 @@ export const chart = [
     "label": "Trouble In Mind Records",
     "genre": "Electronic",
     "chart_by": {
-      "Sarah Davachi 2017": 6
+      "Sarah Davachi": 6
     },
     "score": 1.0333333333333334
   },
@@ -8644,7 +8644,7 @@ export const chart = [
     "label": "Whities",
     "genre": "",
     "chart_by": {
-      "Untold 2017": 6
+      "Untold": 6
     },
     "score": 1.0333333333333334
   },
@@ -8656,7 +8656,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 6
+      "Craig Tattersall (The Boats)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8668,7 +8668,7 @@ export const chart = [
     "label": "Firecracker",
     "genre": "Techno / House",
     "chart_by": {
-      "Ben Morris 2017": 6
+      "Ben Morris": 6
     },
     "score": 1.0333333333333334
   },
@@ -8680,7 +8680,7 @@ export const chart = [
     "label": "Planet Mu Records Ltd.",
     "genre": "Electronic",
     "chart_by": {
-      "Richard Chartier 2017": 6
+      "Richard Chartier": 6
     },
     "score": 1.0333333333333334
   },
@@ -8692,7 +8692,7 @@ export const chart = [
     "label": "Reel Torque",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Croww 2017": 6
+      "Croww": 6
     },
     "score": 1.0333333333333334
   },
@@ -8704,7 +8704,7 @@ export const chart = [
     "label": "Salsoul",
     "genre": "Techno / House",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 6
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8716,7 +8716,7 @@ export const chart = [
     "label": "Dekmantel",
     "genre": "Techno / House",
     "chart_by": {
-      "Dale Cornish 2017": 6
+      "Dale Cornish": 6
     },
     "score": 1.0333333333333334
   },
@@ -8728,7 +8728,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 6
+      "Vereker": 6
     },
     "score": 1.0333333333333334
   },
@@ -8740,7 +8740,7 @@ export const chart = [
     "label": "Pre-Cert Home Entertainment",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Samuel Kerridge 2017": 6
+      "Samuel Kerridge": 6
     },
     "score": 1.0333333333333334
   },
@@ -8752,7 +8752,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "a new line ( related ) 2017": 6
+      "a new line ( related )": 6
     },
     "score": 1.0333333333333334
   },
@@ -8764,7 +8764,7 @@ export const chart = [
     "label": "Polydor",
     "genre": "",
     "chart_by": {
-      "Jamal Moss 2017": 6
+      "Jamal Moss": 6
     },
     "score": 1.0333333333333334
   },
@@ -8776,7 +8776,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andrew Hargreaves 2017": 6
+      "Andrew Hargreaves": 6
     },
     "score": 1.0333333333333334
   },
@@ -8800,7 +8800,7 @@ export const chart = [
     "label": "Chained Library",
     "genre": "Electronic",
     "chart_by": {
-      "Elon Katz 2017": 6
+      "Elon Katz": 6
     },
     "score": 1.0333333333333334
   },
@@ -8812,7 +8812,7 @@ export const chart = [
     "label": "Ultratoff",
     "genre": "",
     "chart_by": {
-      "Mark Fell 2017": 6
+      "Mark Fell": 6
     },
     "score": 1.0333333333333334
   },
@@ -8824,7 +8824,7 @@ export const chart = [
     "label": "Livity Sound Recordings",
     "genre": "Techno / House",
     "chart_by": {
-      "Kowton 2017": 6
+      "Kowton": 6
     },
     "score": 1.0333333333333334
   },
@@ -8836,7 +8836,7 @@ export const chart = [
     "label": "R&S",
     "genre": "",
     "chart_by": {
-      "Logos 2017": 6
+      "Logos": 6
     },
     "score": 1.0333333333333334
   },
@@ -8848,7 +8848,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mumdance 2017": 6
+      "Mumdance": 6
     },
     "score": 1.0333333333333334
   },
@@ -8860,7 +8860,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Miles 2017": 6
+      "Miles": 6
     },
     "score": 1.0333333333333334
   },
@@ -8872,7 +8872,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 6
+      "Kate Carr": 6
     },
     "score": 1.0333333333333334
   },
@@ -8884,7 +8884,7 @@ export const chart = [
     "label": "Bureau B",
     "genre": "Electronic",
     "chart_by": {
-      "Nina 2017": 6
+      "Nina": 6
     },
     "score": 1.0333333333333334
   },
@@ -8896,7 +8896,7 @@ export const chart = [
     "label": "(Jugoton)",
     "genre": "",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 6
+      "Doug Shipton (Finders Keepers)": 6
     },
     "score": 1.0333333333333334
   },
@@ -8908,7 +8908,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 6
+      "Novo Line": 6
     },
     "score": 1.0333333333333334
   },
@@ -8920,7 +8920,7 @@ export const chart = [
     "label": "Feedelity Recordings / Smalltown Supersound",
     "genre": "Disco / Boogie / Funk",
     "chart_by": {
-      "Pye Corner Audio 2017": 6
+      "Pye Corner Audio": 6
     },
     "score": 1.0333333333333334
   },
@@ -8932,7 +8932,7 @@ export const chart = [
     "label": "The Boats Archive",
     "genre": "Electronic",
     "chart_by": {
-      "John Powell-Jones 2017": 6
+      "John Powell-Jones": 6
     },
     "score": 1.0333333333333334
   },
@@ -8944,7 +8944,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 6
+      "Equiknoxx": 6
     },
     "score": 1.0333333333333334
   },
@@ -8956,7 +8956,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Turinn 2017": 6
+      "Turinn": 6
     },
     "score": 1.0333333333333334
   },
@@ -8968,7 +8968,7 @@ export const chart = [
     "label": "XL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Peder Mannerfelt 2017": 6
+      "Peder Mannerfelt": 6
     },
     "score": 1.0333333333333334
   },
@@ -8980,7 +8980,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 6
+      "G.H.": 6
     },
     "score": 1.0333333333333334
   },
@@ -8992,7 +8992,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gábor Lázár 2017": 6
+      "Gábor Lázár": 6
     },
     "score": 1.0333333333333334
   },
@@ -9004,7 +9004,7 @@ export const chart = [
     "label": "NOT ON LABEL",
     "genre": "Techno / House",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 6
+      "Mark Cremins (Rush Hour)": 6
     },
     "score": 1.0333333333333334
   },
@@ -9016,7 +9016,7 @@ export const chart = [
     "label": "Hallow Ground",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Slip 2017": 6
+      "Slip": 6
     },
     "score": 1.0333333333333334
   },
@@ -9028,7 +9028,7 @@ export const chart = [
     "label": "Blackest Ever Black",
     "genre": "Electronic",
     "chart_by": {
-      "Ossia 2017": 6
+      "Ossia": 6
     },
     "score": 1.0333333333333334
   },
@@ -9052,7 +9052,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 6
+      "Errorsmith": 6
     },
     "score": 1.0333333333333334
   },
@@ -9064,7 +9064,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 6
+      "Tom Lea": 6
     },
     "score": 1.0333333333333334
   },
@@ -9076,7 +9076,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mumdance 2017": 7
+      "Mumdance": 7
     },
     "score": 1.0285714285714285
   },
@@ -9088,7 +9088,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 7
+      "Vladimir Ivkovic (Offen Music)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9100,7 +9100,7 @@ export const chart = [
     "label": "Intravenal Sound Operations",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Veronica Vasicka 2017": 7
+      "Veronica Vasicka": 7
     },
     "score": 1.0285714285714285
   },
@@ -9112,7 +9112,7 @@ export const chart = [
     "label": "Whities Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Gábor Lázár 2017": 7
+      "Gábor Lázár": 7
     },
     "score": 1.0285714285714285
   },
@@ -9124,7 +9124,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 7
+      "Raime": 7
     },
     "score": 1.0285714285714285
   },
@@ -9136,7 +9136,7 @@ export const chart = [
     "label": "OTHER IDEAS",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "John Powell-Jones 2017": 7
+      "John Powell-Jones": 7
     },
     "score": 1.0285714285714285
   },
@@ -9148,7 +9148,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 7
+      "Novo Line": 7
     },
     "score": 1.0285714285714285
   },
@@ -9160,7 +9160,7 @@ export const chart = [
     "label": "Dekmantel",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 7
+      "Prurient": 7
     },
     "score": 1.0285714285714285
   },
@@ -9172,7 +9172,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peder Mannerfelt 2017": 7
+      "Peder Mannerfelt": 7
     },
     "score": 1.0285714285714285
   },
@@ -9184,7 +9184,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Turinn 2017": 7
+      "Turinn": 7
     },
     "score": 1.0285714285714285
   },
@@ -9196,7 +9196,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mark Fell 2017": 7
+      "Mark Fell": 7
     },
     "score": 1.0285714285714285
   },
@@ -9208,7 +9208,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 7
+      "Errorsmith": 7
     },
     "score": 1.0285714285714285
   },
@@ -9220,7 +9220,7 @@ export const chart = [
     "label": "DEEP DISTANCE",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Not Waving 2017": 7
+      "Not Waving": 7
     },
     "score": 1.0285714285714285
   },
@@ -9244,7 +9244,7 @@ export const chart = [
     "label": "Hospital Productions",
     "genre": "Electronic",
     "chart_by": {
-      "Ossia 2017": 7
+      "Ossia": 7
     },
     "score": 1.0285714285714285
   },
@@ -9256,7 +9256,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nkisi 2017": 7
+      "Nkisi": 7
     },
     "score": 1.0285714285714285
   },
@@ -9268,7 +9268,7 @@ export const chart = [
     "label": "Wah Wah Records",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Jamal Moss 2017": 7
+      "Jamal Moss": 7
     },
     "score": 1.0285714285714285
   },
@@ -9280,7 +9280,7 @@ export const chart = [
     "label": "Braindance Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Tobi / Good News 2017": 7
+      "Tobi / Good News": 7
     },
     "score": 1.0285714285714285
   },
@@ -9292,7 +9292,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 7
+      "Beatrice Dillon": 7
     },
     "score": 1.0285714285714285
   },
@@ -9304,7 +9304,7 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 7
+      "Nyege Nyege Tapes": 7
     },
     "score": 1.0285714285714285
   },
@@ -9316,7 +9316,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 7
+      "Finn": 7
     },
     "score": 1.0285714285714285
   },
@@ -9340,7 +9340,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 7
+      "Swing Ting": 7
     },
     "score": 1.0285714285714285
   },
@@ -9352,7 +9352,7 @@ export const chart = [
     "label": "ROIR",
     "genre": "Dub / Reggae",
     "chart_by": {
-      "JASSS 2017": 7
+      "JASSS": 7
     },
     "score": 1.0285714285714285
   },
@@ -9364,7 +9364,7 @@ export const chart = [
     "label": "XL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Akira Rabelais 2017": 7
+      "Akira Rabelais": 7
     },
     "score": 1.0285714285714285
   },
@@ -9376,7 +9376,7 @@ export const chart = [
     "label": "(Zoharum)",
     "genre": "",
     "chart_by": {
-      "Richard Skelton 2017": 7
+      "Richard Skelton": 7
     },
     "score": 1.0285714285714285
   },
@@ -9388,7 +9388,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Teresa Winter 2017": 7
+      "Teresa Winter": 7
     },
     "score": 1.0285714285714285
   },
@@ -9400,7 +9400,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 7
+      "Bus": 7
     },
     "score": 1.0285714285714285
   },
@@ -9412,7 +9412,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 7
+      "Equiknoxx": 7
     },
     "score": 1.0285714285714285
   },
@@ -9424,7 +9424,7 @@ export const chart = [
     "label": "Delsin Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Newworldaquarium 2017": 7
+      "Newworldaquarium": 7
     },
     "score": 1.0285714285714285
   },
@@ -9436,7 +9436,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Electronic",
     "chart_by": {
-      "Alexander Iadarola 2017": 7
+      "Alexander Iadarola": 7
     },
     "score": 1.0285714285714285
   },
@@ -9448,7 +9448,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 7
+      "Kara-Lis Coverdale": 7
     },
     "score": 1.0285714285714285
   },
@@ -9460,7 +9460,7 @@ export const chart = [
     "label": "Hyperdub",
     "genre": "Electronic",
     "chart_by": {
-      "Lawrence English 2017": 7
+      "Lawrence English": 7
     },
     "score": 1.0285714285714285
   },
@@ -9472,7 +9472,7 @@ export const chart = [
     "label": "(Anòmia)",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 7
+      "Huerco S.": 7
     },
     "score": 1.0285714285714285
   },
@@ -9484,7 +9484,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 7
+      "India Jordan": 7
     },
     "score": 1.0285714285714285
   },
@@ -9496,7 +9496,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "John Twells 2017": 7
+      "John Twells": 7
     },
     "score": 1.0285714285714285
   },
@@ -9508,7 +9508,7 @@ export const chart = [
     "label": "E-Beamz",
     "genre": "Techno / House",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 7
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9520,7 +9520,7 @@ export const chart = [
     "label": "Ghostly International",
     "genre": "Techno / House",
     "chart_by": {
-      "a new line ( related ) 2017": 7
+      "a new line ( related )": 7
     },
     "score": 1.0285714285714285
   },
@@ -9532,7 +9532,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 7
+      "Kate Carr": 7
     },
     "score": 1.0285714285714285
   },
@@ -9544,7 +9544,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mat Steel (SND) 2017": 7
+      "Mat Steel (SND)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9556,7 +9556,7 @@ export const chart = [
     "label": "Boomkat Editions",
     "genre": "Electronic",
     "chart_by": {
-      "Robert Aiki Aubrey Lowe 2017": 7
+      "Robert Aiki Aubrey Lowe": 7
     },
     "score": 1.0285714285714285
   },
@@ -9568,7 +9568,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Rian Treanor 2017": 7
+      "Rian Treanor": 7
     },
     "score": 1.0285714285714285
   },
@@ -9580,7 +9580,7 @@ export const chart = [
     "label": "HIDDEN HAWAII",
     "genre": "Electronic",
     "chart_by": {
-      "Pessimist 2017": 7
+      "Pessimist": 7
     },
     "score": 1.0285714285714285
   },
@@ -9592,7 +9592,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peter Rehberg 2017": 7
+      "Peter Rehberg": 7
     },
     "score": 1.0285714285714285
   },
@@ -9604,7 +9604,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Shifted 2017": 7
+      "Shifted": 7
     },
     "score": 1.0285714285714285
   },
@@ -9640,7 +9640,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 7
+      "Helena Hauff": 7
     },
     "score": 1.0285714285714285
   },
@@ -9652,7 +9652,7 @@ export const chart = [
     "label": "ITALIANS DO IT BETTER",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Andy Stott 2017": 7
+      "Andy Stott": 7
     },
     "score": 1.0285714285714285
   },
@@ -9664,7 +9664,7 @@ export const chart = [
     "label": "Sonic Pieces",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Erik K Skodvin 2017": 7
+      "Erik K Skodvin": 7
     },
     "score": 1.0285714285714285
   },
@@ -9676,7 +9676,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 7
+      "Ian Fenton (Frozen Reeds)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9688,7 +9688,7 @@ export const chart = [
     "label": "(Catch Wave Ltd.)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 7
+      "Stephan Mathieu": 7
     },
     "score": 1.0285714285714285
   },
@@ -9700,7 +9700,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Bartolomé Sanson (Shelter Press) 2017": 7
+      "Bartolomé Sanson (Shelter Press)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9712,7 +9712,7 @@ export const chart = [
     "label": "Token",
     "genre": "Techno / House",
     "chart_by": {
-      "Anastasia Kristensen 2017": 7
+      "Anastasia Kristensen": 7
     },
     "score": 1.0285714285714285
   },
@@ -9724,7 +9724,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 7
+      "Annex": 7
     },
     "score": 1.0285714285714285
   },
@@ -9736,7 +9736,7 @@ export const chart = [
     "label": "Jagjaguwar",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 7
+      "Doug Shipton (Finders Keepers)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9748,7 +9748,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 7
+      "G.H.": 7
     },
     "score": 1.0285714285714285
   },
@@ -9760,7 +9760,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 7
+      "Tom Lea": 7
     },
     "score": 1.0285714285714285
   },
@@ -9772,7 +9772,7 @@ export const chart = [
     "label": "Leisure System",
     "genre": "Electronic",
     "chart_by": {
-      "Perc 2017": 7
+      "Perc": 7
     },
     "score": 1.0285714285714285
   },
@@ -9784,7 +9784,7 @@ export const chart = [
     "label": "(Sacred Bones)",
     "genre": "",
     "chart_by": {
-      "Shapednoise 2017": 7
+      "Shapednoise": 7
     },
     "score": 1.0285714285714285
   },
@@ -9796,7 +9796,7 @@ export const chart = [
     "label": "FXHE",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 7
+      "Boomkat: Most Overlooked Releases": 7
     },
     "score": 1.0285714285714285
   },
@@ -9808,7 +9808,7 @@ export const chart = [
     "label": "Modern Love",
     "genre": "Electronic",
     "chart_by": {
-      "Primitive World 2017": 7
+      "Primitive World": 7
     },
     "score": 1.0285714285714285
   },
@@ -9820,7 +9820,7 @@ export const chart = [
     "label": "(Cold Spring)",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 7
+      "Regis": 7
     },
     "score": 1.0285714285714285
   },
@@ -9832,7 +9832,7 @@ export const chart = [
     "label": "Alien Transistor",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Monique Recknagel 2017": 7
+      "Monique Recknagel": 7
     },
     "score": 1.0285714285714285
   },
@@ -9844,7 +9844,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 7
+      "Tic": 7
     },
     "score": 1.0285714285714285
   },
@@ -9856,7 +9856,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Felicita 2017": 7
+      "Felicita": 7
     },
     "score": 1.0285714285714285
   },
@@ -9868,7 +9868,7 @@ export const chart = [
     "label": "Family Vineyard",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Andrew Hargreaves 2017": 7
+      "Andrew Hargreaves": 7
     },
     "score": 1.0285714285714285
   },
@@ -9880,7 +9880,7 @@ export const chart = [
     "label": "Okraina Records",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Carla Dal Forno 2017": 7
+      "Carla Dal Forno": 7
     },
     "score": 1.0285714285714285
   },
@@ -9892,7 +9892,7 @@ export const chart = [
     "label": "(Bokeh)",
     "genre": "",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 7
+      "Keith Mcivor (Optimo)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9904,7 +9904,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 7
+      "Vereker": 7
     },
     "score": 1.0285714285714285
   },
@@ -9916,7 +9916,7 @@ export const chart = [
     "label": "Alter",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 7
+      "Kiran Sande (Blackest Ever Black / Low Company)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9928,7 +9928,7 @@ export const chart = [
     "label": "Ba Da Bing!",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Sarah Davachi 2017": 7
+      "Sarah Davachi": 7
     },
     "score": 1.0285714285714285
   },
@@ -9940,7 +9940,7 @@ export const chart = [
     "label": "Honest Jon's Records",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 7
+      "Gizmo (Berceuse Heroique)": 7
     },
     "score": 1.0285714285714285
   },
@@ -9952,7 +9952,7 @@ export const chart = [
     "label": "IDLE HANDS",
     "genre": "Techno / House",
     "chart_by": {
-      "Ben Morris 2017": 7
+      "Ben Morris": 7
     },
     "score": 1.0285714285714285
   },
@@ -9964,7 +9964,7 @@ export const chart = [
     "label": "(Bank Records NYC)",
     "genre": "",
     "chart_by": {
-      "Becka Diamond 2017": 7
+      "Becka Diamond": 7
     },
     "score": 1.0285714285714285
   },
@@ -9976,7 +9976,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Untold 2017": 7
+      "Untold": 7
     },
     "score": 1.0285714285714285
   },
@@ -9988,7 +9988,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 7
+      "Craig Tattersall (The Boats)": 7
     },
     "score": 1.0285714285714285
   },
@@ -10000,7 +10000,7 @@ export const chart = [
     "label": "Error Broadcast",
     "genre": "Electronic",
     "chart_by": {
-      "Slip 2017": 7
+      "Slip": 7
     },
     "score": 1.0285714285714285
   },
@@ -10012,7 +10012,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nic Tasker 2017": 7
+      "Nic Tasker": 7
     },
     "score": 1.0285714285714285
   },
@@ -10024,7 +10024,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 7
+      "Stephen Bishop (Basic House / Opal Tapes)": 7
     },
     "score": 1.0285714285714285
   },
@@ -10036,7 +10036,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Samuel Kerridge 2017": 7
+      "Samuel Kerridge": 7
     },
     "score": 1.0285714285714285
   },
@@ -10060,7 +10060,7 @@ export const chart = [
     "label": "No Corner",
     "genre": "Electronic",
     "chart_by": {
-      "Ossia 2017": 8
+      "Ossia": 8
     },
     "score": 1.025
   },
@@ -10072,7 +10072,7 @@ export const chart = [
     "label": "(RCA, 1971)",
     "genre": "",
     "chart_by": {
-      "Sarah Davachi 2017": 8
+      "Sarah Davachi": 8
     },
     "score": 1.025
   },
@@ -10084,7 +10084,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Croww 2017": 8
+      "Croww": 8
     },
     "score": 1.025
   },
@@ -10096,7 +10096,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Alexander Iadarola 2017": 8
+      "Alexander Iadarola": 8
     },
     "score": 1.025
   },
@@ -10108,7 +10108,7 @@ export const chart = [
     "label": "(Aught)",
     "genre": "",
     "chart_by": {
-      "Richard Skelton 2017": 8
+      "Richard Skelton": 8
     },
     "score": 1.025
   },
@@ -10120,7 +10120,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 8
+      "Finn": 8
     },
     "score": 1.025
   },
@@ -10132,7 +10132,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nkisi 2017": 8
+      "Nkisi": 8
     },
     "score": 1.025
   },
@@ -10144,7 +10144,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mark Fell 2017": 8
+      "Mark Fell": 8
     },
     "score": 1.025
   },
@@ -10156,7 +10156,7 @@ export const chart = [
     "label": "Konstrukt (NL)",
     "genre": "",
     "chart_by": {
-      "Untold 2017": 8
+      "Untold": 8
     },
     "score": 1.025
   },
@@ -10168,7 +10168,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 8
+      "Slip": 8
     },
     "score": 1.025
   },
@@ -10180,7 +10180,7 @@ export const chart = [
     "label": "(Tochnit Aleph)",
     "genre": "",
     "chart_by": {
-      "Joachim Nordwall 2017": 8
+      "Joachim Nordwall": 8
     },
     "score": 1.025
   },
@@ -10192,7 +10192,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gábor Lázár 2017": 8
+      "Gábor Lázár": 8
     },
     "score": 1.025
   },
@@ -10204,7 +10204,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tobi / Good News 2017": 8
+      "Tobi / Good News": 8
     },
     "score": 1.025
   },
@@ -10216,7 +10216,7 @@ export const chart = [
     "label": "Kaya Kaya Records",
     "genre": "Electronic",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 8
+      "Doug Shipton (Finders Keepers)": 8
     },
     "score": 1.025
   },
@@ -10228,7 +10228,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 8
+      "G.H.": 8
     },
     "score": 1.025
   },
@@ -10240,7 +10240,7 @@ export const chart = [
     "label": "Hospital Productions",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Perc 2017": 8
+      "Perc": 8
     },
     "score": 1.025
   },
@@ -10252,7 +10252,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andrew Hargreaves 2017": 8
+      "Andrew Hargreaves": 8
     },
     "score": 1.025
   },
@@ -10264,7 +10264,7 @@ export const chart = [
     "label": "OPAL TAPES",
     "genre": "Electronic",
     "chart_by": {
-      "Richard Chartier 2017": 8
+      "Richard Chartier": 8
     },
     "score": 1.025
   },
@@ -10288,7 +10288,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 8
+      "Vereker": 8
     },
     "score": 1.025
   },
@@ -10300,7 +10300,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 8
+      "Annex": 8
     },
     "score": 1.025
   },
@@ -10312,7 +10312,7 @@ export const chart = [
     "label": "Dom & Roland Productions",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Pessimist 2017": 8
+      "Pessimist": 8
     },
     "score": 1.025
   },
@@ -10336,7 +10336,7 @@ export const chart = [
     "label": "Instruments Of Discipline",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 8
+      "Stephen Bishop (Basic House / Opal Tapes)": 8
     },
     "score": 1.025
   },
@@ -10348,7 +10348,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Logos 2017": 8
+      "Logos": 8
     },
     "score": 1.025
   },
@@ -10360,7 +10360,7 @@ export const chart = [
     "label": "TAPE LOOP ORCHESTRA",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 8
+      "Craig Tattersall (The Boats)": 8
     },
     "score": 1.025
   },
@@ -10372,7 +10372,7 @@ export const chart = [
     "label": "ARTEMISIA",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "John Powell-Jones 2017": 8
+      "John Powell-Jones": 8
     },
     "score": 1.025
   },
@@ -10384,7 +10384,7 @@ export const chart = [
     "label": "BLACK SWEAT RECORDS",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Nyege Nyege Tapes 2017": 8
+      "Nyege Nyege Tapes": 8
     },
     "score": 1.025
   },
@@ -10420,7 +10420,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bokeh Versions 2017": 8
+      "Bokeh Versions": 8
     },
     "score": 1.025
   },
@@ -10432,7 +10432,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 8
+      "Vladimir Ivkovic (Offen Music)": 8
     },
     "score": 1.025
   },
@@ -10444,7 +10444,7 @@ export const chart = [
     "label": "(SUED)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 8
+      "Kiran Sande (Blackest Ever Black / Low Company)": 8
     },
     "score": 1.025
   },
@@ -10456,7 +10456,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 8
+      "Andy Stott": 8
     },
     "score": 1.025
   },
@@ -10468,7 +10468,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Sean Canty (Demdike Stare) 2017": 8
+      "Sean Canty (Demdike Stare)": 8
     },
     "score": 1.025
   },
@@ -10480,7 +10480,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 8
+      "Andy Votel's Faker's Dozen.": 8
     },
     "score": 1.025
   },
@@ -10492,7 +10492,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 8
+      "Kate Carr": 8
     },
     "score": 1.025
   },
@@ -10516,7 +10516,7 @@ export const chart = [
     "label": "Sub-Bombin",
     "genre": "",
     "chart_by": {
-      "Jamal Moss 2017": 8
+      "Jamal Moss": 8
     },
     "score": 1.025
   },
@@ -10528,7 +10528,7 @@ export const chart = [
     "label": "L.I.E.S.",
     "genre": "Techno / House",
     "chart_by": {
-      "Jon K 2017": 8
+      "Jon K": 8
     },
     "score": 1.025
   },
@@ -10540,7 +10540,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 8
+      "Novo Line": 8
     },
     "score": 1.025
   },
@@ -10552,7 +10552,7 @@ export const chart = [
     "label": "Clone West Coast Series",
     "genre": "Techno / House",
     "chart_by": {
-      "Nightwave 2017": 8
+      "Nightwave": 8
     },
     "score": 1.025
   },
@@ -10564,7 +10564,7 @@ export const chart = [
     "label": "(PPU)",
     "genre": "",
     "chart_by": {
-      "CS + Kreme 2017": 8
+      "CS + Kreme": 8
     },
     "score": 1.025
   },
@@ -10576,7 +10576,7 @@ export const chart = [
     "label": "The Vinyl Factory",
     "genre": "Electronic",
     "chart_by": {
-      "The Bug 2017": 8
+      "The Bug": 8
     },
     "score": 1.025
   },
@@ -10588,7 +10588,7 @@ export const chart = [
     "label": "A Colourful Storm",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Nic Tasker 2017": 8
+      "Nic Tasker": 8
     },
     "score": 1.025
   },
@@ -10600,7 +10600,7 @@ export const chart = [
     "label": "Smalltown Supersound",
     "genre": "Electronic",
     "chart_by": {
-      "Deathprod 2017": 8
+      "Deathprod": 8
     },
     "score": 1.025
   },
@@ -10612,7 +10612,7 @@ export const chart = [
     "label": "Break World Records",
     "genre": "Electronic",
     "chart_by": {
-      "N.M.O. 2017": 8
+      "N.M.O.": 8
     },
     "score": 1.025
   },
@@ -10624,7 +10624,7 @@ export const chart = [
     "label": "(Polytechnic Youth)",
     "genre": "",
     "chart_by": {
-      "Pye Corner Audio 2017": 8
+      "Pye Corner Audio": 8
     },
     "score": 1.025
   },
@@ -10636,7 +10636,7 @@ export const chart = [
     "label": "Dalmata Daniel",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Helena Hauff 2017": 8
+      "Helena Hauff": 8
     },
     "score": 1.025
   },
@@ -10648,7 +10648,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Cera Khin 2017": 8
+      "Cera Khin": 8
     },
     "score": 1.025
   },
@@ -10660,7 +10660,7 @@ export const chart = [
     "label": "Numero Group",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Regis 2017": 8
+      "Regis": 8
     },
     "score": 1.025
   },
@@ -10672,7 +10672,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 8
+      "Huerco S.": 8
     },
     "score": 1.025
   },
@@ -10684,7 +10684,7 @@ export const chart = [
     "label": "Strength Music Recordings",
     "genre": "Techno / House",
     "chart_by": {
-      "Kowton 2017": 8
+      "Kowton": 8
     },
     "score": 1.025
   },
@@ -10696,7 +10696,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 8
+      "Raime": 8
     },
     "score": 1.025
   },
@@ -10708,7 +10708,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 8
+      "Swing Ting": 8
     },
     "score": 1.025
   },
@@ -10720,7 +10720,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Samuel Kerridge 2017": 8
+      "Samuel Kerridge": 8
     },
     "score": 1.025
   },
@@ -10732,7 +10732,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tic 2017": 8
+      "Tic": 8
     },
     "score": 1.025
   },
@@ -10744,7 +10744,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 8
+      "India Jordan": 8
     },
     "score": 1.025
   },
@@ -10756,7 +10756,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 8
+      "Tom Lea": 8
     },
     "score": 1.025
   },
@@ -10768,7 +10768,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 8
+      "Equiknoxx": 8
     },
     "score": 1.025
   },
@@ -10780,7 +10780,7 @@ export const chart = [
     "label": "Autonomous Africa",
     "genre": "Electronic",
     "chart_by": {
-      "Illum Sphere 2017": 8
+      "Illum Sphere": 8
     },
     "score": 1.025
   },
@@ -10792,7 +10792,7 @@ export const chart = [
     "label": "(Epic)",
     "genre": "",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 8
+      "Keith Mcivor (Optimo)": 8
     },
     "score": 1.025
   },
@@ -10804,7 +10804,7 @@ export const chart = [
     "label": "SVBKVLT",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Tzusing 2017": 8
+      "Tzusing": 8
     },
     "score": 1.025
   },
@@ -10816,7 +10816,7 @@ export const chart = [
     "label": "4AD",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Peter Rehberg 2017": 8
+      "Peter Rehberg": 8
     },
     "score": 1.025
   },
@@ -10828,7 +10828,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Newworldaquarium 2017": 8
+      "Newworldaquarium": 8
     },
     "score": 1.025
   },
@@ -10840,7 +10840,7 @@ export const chart = [
     "label": "Ruby Yacht / The Order Label",
     "genre": "Beats / Hip Hop",
     "chart_by": {
-      "Akira Rabelais 2017": 8
+      "Akira Rabelais": 8
     },
     "score": 1.025
   },
@@ -10852,7 +10852,7 @@ export const chart = [
     "label": "Hospital Productions",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Becka Diamond 2017": 8
+      "Becka Diamond": 8
     },
     "score": 1.025
   },
@@ -10864,7 +10864,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 8
+      "Prurient": 8
     },
     "score": 1.025
   },
@@ -10876,7 +10876,7 @@ export const chart = [
     "label": "THE TAPEWORM",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Dale Cornish 2017": 8
+      "Dale Cornish": 8
     },
     "score": 1.025
   },
@@ -10888,7 +10888,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 8
+      "Kara-Lis Coverdale": 8
     },
     "score": 1.025
   },
@@ -10900,7 +10900,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 8
+      "Mark Cremins (Rush Hour)": 8
     },
     "score": 1.025
   },
@@ -10924,7 +10924,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 8
+      "Errorsmith": 8
     },
     "score": 1.025
   },
@@ -10936,7 +10936,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 8
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 8
     },
     "score": 1.025
   },
@@ -10948,7 +10948,7 @@ export const chart = [
     "label": "History Always Favours The Winners",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Felicita 2017": 8
+      "Felicita": 8
     },
     "score": 1.025
   },
@@ -10960,7 +10960,7 @@ export const chart = [
     "label": "Repitch Recordings",
     "genre": "Techno / House",
     "chart_by": {
-      "Shapednoise 2017": 8
+      "Shapednoise": 8
     },
     "score": 1.025
   },
@@ -10972,7 +10972,7 @@ export const chart = [
     "label": "Death Waltz Recording Company",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Lorenzo Senni 2017": 8
+      "Lorenzo Senni": 8
     },
     "score": 1.025
   },
@@ -10984,7 +10984,7 @@ export const chart = [
     "label": "L.I.E.S.",
     "genre": "Techno / House",
     "chart_by": {
-      "Jon K 2017": 9
+      "Jon K": 9
     },
     "score": 1.0222222222222221
   },
@@ -10996,7 +10996,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Teresa Winter 2017": 9
+      "Teresa Winter": 9
     },
     "score": 1.0222222222222221
   },
@@ -11008,7 +11008,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 9
+      "Errorsmith": 9
     },
     "score": 1.0222222222222221
   },
@@ -11020,7 +11020,7 @@ export const chart = [
     "label": "4AD",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Jamal Moss 2017": 9
+      "Jamal Moss": 9
     },
     "score": 1.0222222222222221
   },
@@ -11044,7 +11044,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 9
+      "Equiknoxx": 9
     },
     "score": 1.0222222222222221
   },
@@ -11056,7 +11056,7 @@ export const chart = [
     "label": "Berceuse Heroique",
     "genre": "",
     "chart_by": {
-      "Pessimist 2017": 9
+      "Pessimist": 9
     },
     "score": 1.0222222222222221
   },
@@ -11068,7 +11068,7 @@ export const chart = [
     "label": "(ZHdK)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 9
+      "Stephan Mathieu": 9
     },
     "score": 1.0222222222222221
   },
@@ -11080,7 +11080,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 9
+      "G.H.": 9
     },
     "score": 1.0222222222222221
   },
@@ -11092,7 +11092,7 @@ export const chart = [
     "label": "EAUX",
     "genre": "Techno / House",
     "chart_by": {
-      "Untold 2017": 9
+      "Untold": 9
     },
     "score": 1.0222222222222221
   },
@@ -11116,7 +11116,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 9
+      "Swing Ting": 9
     },
     "score": 1.0222222222222221
   },
@@ -11128,7 +11128,7 @@ export const chart = [
     "label": "International Black",
     "genre": "Techno / House",
     "chart_by": {
-      "Anastasia Kristensen 2017": 9
+      "Anastasia Kristensen": 9
     },
     "score": 1.0222222222222221
   },
@@ -11140,7 +11140,7 @@ export const chart = [
     "label": "bbbbbb",
     "genre": "Beats / Hip Hop",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 9
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11152,7 +11152,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Stephen Bishop (Basic House / Opal Tapes) 2017": 9
+      "Stephen Bishop (Basic House / Opal Tapes)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11164,7 +11164,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 9
+      "Craig Tattersall (The Boats)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11176,7 +11176,7 @@ export const chart = [
     "label": "Luaka Bop",
     "genre": "",
     "chart_by": {
-      "Miles 2017": 9
+      "Miles": 9
     },
     "score": 1.0222222222222221
   },
@@ -11188,7 +11188,7 @@ export const chart = [
     "label": "Boomkat Editions",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Turinn 2017": 9
+      "Turinn": 9
     },
     "score": 1.0222222222222221
   },
@@ -11200,7 +11200,7 @@ export const chart = [
     "label": "Lower Floor",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "John Powell-Jones 2017": 9
+      "John Powell-Jones": 9
     },
     "score": 1.0222222222222221
   },
@@ -11212,7 +11212,7 @@ export const chart = [
     "label": "(Besides)",
     "genre": "",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 9
+      "Doug Shipton (Finders Keepers)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11224,7 +11224,7 @@ export const chart = [
     "label": "Editions Gravats",
     "genre": "Electronic",
     "chart_by": {
-      "Bartolomé Sanson (Shelter Press) 2017": 9
+      "Bartolomé Sanson (Shelter Press)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11236,7 +11236,7 @@ export const chart = [
     "label": "Cusp Editions",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Rian Treanor 2017": 9
+      "Rian Treanor": 9
     },
     "score": 1.0222222222222221
   },
@@ -11248,7 +11248,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mat Steel (SND) 2017": 9
+      "Mat Steel (SND)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11260,7 +11260,7 @@ export const chart = [
     "label": "City-2 St. Giga",
     "genre": "Electronic",
     "chart_by": {
-      "Huerco S. 2017": 9
+      "Huerco S.": 9
     },
     "score": 1.0222222222222221
   },
@@ -11272,7 +11272,7 @@ export const chart = [
     "label": "Modern Harmonic",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Regis 2017": 9
+      "Regis": 9
     },
     "score": 1.0222222222222221
   },
@@ -11284,7 +11284,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kode 9 2017": 9
+      "Kode 9": 9
     },
     "score": 1.0222222222222221
   },
@@ -11296,7 +11296,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tobi / Good News 2017": 9
+      "Tobi / Good News": 9
     },
     "score": 1.0222222222222221
   },
@@ -11308,7 +11308,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 9
+      "Vereker": 9
     },
     "score": 1.0222222222222221
   },
@@ -11320,7 +11320,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 9
+      "Kara-Lis Coverdale": 9
     },
     "score": 1.0222222222222221
   },
@@ -11332,7 +11332,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gábor Lázár 2017": 9
+      "Gábor Lázár": 9
     },
     "score": 1.0222222222222221
   },
@@ -11344,7 +11344,7 @@ export const chart = [
     "label": "(Phormix Tapes)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 9
+      "Helena Hauff": 9
     },
     "score": 1.0222222222222221
   },
@@ -11356,7 +11356,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tzusing 2017": 9
+      "Tzusing": 9
     },
     "score": 1.0222222222222221
   },
@@ -11368,7 +11368,7 @@ export const chart = [
     "label": "Drag City",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Monique Recknagel 2017": 9
+      "Monique Recknagel": 9
     },
     "score": 1.0222222222222221
   },
@@ -11380,7 +11380,7 @@ export const chart = [
     "label": "Aficionado",
     "genre": "",
     "chart_by": {
-      "Steve Barker 2017": 9
+      "Steve Barker": 9
     },
     "score": 1.0222222222222221
   },
@@ -11392,7 +11392,7 @@ export const chart = [
     "label": "Super Dark Times",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Shifted 2017": 9
+      "Shifted": 9
     },
     "score": 1.0222222222222221
   },
@@ -11404,7 +11404,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 9
+      "Beatrice Dillon": 9
     },
     "score": 1.0222222222222221
   },
@@ -11416,7 +11416,7 @@ export const chart = [
     "label": "Hotline Recordings",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Cera Khin 2017": 9
+      "Cera Khin": 9
     },
     "score": 1.0222222222222221
   },
@@ -11440,7 +11440,7 @@ export const chart = [
     "label": "4AD",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Peter Rehberg 2017": 9
+      "Peter Rehberg": 9
     },
     "score": 1.0222222222222221
   },
@@ -11452,7 +11452,7 @@ export const chart = [
     "label": "MISSISSIPPI",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 9
+      "Gizmo (Berceuse Heroique)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11476,7 +11476,7 @@ export const chart = [
     "label": "La Tempesta International / Hospital Productions",
     "genre": "Electronic",
     "chart_by": {
-      "Lorenzo Senni 2017": 9
+      "Lorenzo Senni": 9
     },
     "score": 1.0222222222222221
   },
@@ -11488,7 +11488,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Carla Dal Forno 2017": 9
+      "Carla Dal Forno": 9
     },
     "score": 1.0222222222222221
   },
@@ -11500,7 +11500,7 @@ export const chart = [
     "label": "(Minimal Wave)",
     "genre": "",
     "chart_by": {
-      "Becka Diamond 2017": 9
+      "Becka Diamond": 9
     },
     "score": 1.0222222222222221
   },
@@ -11512,7 +11512,7 @@ export const chart = [
     "label": "Mannequin",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Not Waving 2017": 9
+      "Not Waving": 9
     },
     "score": 1.0222222222222221
   },
@@ -11524,7 +11524,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Elon Katz 2017": 9
+      "Elon Katz": 9
     },
     "score": 1.0222222222222221
   },
@@ -11536,7 +11536,7 @@ export const chart = [
     "label": "Shelter Press",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "N.M.O. 2017": 9
+      "N.M.O.": 9
     },
     "score": 1.0222222222222221
   },
@@ -11548,7 +11548,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 9
+      "Vladimir Ivkovic (Offen Music)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11560,7 +11560,7 @@ export const chart = [
     "label": "Angela Bulloch",
     "genre": "Electronic",
     "chart_by": {
-      "Slip 2017": 9
+      "Slip": 9
     },
     "score": 1.0222222222222221
   },
@@ -11572,7 +11572,7 @@ export const chart = [
     "label": "Medical Records",
     "genre": "Electronic",
     "chart_by": {
-      "Newworldaquarium 2017": 9
+      "Newworldaquarium": 9
     },
     "score": 1.0222222222222221
   },
@@ -11584,7 +11584,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Felicita 2017": 9
+      "Felicita": 9
     },
     "score": 1.0222222222222221
   },
@@ -11608,7 +11608,7 @@ export const chart = [
     "label": "Aguirre",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 9
+      "Mark Cremins (Rush Hour)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11620,7 +11620,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nkisi 2017": 9
+      "Nkisi": 9
     },
     "score": 1.0222222222222221
   },
@@ -11632,7 +11632,7 @@ export const chart = [
     "label": "Pacific City Sound Visions",
     "genre": "Electronic",
     "chart_by": {
-      "Félicia Atkinson 2017": 9
+      "Félicia Atkinson": 9
     },
     "score": 1.0222222222222221
   },
@@ -11644,7 +11644,7 @@ export const chart = [
     "label": "INVADA Records",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Akira Rabelais 2017": 9
+      "Akira Rabelais": 9
     },
     "score": 1.0222222222222221
   },
@@ -11656,7 +11656,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 9
+      "India Jordan": 9
     },
     "score": 1.0222222222222221
   },
@@ -11668,7 +11668,7 @@ export const chart = [
     "label": "Young Turks Recordings / Young Turks Recordings Ltd",
     "genre": "Beats / Hip Hop",
     "chart_by": {
-      "Matt Colton 2017": 9
+      "Matt Colton": 9
     },
     "score": 1.0222222222222221
   },
@@ -11680,7 +11680,7 @@ export const chart = [
     "label": "Antinote",
     "genre": "Electronic",
     "chart_by": {
-      "Finn 2017": 9
+      "Finn": 9
     },
     "score": 1.0222222222222221
   },
@@ -11692,7 +11692,7 @@ export const chart = [
     "label": "Alga Marghen",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Sarah Davachi 2017": 9
+      "Sarah Davachi": 9
     },
     "score": 1.0222222222222221
   },
@@ -11704,7 +11704,7 @@ export const chart = [
     "label": "Geffen",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Samuel Kerridge 2017": 9
+      "Samuel Kerridge": 9
     },
     "score": 1.0222222222222221
   },
@@ -11728,7 +11728,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 9
+      "Ian Fenton (Frozen Reeds)": 9
     },
     "score": 1.0222222222222221
   },
@@ -11752,7 +11752,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 9
+      "Andy Votel's Faker's Dozen.": 9
     },
     "score": 1.0222222222222221
   },
@@ -11764,7 +11764,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 9
+      "Prurient": 9
     },
     "score": 1.0222222222222221
   },
@@ -11776,7 +11776,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peder Mannerfelt 2017": 9
+      "Peder Mannerfelt": 9
     },
     "score": 1.0222222222222221
   },
@@ -11788,7 +11788,7 @@ export const chart = [
     "label": "[Bala Club]",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 9
+      "Annex": 9
     },
     "score": 1.0222222222222221
   },
@@ -11800,7 +11800,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Electronic",
     "chart_by": {
-      "Dale Cornish 2017": 9
+      "Dale Cornish": 9
     },
     "score": 1.0222222222222221
   },
@@ -11812,7 +11812,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 9
+      "Kate Carr": 9
     },
     "score": 1.0222222222222221
   },
@@ -11824,7 +11824,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nic Tasker 2017": 9
+      "Nic Tasker": 9
     },
     "score": 1.0222222222222221
   },
@@ -11836,7 +11836,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 9
+      "Tom Lea": 9
     },
     "score": 1.0222222222222221
   },
@@ -11848,7 +11848,7 @@ export const chart = [
     "label": "(Blackest Ever Black)",
     "genre": "",
     "chart_by": {
-      "CS + Kreme 2017": 9
+      "CS + Kreme": 9
     },
     "score": 1.0222222222222221
   },
@@ -11860,7 +11860,7 @@ export const chart = [
     "label": "Kranky",
     "genre": "Electronic",
     "chart_by": {
-      "Mumdance 2017": 9
+      "Mumdance": 9
     },
     "score": 1.0222222222222221
   },
@@ -11872,7 +11872,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nightwave 2017": 9
+      "Nightwave": 9
     },
     "score": 1.0222222222222221
   },
@@ -11884,7 +11884,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 9
+      "Novo Line": 9
     },
     "score": 1.0222222222222221
   },
@@ -11896,7 +11896,7 @@ export const chart = [
     "label": "City-2 St. Giga",
     "genre": "Techno / House",
     "chart_by": {
-      "Tony Poland 2017": 9
+      "Tony Poland": 9
     },
     "score": 1.0222222222222221
   },
@@ -11908,7 +11908,7 @@ export const chart = [
     "label": "(A Giant Fern)",
     "genre": "",
     "chart_by": {
-      "Richard Skelton 2017": 10
+      "Richard Skelton": 10
     },
     "score": 1.02
   },
@@ -11920,7 +11920,7 @@ export const chart = [
     "label": "INNER SURFACE MUSIC",
     "genre": "Techno / House",
     "chart_by": {
-      "Mumdance 2017": 10
+      "Mumdance": 10
     },
     "score": 1.02
   },
@@ -11932,7 +11932,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 10
+      "Gizmo (Berceuse Heroique)": 10
     },
     "score": 1.02
   },
@@ -11944,7 +11944,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Novo Line 2017": 10
+      "Novo Line": 10
     },
     "score": 1.02
   },
@@ -11956,7 +11956,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Anthony Naples 2017": 10
+      "Anthony Naples": 10
     },
     "score": 1.02
   },
@@ -11968,7 +11968,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 10
+      "Jon K": 10
     },
     "score": 1.02
   },
@@ -11980,7 +11980,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kara-Lis Coverdale 2017": 10
+      "Kara-Lis Coverdale": 10
     },
     "score": 1.02
   },
@@ -11992,7 +11992,7 @@ export const chart = [
     "label": "Mexican Summer",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Félicia Atkinson 2017": 10
+      "Félicia Atkinson": 10
     },
     "score": 1.02
   },
@@ -12004,7 +12004,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bokeh Versions 2017": 10
+      "Bokeh Versions": 10
     },
     "score": 1.02
   },
@@ -12016,7 +12016,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Errorsmith 2017": 10
+      "Errorsmith": 10
     },
     "score": 1.02
   },
@@ -12028,7 +12028,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Teresa Winter 2017": 10
+      "Teresa Winter": 10
     },
     "score": 1.02
   },
@@ -12040,7 +12040,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 10
+      "Andy Stott": 10
     },
     "score": 1.02
   },
@@ -12064,7 +12064,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Parris 2017": 10
+      "Parris": 10
     },
     "score": 1.02
   },
@@ -12076,7 +12076,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gábor Lázár 2017": 10
+      "Gábor Lázár": 10
     },
     "score": 1.02
   },
@@ -12088,7 +12088,7 @@ export const chart = [
     "label": "Omnivore",
     "genre": "",
     "chart_by": {
-      "Jamal Moss 2017": 10
+      "Jamal Moss": 10
     },
     "score": 1.02
   },
@@ -12100,7 +12100,7 @@ export const chart = [
     "label": "Technicolour",
     "genre": "Techno / House",
     "chart_by": {
-      "Nightwave 2017": 10
+      "Nightwave": 10
     },
     "score": 1.02
   },
@@ -12112,7 +12112,7 @@ export const chart = [
     "label": "Cong Burn",
     "genre": "Techno / House",
     "chart_by": {
-      "a new line ( related ) 2017": 10
+      "a new line ( related )": 10
     },
     "score": 1.02
   },
@@ -12124,7 +12124,7 @@ export const chart = [
     "label": "Osiris Music UK",
     "genre": "Techno / House",
     "chart_by": {
-      "Pessimist 2017": 10
+      "Pessimist": 10
     },
     "score": 1.02
   },
@@ -12136,7 +12136,7 @@ export const chart = [
     "label": "Berceuse Heroique",
     "genre": "Techno / House",
     "chart_by": {
-      "Jay Glass Dubs 2017": 10
+      "Jay Glass Dubs": 10
     },
     "score": 1.02
   },
@@ -12148,7 +12148,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Shifted 2017": 10
+      "Shifted": 10
     },
     "score": 1.02
   },
@@ -12160,7 +12160,7 @@ export const chart = [
     "label": "Trost Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Stephan Mathieu 2017": 10
+      "Stephan Mathieu": 10
     },
     "score": 1.02
   },
@@ -12172,7 +12172,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Perc 2017": 10
+      "Perc": 10
     },
     "score": 1.02
   },
@@ -12184,7 +12184,7 @@ export const chart = [
     "label": "FROZEN REEDS",
     "genre": "Electronic",
     "chart_by": {
-      "Joachim Nordwall 2017": 10
+      "Joachim Nordwall": 10
     },
     "score": 1.02
   },
@@ -12196,7 +12196,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "G.H. 2017": 10
+      "G.H.": 10
     },
     "score": 1.02
   },
@@ -12220,7 +12220,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andrew Hargreaves 2017": 10
+      "Andrew Hargreaves": 10
     },
     "score": 1.02
   },
@@ -12232,7 +12232,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vladimir Ivkovic (Offen Music) 2017": 10
+      "Vladimir Ivkovic (Offen Music)": 10
     },
     "score": 1.02
   },
@@ -12244,7 +12244,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Swing Ting 2017": 10
+      "Swing Ting": 10
     },
     "score": 1.02
   },
@@ -12256,7 +12256,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 10
+      "Andy Votel's Faker's Dozen.": 10
     },
     "score": 1.02
   },
@@ -12268,7 +12268,7 @@ export const chart = [
     "label": "AUS Music",
     "genre": "Techno / House",
     "chart_by": {
-      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg) 2017": 10
+      "SUPERDEFEKT (MFOC/ Golden Pudel Club Hamburg)": 10
     },
     "score": 1.02
   },
@@ -12280,7 +12280,7 @@ export const chart = [
     "label": "(Good Morning Tapes)",
     "genre": "",
     "chart_by": {
-      "CS + Kreme 2017": 10
+      "CS + Kreme": 10
     },
     "score": 1.02
   },
@@ -12292,7 +12292,7 @@ export const chart = [
     "label": "(ART)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 10
+      "Kiran Sande (Blackest Ever Black / Low Company)": 10
     },
     "score": 1.02
   },
@@ -12304,7 +12304,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Craig Tattersall (The Boats) 2017": 10
+      "Craig Tattersall (The Boats)": 10
     },
     "score": 1.02
   },
@@ -12316,7 +12316,7 @@ export const chart = [
     "label": "Spazio Disponibile",
     "genre": "",
     "chart_by": {
-      "Untold 2017": 10
+      "Untold": 10
     },
     "score": 1.02
   },
@@ -12328,7 +12328,7 @@ export const chart = [
     "label": "Finders Keepers Records / Dead-Cert",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "John Powell-Jones 2017": 10
+      "John Powell-Jones": 10
     },
     "score": 1.02
   },
@@ -12340,7 +12340,7 @@ export const chart = [
     "label": "TAL",
     "genre": "World",
     "chart_by": {
-      "Illum Sphere 2017": 10
+      "Illum Sphere": 10
     },
     "score": 1.02
   },
@@ -12352,7 +12352,7 @@ export const chart = [
     "label": "G.M.O. Records",
     "genre": "",
     "chart_by": {
-      "Anastasia Kristensen 2017": 10
+      "Anastasia Kristensen": 10
     },
     "score": 1.02
   },
@@ -12364,7 +12364,7 @@ export const chart = [
     "label": "UNSEEN WORLDS",
     "genre": "Electronic",
     "chart_by": {
-      "Robert Aiki Aubrey Lowe 2017": 10
+      "Robert Aiki Aubrey Lowe": 10
     },
     "score": 1.02
   },
@@ -12376,7 +12376,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Finn 2017": 10
+      "Finn": 10
     },
     "score": 1.02
   },
@@ -12400,7 +12400,7 @@ export const chart = [
     "label": "R&S Records",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Tom Lea 2017": 10
+      "Tom Lea": 10
     },
     "score": 1.02
   },
@@ -12412,7 +12412,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 10
+      "Raime": 10
     },
     "score": 1.02
   },
@@ -12424,7 +12424,7 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Electronic",
     "chart_by": {
-      "Doug Shipton (Finders Keepers) 2017": 10
+      "Doug Shipton (Finders Keepers)": 10
     },
     "score": 1.02
   },
@@ -12436,7 +12436,7 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Mark Fell 2017": 10
+      "Mark Fell": 10
     },
     "score": 1.02
   },
@@ -12448,7 +12448,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Richard Chartier 2017": 10
+      "Richard Chartier": 10
     },
     "score": 1.02
   },
@@ -12460,7 +12460,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Rian Treanor 2017": 10
+      "Rian Treanor": 10
     },
     "score": 1.02
   },
@@ -12472,7 +12472,7 @@ export const chart = [
     "label": "Sing A Song Fighter",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 10
+      "Mark Cremins (Rush Hour)": 10
     },
     "score": 1.02
   },
@@ -12484,7 +12484,7 @@ export const chart = [
     "label": "Alga Marghen",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 10
+      "Keith Mcivor (Optimo)": 10
     },
     "score": 1.02
   },
@@ -12496,7 +12496,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ian Fenton (Frozen Reeds) 2017": 10
+      "Ian Fenton (Frozen Reeds)": 10
     },
     "score": 1.02
   },
@@ -12520,7 +12520,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 10
+      "Huerco S.": 10
     },
     "score": 1.02
   },
@@ -12532,7 +12532,7 @@ export const chart = [
     "label": "Hemlock Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Peder Mannerfelt 2017": 10
+      "Peder Mannerfelt": 10
     },
     "score": 1.02
   },
@@ -12544,7 +12544,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Iona Fortune 2017": 10
+      "Iona Fortune": 10
     },
     "score": 1.02
   },
@@ -12556,7 +12556,7 @@ export const chart = [
     "label": "Sub Rosa",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "JASSS 2017": 10
+      "JASSS": 10
     },
     "score": 1.02
   },
@@ -12568,7 +12568,7 @@ export const chart = [
     "label": "PLZ Make It Ruins",
     "genre": "Electronic",
     "chart_by": {
-      "Tic 2017": 10
+      "Tic": 10
     },
     "score": 1.02
   },
@@ -12580,7 +12580,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 10
+      "Regis": 10
     },
     "score": 1.02
   },
@@ -12592,7 +12592,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kode 9 2017": 10
+      "Kode 9": 10
     },
     "score": 1.02
   },
@@ -12604,7 +12604,7 @@ export const chart = [
     "label": "Future Primitive",
     "genre": "Techno / House",
     "chart_by": {
-      "Nic Tasker 2017": 10
+      "Nic Tasker": 10
     },
     "score": 1.02
   },
@@ -12616,7 +12616,7 @@ export const chart = [
     "label": "Ba Da Bing!",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Akira Rabelais 2017": 10
+      "Akira Rabelais": 10
     },
     "score": 1.02
   },
@@ -12628,7 +12628,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Kate Carr 2017": 10
+      "Kate Carr": 10
     },
     "score": 1.02
   },
@@ -12640,7 +12640,7 @@ export const chart = [
     "label": "(Night School Records)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 10
+      "Tony Poland": 10
     },
     "score": 1.02
   },
@@ -12652,7 +12652,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "India Jordan 2017": 10
+      "India Jordan": 10
     },
     "score": 1.02
   },
@@ -12664,7 +12664,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "The Bug 2017": 10
+      "The Bug": 10
     },
     "score": 1.02
   },
@@ -12676,7 +12676,7 @@ export const chart = [
     "label": "Them There Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Steve Barker 2017": 10
+      "Steve Barker": 10
     },
     "score": 1.02
   },
@@ -12688,7 +12688,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Nkisi 2017": 10
+      "Nkisi": 10
     },
     "score": 1.02
   },
@@ -12700,7 +12700,7 @@ export const chart = [
     "label": "(Southern Lord)",
     "genre": "",
     "chart_by": {
-      "Becka Diamond 2017": 10
+      "Becka Diamond": 10
     },
     "score": 1.02
   },
@@ -12712,7 +12712,7 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Matt Colton 2017": 10
+      "Matt Colton": 10
     },
     "score": 1.02
   },
@@ -12724,7 +12724,7 @@ export const chart = [
     "label": "EROSION / ALLIED TENSILE",
     "genre": "Techno / House",
     "chart_by": {
-      "Samuel Kerridge 2017": 10
+      "Samuel Kerridge": 10
     },
     "score": 1.02
   },
@@ -12736,7 +12736,7 @@ export const chart = [
     "label": "ART YARD",
     "genre": "Basic Channel / Dub Techno",
     "chart_by": {
-      "Trevor Jackson 2017": 10
+      "Trevor Jackson": 10
     },
     "score": 1.02
   },
@@ -12748,7 +12748,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 10
+      "Beatrice Dillon": 10
     },
     "score": 1.02
   },
@@ -12772,7 +12772,7 @@ export const chart = [
     "label": "Hafenschlamm Rekords",
     "genre": "",
     "chart_by": {
-      "Nina 2017": 10
+      "Nina": 10
     },
     "score": 1.02
   },
@@ -12784,7 +12784,7 @@ export const chart = [
     "label": "(Island, 1975)",
     "genre": "",
     "chart_by": {
-      "Sarah Davachi 2017": 10
+      "Sarah Davachi": 10
     },
     "score": 1.02
   },
@@ -12808,7 +12808,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Equiknoxx 2017": 10
+      "Equiknoxx": 10
     },
     "score": 1.02
   },
@@ -12820,7 +12820,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Pete Swanson 2017": 10
+      "Pete Swanson": 10
     },
     "score": 1.02
   },
@@ -12832,7 +12832,7 @@ export const chart = [
     "label": "(Tripalium Records)",
     "genre": "",
     "chart_by": {
-      "Helena Hauff 2017": 10
+      "Helena Hauff": 10
     },
     "score": 1.02
   },
@@ -12844,7 +12844,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Deathprod 2017": 10
+      "Deathprod": 10
     },
     "score": 1.02
   },
@@ -12856,7 +12856,7 @@ export const chart = [
     "label": "Night School",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Jaime Williams 2017": 10
+      "Jaime Williams": 10
     },
     "score": 1.02
   },
@@ -12868,7 +12868,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 11
+      "Regis": 11
     },
     "score": 1.018181818181818
   },
@@ -12880,7 +12880,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 11
+      "Tom Lea": 11
     },
     "score": 1.018181818181818
   },
@@ -12892,7 +12892,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Not Waving 2017": 11
+      "Not Waving": 11
     },
     "score": 1.018181818181818
   },
@@ -12904,7 +12904,7 @@ export const chart = [
     "label": "On-U Sound | Tectonic Recordings / On-U Sound",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Peter Rehberg 2017": 11
+      "Peter Rehberg": 11
     },
     "score": 1.018181818181818
   },
@@ -12916,7 +12916,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Pete Swanson 2017": 11
+      "Pete Swanson": 11
     },
     "score": 1.018181818181818
   },
@@ -12928,7 +12928,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Anthony Naples 2017": 11
+      "Anthony Naples": 11
     },
     "score": 1.018181818181818
   },
@@ -12940,7 +12940,7 @@ export const chart = [
     "label": "R&S Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Pye Corner Audio 2017": 11
+      "Pye Corner Audio": 11
     },
     "score": 1.018181818181818
   },
@@ -12952,7 +12952,7 @@ export const chart = [
     "label": "General Elektro",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 11
+      "N.M.O.": 11
     },
     "score": 1.018181818181818
   },
@@ -12964,7 +12964,7 @@ export const chart = [
     "label": "Accidental Jnr",
     "genre": "Electronic",
     "chart_by": {
-      "Beatrice Dillon 2017": 11
+      "Beatrice Dillon": 11
     },
     "score": 1.018181818181818
   },
@@ -12976,7 +12976,7 @@ export const chart = [
     "label": "L.I.E.S",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 11
+      "Trevor Jackson": 11
     },
     "score": 1.018181818181818
   },
@@ -12988,7 +12988,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Croww 2017": 11
+      "Croww": 11
     },
     "score": 1.018181818181818
   },
@@ -13000,7 +13000,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 11
+      "Prurient": 11
     },
     "score": 1.018181818181818
   },
@@ -13012,7 +13012,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Peder Mannerfelt 2017": 11
+      "Peder Mannerfelt": 11
     },
     "score": 1.018181818181818
   },
@@ -13024,7 +13024,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Nina 2017": 11
+      "Nina": 11
     },
     "score": 1.018181818181818
   },
@@ -13048,7 +13048,7 @@ export const chart = [
     "label": "Wah Wah Wino",
     "genre": "Techno / House",
     "chart_by": {
-      "Huerco S. 2017": 11
+      "Huerco S.": 11
     },
     "score": 1.018181818181818
   },
@@ -13060,7 +13060,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Carla Dal Forno 2017": 11
+      "Carla Dal Forno": 11
     },
     "score": 1.018181818181818
   },
@@ -13072,7 +13072,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 11
+      "Andy Votel's Faker's Dozen.": 11
     },
     "score": 1.018181818181818
   },
@@ -13084,7 +13084,7 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Alexander Iadarola 2017": 11
+      "Alexander Iadarola": 11
     },
     "score": 1.018181818181818
   },
@@ -13096,7 +13096,7 @@ export const chart = [
     "label": "No 'Label'",
     "genre": "Electronic",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 11
+      "Mark Cremins (Rush Hour)": 11
     },
     "score": 1.018181818181818
   },
@@ -13108,7 +13108,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tobi / Good News 2017": 11
+      "Tobi / Good News": 11
     },
     "score": 1.018181818181818
   },
@@ -13132,7 +13132,7 @@ export const chart = [
     "label": "STOCKHOLM LTD",
     "genre": "Techno / House",
     "chart_by": {
-      "Pessimist 2017": 11
+      "Pessimist": 11
     },
     "score": 1.018181818181818
   },
@@ -13144,7 +13144,7 @@ export const chart = [
     "label": "Equiknoxx Music",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Low Jack 2017": 11
+      "Low Jack": 11
     },
     "score": 1.018181818181818
   },
@@ -13156,7 +13156,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 11
+      "Vereker": 11
     },
     "score": 1.018181818181818
   },
@@ -13168,7 +13168,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andrew Hargreaves 2017": 11
+      "Andrew Hargreaves": 11
     },
     "score": 1.018181818181818
   },
@@ -13180,7 +13180,7 @@ export const chart = [
     "label": "Numbers",
     "genre": "Techno / House",
     "chart_by": {
-      "Lorenzo Senni 2017": 12
+      "Lorenzo Senni": 12
     },
     "score": 1.0166666666666666
   },
@@ -13192,7 +13192,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 12
+      "Raime": 12
     },
     "score": 1.0166666666666666
   },
@@ -13204,7 +13204,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 12
+      "Beatrice Dillon": 12
     },
     "score": 1.0166666666666666
   },
@@ -13216,7 +13216,7 @@ export const chart = [
     "label": "Monkeytown Records",
     "genre": "Electronic",
     "chart_by": {
-      "Prurient 2017": 12
+      "Prurient": 12
     },
     "score": 1.0166666666666666
   },
@@ -13228,7 +13228,7 @@ export const chart = [
     "label": "Planet Mu Records Ltd.",
     "genre": "Electronic",
     "chart_by": {
-      "Dale Cornish 2017": 12
+      "Dale Cornish": 12
     },
     "score": 1.0166666666666666
   },
@@ -13240,7 +13240,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Votel's Faker's Dozen. 2017": 12
+      "Andy Votel's Faker's Dozen.": 12
     },
     "score": 1.0166666666666666
   },
@@ -13252,7 +13252,7 @@ export const chart = [
     "label": "Posh Isolation",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Richard Chartier 2017": 12
+      "Richard Chartier": 12
     },
     "score": 1.0166666666666666
   },
@@ -13264,7 +13264,7 @@ export const chart = [
     "label": "Swing Ting",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Low Jack 2017": 12
+      "Low Jack": 12
     },
     "score": 1.0166666666666666
   },
@@ -13276,7 +13276,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Croww 2017": 12
+      "Croww": 12
     },
     "score": 1.0166666666666666
   },
@@ -13288,7 +13288,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Alexander Iadarola 2017": 12
+      "Alexander Iadarola": 12
     },
     "score": 1.0166666666666666
   },
@@ -13300,7 +13300,7 @@ export const chart = [
     "label": "Smalltown Supersound / Rune Grammofon",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Vereker 2017": 12
+      "Vereker": 12
     },
     "score": 1.0166666666666666
   },
@@ -13324,7 +13324,7 @@ export const chart = [
     "label": "Alter / Posh Isolation / Alter / Posh Isolation",
     "genre": "Electronic",
     "chart_by": {
-      "Félicia Atkinson 2017": 12
+      "Félicia Atkinson": 12
     },
     "score": 1.0166666666666666
   },
@@ -13336,7 +13336,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 12
+      "Jon K": 12
     },
     "score": 1.0166666666666666
   },
@@ -13348,7 +13348,7 @@ export const chart = [
     "label": "WORLD MUSIC",
     "genre": "Electronic",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 12
+      "Mark Cremins (Rush Hour)": 12
     },
     "score": 1.0166666666666666
   },
@@ -13360,7 +13360,7 @@ export const chart = [
     "label": "(Edition Telemark)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 12
+      "Stephan Mathieu": 12
     },
     "score": 1.0166666666666666
   },
@@ -13372,7 +13372,7 @@ export const chart = [
     "label": "All Saints Records",
     "genre": "Electronic",
     "chart_by": {
-      "Bartolomé Sanson (Shelter Press) 2017": 12
+      "Bartolomé Sanson (Shelter Press)": 12
     },
     "score": 1.0166666666666666
   },
@@ -13384,7 +13384,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ossia 2017": 12
+      "Ossia": 12
     },
     "score": 1.0166666666666666
   },
@@ -13396,7 +13396,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 12
+      "Tom Lea": 12
     },
     "score": 1.0166666666666666
   },
@@ -13408,7 +13408,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Pessimist 2017": 12
+      "Pessimist": 12
     },
     "score": 1.0166666666666666
   },
@@ -13420,7 +13420,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Keith Mcivor (Optimo) 2017": 12
+      "Keith Mcivor (Optimo)": 12
     },
     "score": 1.0166666666666666
   },
@@ -13444,7 +13444,7 @@ export const chart = [
     "label": "(Capcom)",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 12
+      "Huerco S.": 12
     },
     "score": 1.0166666666666666
   },
@@ -13456,7 +13456,7 @@ export const chart = [
     "label": "(Fire)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 12
+      "Kiran Sande (Blackest Ever Black / Low Company)": 12
     },
     "score": 1.0166666666666666
   },
@@ -13468,7 +13468,7 @@ export const chart = [
     "label": "Foom",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Slip 2017": 12
+      "Slip": 12
     },
     "score": 1.0166666666666666
   },
@@ -13480,7 +13480,7 @@ export const chart = [
     "label": "(Wania)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 12
+      "Tony Poland": 12
     },
     "score": 1.0166666666666666
   },
@@ -13504,7 +13504,7 @@ export const chart = [
     "label": "Vis",
     "genre": "Techno / House",
     "chart_by": {
-      "Tobi / Good News 2017": 12
+      "Tobi / Good News": 12
     },
     "score": 1.0166666666666666
   },
@@ -13516,7 +13516,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 12
+      "N.M.O.": 12
     },
     "score": 1.0166666666666666
   },
@@ -13528,7 +13528,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 12
+      "Annex": 12
     },
     "score": 1.0166666666666666
   },
@@ -13540,7 +13540,7 @@ export const chart = [
     "label": "The Bunker New York",
     "genre": "Techno / House",
     "chart_by": {
-      "Pye Corner Audio 2017": 12
+      "Pye Corner Audio": 12
     },
     "score": 1.0166666666666666
   },
@@ -13552,7 +13552,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Carla Dal Forno 2017": 12
+      "Carla Dal Forno": 12
     },
     "score": 1.0166666666666666
   },
@@ -13564,7 +13564,7 @@ export const chart = [
     "label": "Loopy",
     "genre": "Electronic",
     "chart_by": {
-      "Lorenzo Senni 2017": 13
+      "Lorenzo Senni": 13
     },
     "score": 1.0153846153846153
   },
@@ -13576,7 +13576,7 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Electronic",
     "chart_by": {
-      "Ossia 2017": 13
+      "Ossia": 13
     },
     "score": 1.0153846153846153
   },
@@ -13588,7 +13588,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 13
+      "Beatrice Dillon": 13
     },
     "score": 1.0153846153846153
   },
@@ -13600,7 +13600,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 13
+      "N.M.O.": 13
     },
     "score": 1.0153846153846153
   },
@@ -13624,7 +13624,7 @@ export const chart = [
     "label": "(Carpet Group Recordings)",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 13
+      "Huerco S.": 13
     },
     "score": 1.0153846153846153
   },
@@ -13636,7 +13636,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "John Twells 2017": 13
+      "John Twells": 13
     },
     "score": 1.0153846153846153
   },
@@ -13648,7 +13648,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 13
+      "Jon K": 13
     },
     "score": 1.0153846153846153
   },
@@ -13660,7 +13660,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mark Fell 2017": 13
+      "Mark Fell": 13
     },
     "score": 1.0153846153846153
   },
@@ -13672,7 +13672,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Alexander Iadarola 2017": 13
+      "Alexander Iadarola": 13
     },
     "score": 1.0153846153846153
   },
@@ -13684,7 +13684,7 @@ export const chart = [
     "label": "STROOM",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Illum Sphere 2017": 13
+      "Illum Sphere": 13
     },
     "score": 1.0153846153846153
   },
@@ -13696,7 +13696,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 13
+      "Tom Lea": 13
     },
     "score": 1.0153846153846153
   },
@@ -13708,7 +13708,7 @@ export const chart = [
     "label": "(Droogs)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 13
+      "Kiran Sande (Blackest Ever Black / Low Company)": 13
     },
     "score": 1.0153846153846153
   },
@@ -13720,7 +13720,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tobi / Good News 2017": 13
+      "Tobi / Good News": 13
     },
     "score": 1.0153846153846153
   },
@@ -13732,7 +13732,7 @@ export const chart = [
     "label": "Dramatic Records / Kit Records",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 13
+      "Gizmo (Berceuse Heroique)": 13
     },
     "score": 1.0153846153846153
   },
@@ -13744,7 +13744,7 @@ export const chart = [
     "label": "Smalltown Supersound",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Vereker 2017": 13
+      "Vereker": 13
     },
     "score": 1.0153846153846153
   },
@@ -13756,7 +13756,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 13
+      "Andy Stott": 13
     },
     "score": 1.0153846153846153
   },
@@ -13780,7 +13780,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 13
+      "Annex": 13
     },
     "score": 1.0153846153846153
   },
@@ -13792,7 +13792,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 13
+      "Raime": 13
     },
     "score": 1.0153846153846153
   },
@@ -13804,7 +13804,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Croww 2017": 13
+      "Croww": 13
     },
     "score": 1.0153846153846153
   },
@@ -13816,7 +13816,7 @@ export const chart = [
     "label": "Line",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Richard Chartier 2017": 13
+      "Richard Chartier": 13
     },
     "score": 1.0153846153846153
   },
@@ -13828,7 +13828,7 @@ export const chart = [
     "label": "Lullabies For Insomniacs",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Carla Dal Forno 2017": 13
+      "Carla Dal Forno": 13
     },
     "score": 1.0153846153846153
   },
@@ -13840,7 +13840,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 14
+      "N.M.O.": 14
     },
     "score": 1.0142857142857142
   },
@@ -13852,7 +13852,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 14
+      "Bus": 14
     },
     "score": 1.0142857142857142
   },
@@ -13864,7 +13864,7 @@ export const chart = [
     "label": "Border Community",
     "genre": "Electronic",
     "chart_by": {
-      "Pye Corner Audio 2017": 14
+      "Pye Corner Audio": 14
     },
     "score": 1.0142857142857142
   },
@@ -13876,7 +13876,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 14
+      "Jon K": 14
     },
     "score": 1.0142857142857142
   },
@@ -13888,7 +13888,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 14
+      "Beatrice Dillon": 14
     },
     "score": 1.0142857142857142
   },
@@ -13900,7 +13900,7 @@ export const chart = [
     "label": "No Label",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 14
+      "Trevor Jackson": 14
     },
     "score": 1.0142857142857142
   },
@@ -13912,7 +13912,7 @@ export const chart = [
     "label": "Profound Lore",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Prurient 2017": 14
+      "Prurient": 14
     },
     "score": 1.0142857142857142
   },
@@ -13936,7 +13936,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ossia 2017": 14
+      "Ossia": 14
     },
     "score": 1.0142857142857142
   },
@@ -13948,7 +13948,7 @@ export const chart = [
     "label": "(Japan Blues)",
     "genre": "",
     "chart_by": {
-      "Ben Morris 2017": 14
+      "Ben Morris": 14
     },
     "score": 1.0142857142857142
   },
@@ -13960,7 +13960,7 @@ export const chart = [
     "label": "Mute",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Alexander Iadarola 2017": 14
+      "Alexander Iadarola": 14
     },
     "score": 1.0142857142857142
   },
@@ -13972,7 +13972,7 @@ export const chart = [
     "label": "Youth",
     "genre": "Techno / House",
     "chart_by": {
-      "Tony Poland 2017": 14
+      "Tony Poland": 14
     },
     "score": 1.0142857142857142
   },
@@ -13984,7 +13984,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 14
+      "Raime": 14
     },
     "score": 1.0142857142857142
   },
@@ -13996,7 +13996,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 14
+      "Annex": 14
     },
     "score": 1.0142857142857142
   },
@@ -14020,7 +14020,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 14
+      "Slip": 14
     },
     "score": 1.0142857142857142
   },
@@ -14032,7 +14032,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 14
+      "Tom Lea": 14
     },
     "score": 1.0142857142857142
   },
@@ -14044,7 +14044,7 @@ export const chart = [
     "label": "Music From Memory",
     "genre": "Electronic",
     "chart_by": {
-      "Illum Sphere 2017": 14
+      "Illum Sphere": 14
     },
     "score": 1.0142857142857142
   },
@@ -14056,7 +14056,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 14
+      "Gizmo (Berceuse Heroique)": 14
     },
     "score": 1.0142857142857142
   },
@@ -14068,7 +14068,7 @@ export const chart = [
     "label": "(Pal SL)",
     "genre": "",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 14
+      "Kiran Sande (Blackest Ever Black / Low Company)": 14
     },
     "score": 1.0142857142857142
   },
@@ -14080,7 +14080,7 @@ export const chart = [
     "label": "Sonic Pieces",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Félicia Atkinson 2017": 14
+      "Félicia Atkinson": 14
     },
     "score": 1.0142857142857142
   },
@@ -14092,7 +14092,7 @@ export const chart = [
     "label": "Trunk Records",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Carla Dal Forno 2017": 14
+      "Carla Dal Forno": 14
     },
     "score": 1.0142857142857142
   },
@@ -14104,7 +14104,7 @@ export const chart = [
     "label": "Line",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Richard Chartier 2017": 14
+      "Richard Chartier": 14
     },
     "score": 1.0142857142857142
   },
@@ -14116,7 +14116,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 14
+      "Regis": 14
     },
     "score": 1.0142857142857142
   },
@@ -14128,7 +14128,7 @@ export const chart = [
     "label": "Light In The Attic / Modern Classics Recordings",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Lorenzo Senni 2017": 14
+      "Lorenzo Senni": 14
     },
     "score": 1.0142857142857142
   },
@@ -14140,7 +14140,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 15
+      "Bus": 15
     },
     "score": 1.0133333333333334
   },
@@ -14152,7 +14152,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ossia 2017": 15
+      "Ossia": 15
     },
     "score": 1.0133333333333334
   },
@@ -14164,7 +14164,7 @@ export const chart = [
     "label": "A-TON",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 15
+      "Prurient": 15
     },
     "score": 1.0133333333333334
   },
@@ -14176,7 +14176,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 15
+      "Andy Stott": 15
     },
     "score": 1.0133333333333334
   },
@@ -14188,7 +14188,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 15
+      "Tom Lea": 15
     },
     "score": 1.0133333333333334
   },
@@ -14200,7 +14200,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Mark Fell 2017": 15
+      "Mark Fell": 15
     },
     "score": 1.0133333333333334
   },
@@ -14212,7 +14212,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 15
+      "Slip": 15
     },
     "score": 1.0133333333333334
   },
@@ -14224,7 +14224,7 @@ export const chart = [
     "label": "(Antinote)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 15
+      "Tony Poland": 15
     },
     "score": 1.0133333333333334
   },
@@ -14236,7 +14236,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Lorenzo Senni 2017": 15
+      "Lorenzo Senni": 15
     },
     "score": 1.0133333333333334
   },
@@ -14248,7 +14248,7 @@ export const chart = [
     "label": "Central Processing Unit",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Ben Morris 2017": 15
+      "Ben Morris": 15
     },
     "score": 1.0133333333333334
   },
@@ -14260,7 +14260,7 @@ export const chart = [
     "label": "(Angoisse)",
     "genre": "",
     "chart_by": {
-      "Huerco S. 2017": 15
+      "Huerco S.": 15
     },
     "score": 1.0133333333333334
   },
@@ -14272,7 +14272,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 15
+      "Raime": 15
     },
     "score": 1.0133333333333334
   },
@@ -14284,7 +14284,7 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Electronic",
     "chart_by": {
-      "Illum Sphere 2017": 15
+      "Illum Sphere": 15
     },
     "score": 1.0133333333333334
   },
@@ -14296,7 +14296,7 @@ export const chart = [
     "label": "(Brain)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 15
+      "Stephan Mathieu": 15
     },
     "score": 1.0133333333333334
   },
@@ -14308,7 +14308,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 15
+      "Beatrice Dillon": 15
     },
     "score": 1.0133333333333334
   },
@@ -14320,7 +14320,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 15
+      "Vereker": 15
     },
     "score": 1.0133333333333334
   },
@@ -14332,7 +14332,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 15
+      "Gizmo (Berceuse Heroique)": 15
     },
     "score": 1.0133333333333334
   },
@@ -14344,7 +14344,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 15
+      "Jon K": 15
     },
     "score": 1.0133333333333334
   },
@@ -14368,7 +14368,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 15
+      "N.M.O.": 15
     },
     "score": 1.0133333333333334
   },
@@ -14380,7 +14380,7 @@ export const chart = [
     "label": "Editions Mego",
     "genre": "Electronic",
     "chart_by": {
-      "Not Waving 2017": 16
+      "Not Waving": 16
     },
     "score": 1.0125
   },
@@ -14392,7 +14392,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 16
+      "Tom Lea": 16
     },
     "score": 1.0125
   },
@@ -14416,7 +14416,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 16
+      "Vereker": 16
     },
     "score": 1.0125
   },
@@ -14428,7 +14428,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Ossia 2017": 16
+      "Ossia": 16
     },
     "score": 1.0125
   },
@@ -14452,7 +14452,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 16
+      "Andy Stott": 16
     },
     "score": 1.0125
   },
@@ -14464,7 +14464,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 16
+      "Beatrice Dillon": 16
     },
     "score": 1.0125
   },
@@ -14476,7 +14476,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 16
+      "N.M.O.": 16
     },
     "score": 1.0125
   },
@@ -14488,7 +14488,7 @@ export const chart = [
     "label": "Dark Entries Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Annex 2017": 16
+      "Annex": 16
     },
     "score": 1.0125
   },
@@ -14500,7 +14500,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 16
+      "Regis": 16
     },
     "score": 1.0125
   },
@@ -14512,7 +14512,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 16
+      "Slip": 16
     },
     "score": 1.0125
   },
@@ -14524,7 +14524,7 @@ export const chart = [
     "label": "A-TON",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 16
+      "Prurient": 16
     },
     "score": 1.0125
   },
@@ -14536,7 +14536,7 @@ export const chart = [
     "label": "Tectonic",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Low Jack 2017": 16
+      "Low Jack": 16
     },
     "score": 1.0125
   },
@@ -14560,7 +14560,7 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Techno / House",
     "chart_by": {
-      "Illum Sphere 2017": 16
+      "Illum Sphere": 16
     },
     "score": 1.0125
   },
@@ -14572,7 +14572,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 16
+      "Bus": 16
     },
     "score": 1.0125
   },
@@ -14584,7 +14584,7 @@ export const chart = [
     "label": "Mechanical Reproductions",
     "genre": "Techno / House",
     "chart_by": {
-      "Tony Poland 2017": 16
+      "Tony Poland": 16
     },
     "score": 1.0125
   },
@@ -14596,7 +14596,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 16
+      "Raime": 16
     },
     "score": 1.0125
   },
@@ -14608,7 +14608,7 @@ export const chart = [
     "label": "Further Records",
     "genre": "Electronic",
     "chart_by": {
-      "Stephan Mathieu 2017": 16
+      "Stephan Mathieu": 16
     },
     "score": 1.0125
   },
@@ -14620,7 +14620,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 16
+      "Gizmo (Berceuse Heroique)": 16
     },
     "score": 1.0125
   },
@@ -14632,7 +14632,7 @@ export const chart = [
     "label": "Line",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Richard Chartier 2017": 16
+      "Richard Chartier": 16
     },
     "score": 1.0125
   },
@@ -14644,7 +14644,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "John Twells 2017": 16
+      "John Twells": 16
     },
     "score": 1.0125
   },
@@ -14656,7 +14656,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 17
+      "Slip": 17
     },
     "score": 1.011764705882353
   },
@@ -14668,7 +14668,7 @@ export const chart = [
     "label": "Palto Flats",
     "genre": "Electronic",
     "chart_by": {
-      "Tony Poland 2017": 17
+      "Tony Poland": 17
     },
     "score": 1.011764705882353
   },
@@ -14692,7 +14692,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Raime 2017": 17
+      "Raime": 17
     },
     "score": 1.011764705882353
   },
@@ -14704,7 +14704,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Pete Swanson 2017": 17
+      "Pete Swanson": 17
     },
     "score": 1.011764705882353
   },
@@ -14716,7 +14716,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Illum Sphere 2017": 17
+      "Illum Sphere": 17
     },
     "score": 1.011764705882353
   },
@@ -14728,7 +14728,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 17
+      "Beatrice Dillon": 17
     },
     "score": 1.011764705882353
   },
@@ -14740,7 +14740,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Vereker 2017": 17
+      "Vereker": 17
     },
     "score": 1.011764705882353
   },
@@ -14752,7 +14752,7 @@ export const chart = [
     "label": "Her Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Low Jack 2017": 17
+      "Low Jack": 17
     },
     "score": 1.011764705882353
   },
@@ -14764,7 +14764,7 @@ export const chart = [
     "label": "IDLE HANDS",
     "genre": "Techno / House",
     "chart_by": {
-      "Ossia 2017": 17
+      "Ossia": 17
     },
     "score": 1.011764705882353
   },
@@ -14776,7 +14776,7 @@ export const chart = [
     "label": "Hive Mind Records",
     "genre": "World",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 17
+      "Gizmo (Berceuse Heroique)": 17
     },
     "score": 1.011764705882353
   },
@@ -14788,7 +14788,7 @@ export const chart = [
     "label": "Antinote",
     "genre": "Techno / House",
     "chart_by": {
-      "Jon K 2017": 17
+      "Jon K": 17
     },
     "score": 1.011764705882353
   },
@@ -14800,7 +14800,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 17
+      "Regis": 17
     },
     "score": 1.011764705882353
   },
@@ -14812,7 +14812,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 17
+      "Prurient": 17
     },
     "score": 1.011764705882353
   },
@@ -14824,7 +14824,7 @@ export const chart = [
     "label": "Damaged Goods",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Kiran Sande (Blackest Ever Black / Low Company) 2017": 17
+      "Kiran Sande (Blackest Ever Black / Low Company)": 17
     },
     "score": 1.011764705882353
   },
@@ -14836,7 +14836,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 17
+      "N.M.O.": 17
     },
     "score": 1.011764705882353
   },
@@ -14848,7 +14848,7 @@ export const chart = [
     "label": "(Aquarellist)",
     "genre": "",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 18
+      "Mark Cremins (Rush Hour)": 18
     },
     "score": 1.011111111111111
   },
@@ -14860,7 +14860,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 18
+      "N.M.O.": 18
     },
     "score": 1.011111111111111
   },
@@ -14872,7 +14872,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Bus 2017": 18
+      "Bus": 18
     },
     "score": 1.011111111111111
   },
@@ -14884,7 +14884,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 18
+      "Beatrice Dillon": 18
     },
     "score": 1.011111111111111
   },
@@ -14896,7 +14896,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 18
+      "Jon K": 18
     },
     "score": 1.011111111111111
   },
@@ -14908,7 +14908,7 @@ export const chart = [
     "label": "Brocoli",
     "genre": "Electronic",
     "chart_by": {
-      "Félicia Atkinson 2017": 18
+      "Félicia Atkinson": 18
     },
     "score": 1.011111111111111
   },
@@ -14932,7 +14932,7 @@ export const chart = [
     "label": "NASHAZPHONE",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Regis 2017": 18
+      "Regis": 18
     },
     "score": 1.011111111111111
   },
@@ -14956,7 +14956,7 @@ export const chart = [
     "label": "Gobstopper Records",
     "genre": "Grime / Fwd",
     "chart_by": {
-      "Tom Lea 2017": 18
+      "Tom Lea": 18
     },
     "score": 1.011111111111111
   },
@@ -14968,7 +14968,7 @@ export const chart = [
     "label": "Stones Throw",
     "genre": "Electronic",
     "chart_by": {
-      "Trevor Jackson 2017": 18
+      "Trevor Jackson": 18
     },
     "score": 1.011111111111111
   },
@@ -14980,7 +14980,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 18
+      "Andy Stott": 18
     },
     "score": 1.011111111111111
   },
@@ -14992,7 +14992,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 18
+      "Prurient": 18
     },
     "score": 1.011111111111111
   },
@@ -15016,7 +15016,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Slip 2017": 18
+      "Slip": 18
     },
     "score": 1.011111111111111
   },
@@ -15028,7 +15028,7 @@ export const chart = [
     "label": "(Arcane)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 18
+      "Tony Poland": 18
     },
     "score": 1.011111111111111
   },
@@ -15040,7 +15040,7 @@ export const chart = [
     "label": "(Soave)",
     "genre": "",
     "chart_by": {
-      "Stephan Mathieu 2017": 19
+      "Stephan Mathieu": 19
     },
     "score": 1.0105263157894737
   },
@@ -15052,7 +15052,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Regis 2017": 19
+      "Regis": 19
     },
     "score": 1.0105263157894737
   },
@@ -15064,7 +15064,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 19
+      "Beatrice Dillon": 19
     },
     "score": 1.0105263157894737
   },
@@ -15076,7 +15076,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 19
+      "N.M.O.": 19
     },
     "score": 1.0105263157894737
   },
@@ -15088,7 +15088,7 @@ export const chart = [
     "label": "Into The Light",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 19
+      "Trevor Jackson": 19
     },
     "score": 1.0105263157894737
   },
@@ -15100,7 +15100,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Jon K 2017": 19
+      "Jon K": 19
     },
     "score": 1.0105263157894737
   },
@@ -15124,7 +15124,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 19
+      "Andy Stott": 19
     },
     "score": 1.0105263157894737
   },
@@ -15136,7 +15136,7 @@ export const chart = [
     "label": "(Ultra Exczema)",
     "genre": "",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 19
+      "Mark Cremins (Rush Hour)": 19
     },
     "score": 1.0105263157894737
   },
@@ -15148,7 +15148,7 @@ export const chart = [
     "label": "Mundus",
     "genre": "Electronic",
     "chart_by": {
-      "Tony Poland 2017": 19
+      "Tony Poland": 19
     },
     "score": 1.0105263157894737
   },
@@ -15160,7 +15160,7 @@ export const chart = [
     "label": "[Industrial Abbotsford]",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 19
+      "Annex": 19
     },
     "score": 1.0105263157894737
   },
@@ -15172,7 +15172,7 @@ export const chart = [
     "label": "Fire Records",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 19
+      "Boomkat: Top Reissues & Archival Releases": 19
     },
     "score": 1.0105263157894737
   },
@@ -15184,7 +15184,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "John Twells 2017": 19
+      "John Twells": 19
     },
     "score": 1.0105263157894737
   },
@@ -15196,7 +15196,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Tom Lea 2017": 19
+      "Tom Lea": 19
     },
     "score": 1.0105263157894737
   },
@@ -15208,7 +15208,7 @@ export const chart = [
     "label": "Token",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 19
+      "Prurient": 19
     },
     "score": 1.0105263157894737
   },
@@ -15220,7 +15220,7 @@ export const chart = [
     "label": "NUXXE",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 20
+      "Boomkat: Most Overlooked Releases": 20
     },
     "score": 1.01
   },
@@ -15232,7 +15232,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Pete Swanson 2017": 20
+      "Pete Swanson": 20
     },
     "score": 1.01
   },
@@ -15244,7 +15244,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 20
+      "N.M.O.": 20
     },
     "score": 1.01
   },
@@ -15268,7 +15268,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 20
+      "Beatrice Dillon": 20
     },
     "score": 1.01
   },
@@ -15280,7 +15280,7 @@ export const chart = [
     "label": "Delsin",
     "genre": "",
     "chart_by": {
-      "Trevor Jackson 2017": 20
+      "Trevor Jackson": 20
     },
     "score": 1.01
   },
@@ -15304,7 +15304,7 @@ export const chart = [
     "label": "_bruxist",
     "genre": "Electronic",
     "chart_by": {
-      "Gizmo (Berceuse Heroique) 2017": 20
+      "Gizmo (Berceuse Heroique)": 20
     },
     "score": 1.01
   },
@@ -15316,7 +15316,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 20
+      "Andy Stott": 20
     },
     "score": 1.01
   },
@@ -15328,7 +15328,7 @@ export const chart = [
     "label": "Death & Leisure",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Annex 2017": 20
+      "Annex": 20
     },
     "score": 1.01
   },
@@ -15340,7 +15340,7 @@ export const chart = [
     "label": "Mute",
     "genre": "Electronic",
     "chart_by": {
-      "Regis 2017": 20
+      "Regis": 20
     },
     "score": 1.01
   },
@@ -15352,7 +15352,7 @@ export const chart = [
     "label": "Alter",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Mark Cremins (Rush Hour) 2017": 21
+      "Mark Cremins (Rush Hour)": 21
     },
     "score": 1.0095238095238095
   },
@@ -15364,7 +15364,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 21
+      "Andy Stott": 21
     },
     "score": 1.0095238095238095
   },
@@ -15376,7 +15376,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 21
+      "N.M.O.": 21
     },
     "score": 1.0095238095238095
   },
@@ -15388,7 +15388,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Andy Stott 2017": 22
+      "Andy Stott": 22
     },
     "score": 1.009090909090909
   },
@@ -15412,7 +15412,7 @@ export const chart = [
     "label": "[Moodiie Inc.]",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 22
+      "Annex": 22
     },
     "score": 1.009090909090909
   },
@@ -15424,7 +15424,7 @@ export const chart = [
     "label": "Superior Viaduct",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Pete Swanson 2017": 22
+      "Pete Swanson": 22
     },
     "score": 1.009090909090909
   },
@@ -15448,7 +15448,7 @@ export const chart = [
     "label": "(Regelbau)",
     "genre": "",
     "chart_by": {
-      "Tony Poland 2017": 22
+      "Tony Poland": 22
     },
     "score": 1.009090909090909
   },
@@ -15460,7 +15460,7 @@ export const chart = [
     "label": "Death Waltz Recording Company / Death Waltz Originals",
     "genre": "Electronic",
     "chart_by": {
-      "Not Waving 2017": 22
+      "Not Waving": 22
     },
     "score": 1.009090909090909
   },
@@ -15472,7 +15472,7 @@ export const chart = [
     "label": "Antinote",
     "genre": "Electronic",
     "chart_by": {
-      "Low Jack 2017": 22
+      "Low Jack": 22
     },
     "score": 1.009090909090909
   },
@@ -15484,7 +15484,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 22
+      "N.M.O.": 22
     },
     "score": 1.009090909090909
   },
@@ -15496,7 +15496,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Beatrice Dillon 2017": 22
+      "Beatrice Dillon": 22
     },
     "score": 1.009090909090909
   },
@@ -15508,7 +15508,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Pete Swanson 2017": 23
+      "Pete Swanson": 23
     },
     "score": 1.008695652173913
   },
@@ -15520,7 +15520,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 23
+      "N.M.O.": 23
     },
     "score": 1.008695652173913
   },
@@ -15532,7 +15532,7 @@ export const chart = [
     "label": "Persephonic Sirens",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Prurient 2017": 23
+      "Prurient": 23
     },
     "score": 1.008695652173913
   },
@@ -15568,7 +15568,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Not Waving 2017": 24
+      "Not Waving": 24
     },
     "score": 1.0083333333333333
   },
@@ -15580,7 +15580,7 @@ export const chart = [
     "label": "LATENCY",
     "genre": "Electronic",
     "chart_by": {
-      "Low Jack 2017": 24
+      "Low Jack": 24
     },
     "score": 1.0083333333333333
   },
@@ -15592,7 +15592,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "N.M.O. 2017": 24
+      "N.M.O.": 24
     },
     "score": 1.0083333333333333
   },
@@ -15604,7 +15604,7 @@ export const chart = [
     "label": "Magic + Dreams / The Trilogy Tapes",
     "genre": "Techno / House",
     "chart_by": {
-      "Beatrice Dillon 2017": 24
+      "Beatrice Dillon": 24
     },
     "score": 1.0083333333333333
   },
@@ -15628,7 +15628,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 25
+      "Annex": 25
     },
     "score": 1.008
   },
@@ -15664,7 +15664,7 @@ export const chart = [
     "label": "Music From Memory",
     "genre": "Electronic",
     "chart_by": {
-      "Bartolomé Sanson (Shelter Press) 2017": 25
+      "Bartolomé Sanson (Shelter Press)": 25
     },
     "score": 1.008
   },
@@ -15676,7 +15676,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 25
+      "Prurient": 25
     },
     "score": 1.008
   },
@@ -15688,7 +15688,7 @@ export const chart = [
     "label": "Rune Grammofon",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Richard Chartier 2017": 25
+      "Richard Chartier": 25
     },
     "score": 1.008
   },
@@ -15724,7 +15724,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Not Waving 2017": 26
+      "Not Waving": 26
     },
     "score": 1.0076923076923077
   },
@@ -15736,7 +15736,7 @@ export const chart = [
     "label": "Rush Hour",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 26
+      "Boomkat: Top Reissues & Archival Releases": 26
     },
     "score": 1.0076923076923077
   },
@@ -15748,7 +15748,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Richard Chartier 2017": 26
+      "Richard Chartier": 26
     },
     "score": 1.0076923076923077
   },
@@ -15760,7 +15760,7 @@ export const chart = [
     "label": "Drag City",
     "genre": "Indie / Alternative",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 27
+      "Boomkat: Top Releases": 27
     },
     "score": 1.0074074074074073
   },
@@ -15772,7 +15772,7 @@ export const chart = [
     "label": "Wharf Cat Records",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 27
+      "Boomkat: Most Overlooked Releases": 27
     },
     "score": 1.0074074074074073
   },
@@ -15784,7 +15784,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Richard Chartier 2017": 27
+      "Richard Chartier": 27
     },
     "score": 1.0074074074074073
   },
@@ -15796,7 +15796,7 @@ export const chart = [
     "label": "UIQ",
     "genre": "Electronic",
     "chart_by": {
-      "Annex 2017": 27
+      "Annex": 27
     },
     "score": 1.0074074074074073
   },
@@ -15808,7 +15808,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Prurient 2017": 27
+      "Prurient": 27
     },
     "score": 1.0074074074074073
   },
@@ -15832,7 +15832,7 @@ export const chart = [
     "label": "UNSEEN WORLDS",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Bartolomé Sanson (Shelter Press) 2017": 28
+      "Bartolomé Sanson (Shelter Press)": 28
     },
     "score": 1.0071428571428571
   },
@@ -15856,7 +15856,7 @@ export const chart = [
     "label": "UNTERTON",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Prurient 2017": 28
+      "Prurient": 28
     },
     "score": 1.0071428571428571
   },
@@ -15868,7 +15868,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 28
+      "Boomkat: Most Overlooked Releases": 28
     },
     "score": 1.0071428571428571
   },
@@ -15880,7 +15880,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Richard Chartier 2017": 29
+      "Richard Chartier": 29
     },
     "score": 1.006896551724138
   },
@@ -15892,7 +15892,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 29
+      "Annex": 29
     },
     "score": 1.006896551724138
   },
@@ -15904,7 +15904,7 @@ export const chart = [
     "label": "Vinyl On Demand",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 29
+      "Boomkat: Top Reissues & Archival Releases": 29
     },
     "score": 1.006896551724138
   },
@@ -15916,7 +15916,7 @@ export const chart = [
     "label": "Ostgut Ton",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 29
+      "Prurient": 29
     },
     "score": 1.006896551724138
   },
@@ -15940,7 +15940,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 30
+      "Annex": 30
     },
     "score": 1.0066666666666666
   },
@@ -15952,7 +15952,7 @@ export const chart = [
     "label": "Soul Jazz Records",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Not Waving 2017": 30
+      "Not Waving": 30
     },
     "score": 1.0066666666666666
   },
@@ -15976,7 +15976,7 @@ export const chart = [
     "label": "Lion Productions",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Bartolomé Sanson (Shelter Press) 2017": 30
+      "Bartolomé Sanson (Shelter Press)": 30
     },
     "score": 1.0066666666666666
   },
@@ -15988,7 +15988,7 @@ export const chart = [
     "label": "Fabric Worldwide",
     "genre": "Techno / House",
     "chart_by": {
-      "Prurient 2017": 31
+      "Prurient": 31
     },
     "score": 1.0064516129032257
   },
@@ -16000,7 +16000,7 @@ export const chart = [
     "label": "Emotional Rescue",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Not Waving 2017": 31
+      "Not Waving": 31
     },
     "score": 1.0064516129032257
   },
@@ -16036,7 +16036,7 @@ export const chart = [
     "label": "Hemlock Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Annex 2017": 31
+      "Annex": 31
     },
     "score": 1.0064516129032257
   },
@@ -16060,7 +16060,7 @@ export const chart = [
     "label": "BOCIAN RECORDS",
     "genre": "Electronic",
     "chart_by": {
-      "Annex 2017": 32
+      "Annex": 32
     },
     "score": 1.00625
   },
@@ -16120,7 +16120,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 33
+      "Annex": 33
     },
     "score": 1.006060606060606
   },
@@ -16132,7 +16132,7 @@ export const chart = [
     "label": "SVBKVLT",
     "genre": "Electronic",
     "chart_by": {
-      "Annex 2017": 34
+      "Annex": 34
     },
     "score": 1.0058823529411764
   },
@@ -16144,7 +16144,7 @@ export const chart = [
     "label": "Halcyon Veil",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 34
+      "Boomkat: Most Overlooked Releases": 34
     },
     "score": 1.0058823529411764
   },
@@ -16168,7 +16168,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 35
+      "Annex": 35
     },
     "score": 1.0057142857142858
   },
@@ -16192,7 +16192,7 @@ export const chart = [
     "label": "Entr'acte",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 36
+      "Boomkat: Most Overlooked Releases": 36
     },
     "score": 1.0055555555555555
   },
@@ -16204,7 +16204,7 @@ export const chart = [
     "label": "[PAN]",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 36
+      "Annex": 36
     },
     "score": 1.0055555555555555
   },
@@ -16228,7 +16228,7 @@ export const chart = [
     "label": "Von Archives",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 37
+      "Boomkat: Most Overlooked Releases": 37
     },
     "score": 1.0054054054054054
   },
@@ -16240,7 +16240,7 @@ export const chart = [
     "label": "",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 38
+      "Annex": 38
     },
     "score": 1.0052631578947369
   },
@@ -16252,7 +16252,7 @@ export const chart = [
     "label": "Dirter Promotions",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 38
+      "Boomkat: Most Overlooked Releases": 38
     },
     "score": 1.0052631578947369
   },
@@ -16288,7 +16288,7 @@ export const chart = [
     "label": "Knives",
     "genre": "Electronic",
     "chart_by": {
-      "Annex 2017": 39
+      "Annex": 39
     },
     "score": 1.005128205128205
   },
@@ -16300,7 +16300,7 @@ export const chart = [
     "label": "Room 40",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 40
+      "Boomkat: Top Releases": 40
     },
     "score": 1.005
   },
@@ -16312,7 +16312,7 @@ export const chart = [
     "label": "[Year0001]",
     "genre": "",
     "chart_by": {
-      "Annex 2017": 41
+      "Annex": 41
     },
     "score": 1.0048780487804878
   },
@@ -16324,7 +16324,7 @@ export const chart = [
     "label": "STROOM",
     "genre": "Disco / Boogie / Funk",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 42
+      "Boomkat: Top Reissues & Archival Releases": 42
     },
     "score": 1.0047619047619047
   },
@@ -16336,7 +16336,7 @@ export const chart = [
     "label": "Applied Rhythmic Technology (ART)",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 43
+      "Boomkat: Top Reissues & Archival Releases": 43
     },
     "score": 1.0046511627906978
   },
@@ -16348,7 +16348,7 @@ export const chart = [
     "label": "Alga Marghen",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 44
+      "Boomkat: Top Reissues & Archival Releases": 44
     },
     "score": 1.0045454545454546
   },
@@ -16360,7 +16360,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 45
+      "Boomkat: Most Overlooked Releases": 45
     },
     "score": 1.0044444444444445
   },
@@ -16372,7 +16372,7 @@ export const chart = [
     "label": "So Low/Optimo / So Low",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 46
+      "Boomkat: Top Reissues & Archival Releases": 46
     },
     "score": 1.0043478260869565
   },
@@ -16396,7 +16396,7 @@ export const chart = [
     "label": "Touch",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 47
+      "Boomkat: Most Overlooked Releases": 47
     },
     "score": 1.004255319148936
   },
@@ -16420,7 +16420,7 @@ export const chart = [
     "label": "Rune Grammofon",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 48
+      "Boomkat: Top Reissues & Archival Releases": 48
     },
     "score": 1.0041666666666667
   },
@@ -16432,7 +16432,7 @@ export const chart = [
     "label": "GURUGURU BRAIN",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 48
+      "Boomkat: Most Overlooked Releases": 48
     },
     "score": 1.0041666666666667
   },
@@ -16444,7 +16444,7 @@ export const chart = [
     "label": "Esk",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 50
+      "Boomkat: Most Overlooked Releases": 50
     },
     "score": 1.004
   },
@@ -16468,7 +16468,7 @@ export const chart = [
     "label": "Dom & Roland Productions",
     "genre": "Jungle / Footwork",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 50
+      "Boomkat: Top Reissues & Archival Releases": 50
     },
     "score": 1.004
   },
@@ -16480,7 +16480,7 @@ export const chart = [
     "label": "Greensleeves",
     "genre": "Dub / Reggae",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 51
+      "Boomkat: Top Reissues & Archival Releases": 51
     },
     "score": 1.003921568627451
   },
@@ -16492,7 +16492,7 @@ export const chart = [
     "label": "Tak:til",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 52
+      "Boomkat: Top Reissues & Archival Releases": 52
     },
     "score": 1.0038461538461538
   },
@@ -16504,7 +16504,7 @@ export const chart = [
     "label": "Central Processing Unit",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 53
+      "Boomkat: Most Overlooked Releases": 53
     },
     "score": 1.0037735849056604
   },
@@ -16516,7 +16516,7 @@ export const chart = [
     "label": "DIE SCHACHTEL",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 54
+      "Boomkat: Top Reissues & Archival Releases": 54
     },
     "score": 1.0037037037037038
   },
@@ -16528,7 +16528,7 @@ export const chart = [
     "label": "Hallow Ground / Hospital Productions",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 55
+      "Boomkat: Most Overlooked Releases": 55
     },
     "score": 1.0036363636363637
   },
@@ -16540,7 +16540,7 @@ export const chart = [
     "label": "Anotherday",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 55
+      "Boomkat: Top Reissues & Archival Releases": 55
     },
     "score": 1.0036363636363637
   },
@@ -16552,7 +16552,7 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 56
+      "Boomkat: Top Reissues & Archival Releases": 56
     },
     "score": 1.0035714285714286
   },
@@ -16564,7 +16564,7 @@ export const chart = [
     "label": "ITALIANS DO IT BETTER",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 57
+      "Boomkat: Top Releases": 57
     },
     "score": 1.0035087719298246
   },
@@ -16576,7 +16576,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 57
+      "Boomkat: Most Overlooked Releases": 57
     },
     "score": 1.0035087719298246
   },
@@ -16588,7 +16588,7 @@ export const chart = [
     "label": "We Release Whatever The Fuck We Want",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 58
+      "Boomkat: Top Reissues & Archival Releases": 58
     },
     "score": 1.0034482758620689
   },
@@ -16600,7 +16600,7 @@ export const chart = [
     "label": "Type Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 58
+      "Boomkat: Most Overlooked Releases": 58
     },
     "score": 1.0034482758620689
   },
@@ -16612,7 +16612,7 @@ export const chart = [
     "label": "shtum",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 58
+      "Boomkat: Top Releases": 58
     },
     "score": 1.0034482758620689
   },
@@ -16624,7 +16624,7 @@ export const chart = [
     "label": "Dark Entries Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Most Overlooked Releases 2017": 59
+      "Boomkat: Most Overlooked Releases": 59
     },
     "score": 1.0033898305084745
   },
@@ -16636,7 +16636,7 @@ export const chart = [
     "label": "Dais Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 59
+      "Boomkat: Top Reissues & Archival Releases": 59
     },
     "score": 1.0033898305084745
   },
@@ -16648,7 +16648,7 @@ export const chart = [
     "label": "DDS",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 63
+      "Boomkat: Top Releases": 63
     },
     "score": 1.0031746031746032
   },
@@ -16660,7 +16660,7 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 64
+      "Boomkat: Top Releases": 64
     },
     "score": 1.003125
   },
@@ -16672,7 +16672,7 @@ export const chart = [
     "label": "Strut",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 65
+      "Boomkat: Top Reissues & Archival Releases": 65
     },
     "score": 1.003076923076923
   },
@@ -16684,7 +16684,7 @@ export const chart = [
     "label": "iDEAL Recordings",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 68
+      "Boomkat: Top Reissues & Archival Releases": 68
     },
     "score": 1.0029411764705882
   },
@@ -16696,7 +16696,7 @@ export const chart = [
     "label": "Family Vineyard",
     "genre": "Folk / Roots",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 71
+      "Boomkat: Top Reissues & Archival Releases": 71
     },
     "score": 1.0028169014084507
   },
@@ -16708,7 +16708,7 @@ export const chart = [
     "label": "Sacred Bones Records",
     "genre": "Dark Ambient / Drone / Metal",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 73
+      "Boomkat: Top Releases": 73
     },
     "score": 1.0027397260273974
   },
@@ -16720,7 +16720,7 @@ export const chart = [
     "label": "NWAQ / Delsin Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 74
+      "Boomkat: Top Reissues & Archival Releases": 74
     },
     "score": 1.0027027027027027
   },
@@ -16732,7 +16732,7 @@ export const chart = [
     "label": "BEDOUIN",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 77
+      "Boomkat: Top Releases": 77
     },
     "score": 1.0025974025974025
   },
@@ -16744,7 +16744,7 @@ export const chart = [
     "label": "Major Problems / Compassion Cuts",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 78
+      "Boomkat: Top Reissues & Archival Releases": 78
     },
     "score": 1.0025641025641026
   },
@@ -16756,7 +16756,7 @@ export const chart = [
     "label": "Dark Entries Records / Genetic Music",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 80
+      "Boomkat: Top Reissues & Archival Releases": 80
     },
     "score": 1.0025
   },
@@ -16768,7 +16768,7 @@ export const chart = [
     "label": "Alleviated Records",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 81
+      "Boomkat: Top Reissues & Archival Releases": 81
     },
     "score": 1.002469135802469
   },
@@ -16780,7 +16780,7 @@ export const chart = [
     "label": "Dark Entries Records",
     "genre": "Industrial / Wave / Electro",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 82
+      "Boomkat: Top Reissues & Archival Releases": 82
     },
     "score": 1.002439024390244
   },
@@ -16792,7 +16792,7 @@ export const chart = [
     "label": "Secretly Canadian",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 83
+      "Boomkat: Top Reissues & Archival Releases": 83
     },
     "score": 1.002409638554217
   },
@@ -16804,7 +16804,7 @@ export const chart = [
     "label": "One Little Indian",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 84
+      "Boomkat: Top Releases": 84
     },
     "score": 1.0023809523809524
   },
@@ -16816,7 +16816,7 @@ export const chart = [
     "label": "Príncipe Discos",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 86
+      "Boomkat: Top Releases": 86
     },
     "score": 1.0023255813953489
   },
@@ -16828,7 +16828,7 @@ export const chart = [
     "label": "Warp Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 86
+      "Boomkat: Top Reissues & Archival Releases": 86
     },
     "score": 1.0023255813953489
   },
@@ -16840,7 +16840,7 @@ export const chart = [
     "label": "Deep Transportation",
     "genre": "Techno / House",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 87
+      "Boomkat: Top Reissues & Archival Releases": 87
     },
     "score": 1.0022988505747126
   },
@@ -16852,7 +16852,7 @@ export const chart = [
     "label": "Finders Keepers Records / Dead-Cert",
     "genre": "Early Electronic / Soundtracks",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 88
+      "Boomkat: Top Reissues & Archival Releases": 88
     },
     "score": 1.0022727272727272
   },
@@ -16864,7 +16864,7 @@ export const chart = [
     "label": "Gloriette Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 88
+      "Boomkat: Top Releases": 88
     },
     "score": 1.0022727272727272
   },
@@ -16876,7 +16876,7 @@ export const chart = [
     "label": "V I S",
     "genre": "World",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 89
+      "Boomkat: Top Reissues & Archival Releases": 89
     },
     "score": 1.002247191011236
   },
@@ -16888,7 +16888,7 @@ export const chart = [
     "label": "Crammed Discs",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 93
+      "Boomkat: Top Reissues & Archival Releases": 93
     },
     "score": 1.0021505376344086
   },
@@ -16900,7 +16900,7 @@ export const chart = [
     "label": "Soul Jazz Records",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 94
+      "Boomkat: Top Reissues & Archival Releases": 94
     },
     "score": 1.0021276595744681
   },
@@ -16912,7 +16912,7 @@ export const chart = [
     "label": "Les Séries Shandar",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 95
+      "Boomkat: Top Reissues & Archival Releases": 95
     },
     "score": 1.0021052631578948
   },
@@ -16924,7 +16924,7 @@ export const chart = [
     "label": "Canti Magnetici",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 96
+      "Boomkat: Top Reissues & Archival Releases": 96
     },
     "score": 1.0020833333333334
   },
@@ -16936,7 +16936,7 @@ export const chart = [
     "label": "Kompakt",
     "genre": "Modern Classical / Ambient",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 97
+      "Boomkat: Top Reissues & Archival Releases": 97
     },
     "score": 1.002061855670103
   },
@@ -16948,7 +16948,7 @@ export const chart = [
     "label": "SONG CYCLE",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 98
+      "Boomkat: Top Reissues & Archival Releases": 98
     },
     "score": 1.0020408163265306
   },
@@ -16960,7 +16960,7 @@ export const chart = [
     "label": "Superior Viaduct",
     "genre": "Jazz / Fusion",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 99
+      "Boomkat: Top Reissues & Archival Releases": 99
     },
     "score": 1.002020202020202
   },
@@ -16972,7 +16972,7 @@ export const chart = [
     "label": "Ninja Tune",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 99
+      "Boomkat: Top Releases": 99
     },
     "score": 1.002020202020202
   },
@@ -16984,7 +16984,7 @@ export const chart = [
     "label": "Rhino",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Reissues & Archival Releases 2017": 100
+      "Boomkat: Top Reissues & Archival Releases": 100
     },
     "score": 1.002
   },
@@ -16996,7 +16996,7 @@ export const chart = [
     "label": "Disk",
     "genre": "Electronic",
     "chart_by": {
-      "Boomkat: Top Releases 2017": 100
+      "Boomkat: Top Releases": 100
     },
     "score": 1.002
   }
