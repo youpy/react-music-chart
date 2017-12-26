@@ -161,7 +161,7 @@ export default class App extends Component {
 
     return (
       <div>
-        <h1><a href="./">Boomkat Charts 2016: Merged</a></h1>
+        <h1><a href="./">Boomkat Charts 2017: Merged</a></h1>
         <div className="row">
           <div className="input-field col s12 m6 l2">
             <input className="validate" id="artist" type="text" onChange={this.onChangeArtistFilter.bind(this)} value={this.state.artistFilter} />
