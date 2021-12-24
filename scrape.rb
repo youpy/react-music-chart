@@ -1,16 +1,21 @@
 require 'httpclient'
 require 'nokogiri'
 require 'json'
+require 'logger'
+
+YEAR = (ARGV.shift || "2021")
 
 class Scraper
   def scrape
-    doc('https://boomkat.com/charts/boomkat-end-of-year-charts-2021').
+    logger = Logger.new($stderr)
+
+    doc('https://boomkat.com/charts/boomkat-end-of-year-charts-%s' % YEAR).
       css('.charts-index-chart').
       find_all do |a|
-      a['href'] && a['href'] !~ /\/charts\/boomkat-end-of-year-charts-2021\/94[012]/
+      a['href'] && a['href'] !~ /\/charts\/boomkat-end-of-year-charts-#{YEAR}\/94[012]/
     end.inject({}) do |memo, a|
-      $stderr.puts a
       data = chart(a['href'])
+      logger.info("scraped a chart by %s" % data[:chart_by])
       data[:items].each_with_index do |item, index|
         memo[item[:artist]] ||= {}
         memo[item[:artist]][item[:title]] ||= {
@@ -46,7 +51,7 @@ class Scraper
 
   def chart(url)
     doc = doc('https://boomkat.com' + url)
-    chart_author = doc.css('.chart-topbanner-title').text.strip.sub(/ 2021$/, '')
+    chart_author = doc.css('.chart-topbanner-title').text.strip.sub(/ #{YEAR}$/, '')
     doc.css('.chart-item').inject({ chart_by: chart_author }) do |memo, div|
       url = nil
       img_url = nil
