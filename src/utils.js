@@ -27,7 +27,6 @@ export const aggregate = (data) => {
         genre: value.genre,
         chart_by: value.chart_by,
         score: Object.entries(value.chart_by).reduce((total, v) => {
-          console.log(total, v)
           return total + 1 + (1.0 / (v[1] * 5))
         }, 0)
       })
