@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import LazyLoad from "react-lazy-load";
 import qs from "query-string";
+import PropTypes from 'prop-types';
 
 const initialState = {
   artistFilter: "",
@@ -12,8 +13,8 @@ const initialState = {
 };
 
 export default class App extends Component {
-  componentWillMount() {
-    this.state = initialState;
+  UNSAFE_componentWillMount() {
+    this.setState(initialState)
 
     document.title = this.props.title
   }
@@ -308,4 +309,9 @@ export default class App extends Component {
       </div>
     );
   }
+}
+
+App.propTypes = {
+  title: PropTypes.string,
+  chart: PropTypes.array
 }

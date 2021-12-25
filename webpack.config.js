@@ -1,5 +1,6 @@
-var path = require('path');
-var webpack = require('webpack');
+const path = require('path');
+const webpack = require('webpack');
+const ESLintPlugin = require('eslint-webpack-plugin');
 
 module.exports = {
   mode: 'development',
@@ -13,7 +14,11 @@ module.exports = {
     static: './',
   },
   plugins: [
-    new webpack.HotModuleReplacementPlugin()
+    new webpack.HotModuleReplacementPlugin(),
+    new ESLintPlugin({
+      extensions: [ '.js', '.jsx' ],
+      exclude: 'node_modules'
+    })
   ],
   module: {
     rules: [{
@@ -22,7 +27,7 @@ module.exports = {
         { loader: 'react-hot-loader/webpack' },
         { loader: 'babel-loader' }
       ],
-      include: path.join(__dirname, 'src')
+      include: path.join(__dirname, 'src/')
     }]
   },
   target: ['web', 'es2020']
