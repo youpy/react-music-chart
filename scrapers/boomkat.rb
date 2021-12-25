@@ -57,15 +57,14 @@ class Scraper
   end
 
   def chart(url)
-    full_url = 'https://boomkat.com' + url
-    doc = doc(full_url)
+    doc = doc('https://boomkat.com' + url)
     chart_author = doc.css('.chart-topbanner-title').text.strip.sub(/ #{YEAR}$/, '')
     doc.css('.chart-item').inject({ chart_by: chart_author }) do |memo, div|
       url = nil
       img_url = nil
 
       if div.css('a').size > 0
-        url = div.css('a')[0]['href']
+        url = 'https://boomkat.com' + div.css('a')[0]['href']
       end
 
       if div.css('img').size > 0
@@ -79,7 +78,7 @@ class Scraper
 
       memo[:items] ||= []
       memo[:items] << {
-        url: full_url,
+        url: url,
         img_url: img_url,
         artist: artist,
         title: title,
