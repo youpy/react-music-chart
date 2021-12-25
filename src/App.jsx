@@ -1,7 +1,7 @@
-import React, { Component } from "react";
-import LazyLoad from "react-lazy-load";
-import qs from "query-string";
-import PropTypes from 'prop-types';
+import React, { Component } from "react"
+import LazyLoad from "react-lazy-load"
+import qs from "query-string"
+import PropTypes from "prop-types"
 
 const initialState = {
   artistFilter: "",
@@ -11,7 +11,7 @@ const initialState = {
   chartByFilter: "",
   chart_by: [],
   offset: 50,
-};
+}
 
 export default class App extends Component {
   UNSAFE_componentWillMount() {
@@ -21,30 +21,30 @@ export default class App extends Component {
   }
 
   getStateFromHash() {
-    const params = qs.parse(location.hash);
-    var newState = {};
+    const params = qs.parse(location.hash)
+    var newState = {}
 
     if (params.artist) {
-      newState.artistFilter = params.artist.toLowerCase();
+      newState.artistFilter = params.artist.toLowerCase()
     }
 
     if (params.label) {
-      newState.labelFilter = params.label.toLowerCase();
+      newState.labelFilter = params.label.toLowerCase()
     }
 
     if (params.genre) {
-      newState.genreFilter = params.genre.toLowerCase();
+      newState.genreFilter = params.genre.toLowerCase()
     }
 
     if (params.chart_by) {
-      newState.chartByFilter = params.chart_by.toLowerCase();
+      newState.chartByFilter = params.chart_by.toLowerCase()
     }
 
-    return newState;
+    return newState
   }
 
   onHashChange() {
-    const stateFromHash = this.getStateFromHash();
+    const stateFromHash = this.getStateFromHash()
 
     this.setState(
       Object.assign(
@@ -56,10 +56,10 @@ export default class App extends Component {
         },
         stateFromHash
       )
-    );
+    )
 
     if (Object.keys(stateFromHash).length !== 0) {
-      window.scroll(0, 0);
+      window.scroll(0, 0)
     }
   }
 
@@ -67,44 +67,42 @@ export default class App extends Component {
     const fn = () => {
       this.setState({
         offset: this.state.offset + 50,
-      });
-    };
+      })
+    }
 
     const handleScroll = () => {
-      const lastItemLoaded = document.querySelector(
-        ".items > .item:last-child"
-      );
+      const lastItemLoaded = document.querySelector(".items > .item:last-child")
 
       if (lastItemLoaded) {
-        const rect = lastItemLoaded.getBoundingClientRect();
-        const lastItemLoadedOffset = rect.top + rect.width;
-        const pageOffset = window.pageYOffset + window.innerHeight;
+        const rect = lastItemLoaded.getBoundingClientRect()
+        const lastItemLoadedOffset = rect.top + rect.width
+        const pageOffset = window.pageYOffset + window.innerHeight
         if (pageOffset > lastItemLoadedOffset) {
           if (this.state.offset < this.props.chart.length) {
-            console.log(1);
-            fn();
+            console.log(1)
+            fn()
           }
         }
       }
-    };
+    }
 
-    window.addEventListener("scroll", handleScroll);
+    window.addEventListener("scroll", handleScroll)
 
     const chart_by = this.props.chart.reduce((memo, item) => {
-      return Object.assign(memo, item.chart_by);
-    }, {});
+      return Object.assign(memo, item.chart_by)
+    }, {})
 
-    window.onhashchange = this.onHashChange.bind(this);
+    window.onhashchange = this.onHashChange.bind(this)
 
     this.setState(
       Object.assign({}, this.state, this.getStateFromHash(), {
-        chart_by: Object.keys(chart_by).sort()
+        chart_by: Object.keys(chart_by).sort(),
       })
-    );
+    )
   }
 
   componentWillUnmount() {
-    window.onhashchange = null;
+    window.onhashchange = null
   }
 
   onChangeArtistFilter(e) {
@@ -113,7 +111,7 @@ export default class App extends Component {
         artistFilter: e.target.value.toLowerCase(),
         offset: 50,
       })
-    );
+    )
   }
 
   onChangeTitleFilter(e) {
@@ -122,7 +120,7 @@ export default class App extends Component {
         titleFilter: e.target.value.toLowerCase(),
         offset: 50,
       })
-    );
+    )
   }
 
   onChangeLabelFilter(e) {
@@ -131,7 +129,7 @@ export default class App extends Component {
         labelFilter: e.target.value.toLowerCase(),
         offset: 50,
       })
-    );
+    )
   }
 
   onChangeGenreFilter(e) {
@@ -140,7 +138,7 @@ export default class App extends Component {
         genreFilter: e.target.value.toLowerCase(),
         offset: 50,
       })
-    );
+    )
   }
 
   onChangeChartByFilter(e) {
@@ -149,7 +147,7 @@ export default class App extends Component {
         chartByFilter: e.target.value.toLowerCase(),
         offset: 50,
       })
-    );
+    )
   }
 
   renderItem(item) {
@@ -182,7 +180,7 @@ export default class App extends Component {
             </a>
           </div>
           <ul className="by">
-            {Object.keys(item.chart_by).map(who => (
+            {Object.keys(item.chart_by).map((who) => (
               <li
                 key={who}
                 className="chip"
@@ -191,7 +189,7 @@ export default class App extends Component {
                   background:
                     who.toLowerCase() === this.state.chartByFilter
                       ? "#fcc"
-                      : null
+                      : null,
                 }}
               >
                 <a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>:{" "}
@@ -201,68 +199,62 @@ export default class App extends Component {
           </ul>
         </div>
       </div>
-    );
+    )
   }
 
   render() {
     const items = this.props.chart
-      .filter(item => {
+      .filter((item) => {
         if (this.state.artistFilter !== "") {
           return (
             item.artist.toLowerCase().indexOf(this.state.artistFilter) !== -1
-          );
+          )
         } else {
-          return true;
+          return true
         }
       })
-      .filter(item => {
+      .filter((item) => {
         if (this.state.titleFilter !== "") {
-          return (
-            item.title.toLowerCase().indexOf(this.state.titleFilter) !== -1
-          );
+          return item.title.toLowerCase().indexOf(this.state.titleFilter) !== -1
         } else {
-          return true;
+          return true
         }
       })
-      .filter(item => {
+      .filter((item) => {
         if (this.state.genreFilter !== "") {
-          return (
-            item.genre.toLowerCase().indexOf(this.state.genreFilter) !== -1
-          );
+          return item.genre.toLowerCase().indexOf(this.state.genreFilter) !== -1
         } else {
-          return true;
+          return true
         }
       })
-      .filter(item => {
+      .filter((item) => {
         if (this.state.labelFilter !== "") {
-          return (
-            item.label.toLowerCase().indexOf(this.state.labelFilter) !== -1
-          );
+          return item.label.toLowerCase().indexOf(this.state.labelFilter) !== -1
         } else {
-          return true;
+          return true
         }
       })
-      .filter(item => {
+      .filter((item) => {
         if (this.state.chartByFilter !== "") {
           return (
             Object.keys(item.chart_by)
               .join(" ")
               .toLowerCase()
               .indexOf(this.state.chartByFilter) !== -1
-          );
+          )
         } else {
-          return true;
+          return true
         }
-      });
+      })
 
     const who = this.state.chart_by.find(
-      who => who.toLowerCase() === this.state.chartByFilter
-    );
+      (who) => who.toLowerCase() === this.state.chartByFilter
+    )
     if (who) {
-      items.sort((a, b) => a.chart_by[who] - b.chart_by[who]);
+      items.sort((a, b) => a.chart_by[who] - b.chart_by[who])
     }
 
-    items.splice(this.state.offset);
+    items.splice(this.state.offset)
 
     return (
       <div>
@@ -342,13 +334,15 @@ export default class App extends Component {
             </label>
           </div>
         </div>
-        <div className="items">{items.map(item => this.renderItem(item))}</div>
+        <div className="items">
+          {items.map((item) => this.renderItem(item))}
+        </div>
       </div>
-    );
+    )
   }
 }
 
 App.propTypes = {
   title: PropTypes.string,
-  chart: PropTypes.array
+  chart: PropTypes.array,
 }

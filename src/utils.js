@@ -7,7 +7,7 @@ export const aggregate = (data) => {
         img_url: item.img_url,
         label: item.label,
         genre: item.genre,
-        chart_by: {}
+        chart_by: {},
       }
       memo[item.artist][item.title].chart_by[c.chart_by] = index + 1
     })
@@ -27,8 +27,8 @@ export const aggregate = (data) => {
         genre: value.genre,
         chart_by: value.chart_by,
         score: Object.entries(value.chart_by).reduce((total, v) => {
-          return total + 1 + (1.0 / (v[1] * 5))
-        }, 0)
+          return total + 1 + 1.0 / (v[1] * 5)
+        }, 0),
       })
     }
   }
