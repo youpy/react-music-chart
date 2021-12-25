@@ -14,6 +14,8 @@ const initialState = {
 export default class App extends Component {
   componentWillMount() {
     this.state = initialState;
+
+    document.title = "Boomkat Charts " + this.props.year + ": Merged"
   }
 
   getStateFromHash() {
@@ -227,7 +229,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>
-          <a href="./">Boomkat Charts 2020: Merged</a>
+          <a href="./">Boomkat Charts {this.props.year}: Merged</a>
         </h1>
         <div className="row">
           <div className="input-field col s12 m6 l2">
@@ -239,7 +241,7 @@ export default class App extends Component {
               value={this.state.artistFilter}
             />
             <label
-              for="artist"
+              htmlFor="artist"
               className={this.state.artistFilter !== "" ? "active" : ""}
             >
               Artist
@@ -253,7 +255,7 @@ export default class App extends Component {
               value={this.state.titleFilter}
             />
             <label
-              for="title"
+              htmlFor="title"
               className={this.state.titleFilter !== "" ? "active" : ""}
             >
               Title
@@ -267,7 +269,7 @@ export default class App extends Component {
               value={this.state.labelFilter}
             />
             <label
-              for="label"
+              htmlFor="label"
               className={this.state.labelFilter !== "" ? "active" : ""}
             >
               Label
@@ -281,7 +283,7 @@ export default class App extends Component {
               value={this.state.genreFilter}
             />
             <label
-              for="genre"
+              htmlFor="genre"
               className={this.state.genreFilter !== "" ? "active" : ""}
             >
               Genre
@@ -295,7 +297,7 @@ export default class App extends Component {
               value={this.state.chartByFilter}
             />
             <label
-              for="chart_by"
+              htmlFor="chart_by"
               className={this.state.chartByFilter !== "" ? "active" : ""}
             >
               Chart By

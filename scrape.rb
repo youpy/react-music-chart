@@ -97,7 +97,10 @@ class Scraper
 end
 
 def main
-  puts JSON.pretty_generate(Scraper.new.scrape)
+  puts JSON.pretty_generate(
+         year: YEAR,
+         data: Scraper.new.scrape
+       )
 end
 
 main
