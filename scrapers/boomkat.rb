@@ -104,7 +104,7 @@ class Scraper
 end
 
 def main
-  puts JSON.generate(
+  puts JSON.pretty_generate(
          title: 'Boomkat Charts %s: Merged' % YEAR,
          data: Scraper.new.scrape
        )
