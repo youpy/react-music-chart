@@ -1,3 +1,9 @@
 # react-music-chart
 
-based on https://github.com/gaearon/react-hot-boilerplate
+## Usage
+
+```
+$ ruby scraper/boomkat.rb 2021 > src/chart.json
+$ yarn start
+```
+
