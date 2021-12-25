@@ -1,4 +1,4 @@
-# react-music-chart
+# music-chart-viewer
 
 ## Usage
 
