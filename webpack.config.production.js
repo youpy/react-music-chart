@@ -1,8 +1,9 @@
-var config = require('./webpack.config');
-var webpack = require('webpack');
+const config = require('./webpack.config');
+const webpack = require('webpack');
+const TerserPlugin = require("terser-webpack-plugin");
 
 config.devtool = 'source-map';
-config.plugins.push(new webpack.optimize.UglifyJsPlugin())
+config.mode = 'production'
 config.entry = [
   './src/index'
 ];

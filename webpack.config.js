@@ -2,11 +2,8 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-  devtool: 'cheap-module-eval-source-map',
-  entry: [
-    'webpack-hot-middleware/client',
-    './src/index'
-  ],
+  mode: 'development',
+  devtool: 'eval-cheap-module-source-map',
   output: {
     path: path.join(__dirname, 'dist'),
     filename: 'bundle.js',
@@ -16,17 +13,14 @@ module.exports = {
     new webpack.HotModuleReplacementPlugin()
   ],
   module: {
-    loaders: [{
+    rules: [{
       test: /\.jsx?$/,
-      loaders: [
-        'react-hot-loader/webpack',
-        'babel-loader'
+      use: [
+        { loader: 'react-hot-loader/webpack' },
+        { loader: 'babel-loader' }
       ],
       include: path.join(__dirname, 'src')
-    },
-    {
-      test: /\.json$/,
-      loader: 'json-loader',
     }]
-  }
+  },
+  target: ['web', 'es2020']
 };
