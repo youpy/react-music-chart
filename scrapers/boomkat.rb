@@ -50,7 +50,8 @@ class Scraper
   end
 
   def chart(url)
-    doc = doc('https://boomkat.com' + url)
+    full_url = 'https://boomkat.com' + url
+    doc = doc(full_url)
     chart_author = doc.css('.chart-topbanner-title').text.strip.sub(/ #{YEAR}$/, '')
     doc.css('.chart-item').inject({ chart_by: chart_author }) do |memo, div|
       url = nil
@@ -71,7 +72,7 @@ class Scraper
 
       memo[:items] ||= []
       memo[:items] << {
-        url: url,
+        url: full_url,
         img_url: img_url,
         artist: artist,
         title: title,
@@ -97,8 +98,8 @@ class Scraper
 end
 
 def main
-  puts JSON.pretty_generate(
-         year: YEAR,
+  puts JSON.generate(
+         title: 'Boomkat Charts %s: Merged' % YEAR,
          data: Scraper.new.scrape
        )
 end

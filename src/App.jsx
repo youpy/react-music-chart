@@ -15,7 +15,7 @@ export default class App extends Component {
   componentWillMount() {
     this.state = initialState;
 
-    document.title = "Boomkat Charts " + this.props.year + ": Merged"
+    document.title = this.props.title
   }
 
   getStateFromHash() {
@@ -125,7 +125,7 @@ export default class App extends Component {
         <div className="info">
           {item.url && (
             <h2 className="flow-text">
-              <a href={`https://www.boomkat.com${item.url}`}>
+              <a href={`${item.url}`}>
                 {item.artist} / {item.title}
               </a>
             </h2>
@@ -229,7 +229,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>
-          <a href="./">Boomkat Charts {this.props.year}: Merged</a>
+          <a href="./">{this.props.title}</a>
         </h1>
         <div className="row">
           <div className="input-field col s12 m6 l2">
