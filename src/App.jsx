@@ -9,7 +9,8 @@ const initialState = {
   labelFilter: "",
   titleFilter: "",
   chartByFilter: "",
-  chart_by: []
+  chart_by: [],
+  offset: 50,
 };
 
 export default class App extends Component {
@@ -49,7 +50,10 @@ export default class App extends Component {
       Object.assign(
         {},
         initialState,
-        { chart_by: this.state.chart_by },
+        {
+          chart_by: this.state.chart_by,
+          offset: 50,
+        },
         stateFromHash
       )
     );
@@ -60,6 +64,32 @@ export default class App extends Component {
   }
 
   componentDidMount() {
+    const fn = () => {
+      this.setState({
+        offset: this.state.offset + 50,
+      });
+    };
+
+    const handleScroll = () => {
+      const lastItemLoaded = document.querySelector(
+        ".items > .item:last-child"
+      );
+
+      if (lastItemLoaded) {
+        const rect = lastItemLoaded.getBoundingClientRect();
+        const lastItemLoadedOffset = rect.top + rect.width;
+        const pageOffset = window.pageYOffset + window.innerHeight;
+        if (pageOffset > lastItemLoadedOffset) {
+          if (this.state.offset < this.props.chart.length) {
+            console.log(1);
+            fn();
+          }
+        }
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
     const chart_by = this.props.chart.reduce((memo, item) => {
       return Object.assign(memo, item.chart_by);
     }, {});
@@ -80,7 +110,8 @@ export default class App extends Component {
   onChangeArtistFilter(e) {
     this.setState(
       Object.assign({}, this.state, {
-        artistFilter: e.target.value.toLowerCase()
+        artistFilter: e.target.value.toLowerCase(),
+        offset: 50,
       })
     );
   }
@@ -88,7 +119,8 @@ export default class App extends Component {
   onChangeTitleFilter(e) {
     this.setState(
       Object.assign({}, this.state, {
-        titleFilter: e.target.value.toLowerCase()
+        titleFilter: e.target.value.toLowerCase(),
+        offset: 50,
       })
     );
   }
@@ -96,7 +128,8 @@ export default class App extends Component {
   onChangeLabelFilter(e) {
     this.setState(
       Object.assign({}, this.state, {
-        labelFilter: e.target.value.toLowerCase()
+        labelFilter: e.target.value.toLowerCase(),
+        offset: 50,
       })
     );
   }
@@ -104,7 +137,8 @@ export default class App extends Component {
   onChangeGenreFilter(e) {
     this.setState(
       Object.assign({}, this.state, {
-        genreFilter: e.target.value.toLowerCase()
+        genreFilter: e.target.value.toLowerCase(),
+        offset: 50,
       })
     );
   }
@@ -112,7 +146,8 @@ export default class App extends Component {
   onChangeChartByFilter(e) {
     this.setState(
       Object.assign({}, this.state, {
-        chartByFilter: e.target.value.toLowerCase()
+        chartByFilter: e.target.value.toLowerCase(),
+        offset: 50,
       })
     );
   }
@@ -226,6 +261,8 @@ export default class App extends Component {
     if (who) {
       items.sort((a, b) => a.chart_by[who] - b.chart_by[who]);
     }
+
+    items.splice(this.state.offset);
 
     return (
       <div>
