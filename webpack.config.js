@@ -30,5 +30,11 @@ module.exports = {
       include: path.join(__dirname, 'src/')
     }]
   },
-  target: ['web', 'es2020']
+  target: ['web', 'es2020'],
+  resolve: {
+    alias: {
+      react: "preact/compat",
+      "react-dom": "preact/compat"
+    }
+  }
 };
