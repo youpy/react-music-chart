@@ -1,14 +1,14 @@
-import React, { Component } from "react"
-import LazyLoad from "react-lazy-load"
-import qs from "query-string"
-import PropTypes from "prop-types"
+import React, { Component } from 'react'
+import LazyLoad from 'react-lazy-load'
+import qs from 'query-string'
+import PropTypes from 'prop-types'
 
 const initialState = {
-  artistFilter: "",
-  genreFilter: "",
-  labelFilter: "",
-  titleFilter: "",
-  chartByFilter: "",
+  artistFilter: '',
+  genreFilter: '',
+  labelFilter: '',
+  titleFilter: '',
+  chartByFilter: '',
   chart_by: [],
   offset: 50,
 }
@@ -71,7 +71,7 @@ export default class App extends Component {
     }
 
     const handleScroll = () => {
-      const lastItemLoaded = document.querySelector(".items > .item:last-child")
+      const lastItemLoaded = document.querySelector('.items > .item:last-child')
 
       if (lastItemLoaded) {
         const rect = lastItemLoaded.getBoundingClientRect()
@@ -86,7 +86,7 @@ export default class App extends Component {
       }
     }
 
-    window.addEventListener("scroll", handleScroll)
+    window.addEventListener('scroll', handleScroll)
 
     const chart_by = this.props.chart.reduce((memo, item) => {
       return Object.assign(memo, item.chart_by)
@@ -185,14 +185,14 @@ export default class App extends Component {
                 key={who}
                 className="chip"
                 style={{
-                  border: item.chart_by[who] === 1 ? "#ccc 2px solid" : null,
+                  border: item.chart_by[who] === 1 ? '#ccc 2px solid' : null,
                   background:
                     who.toLowerCase() === this.state.chartByFilter
-                      ? "#fcc"
+                      ? '#fcc'
                       : null,
                 }}
               >
-                <a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>:{" "}
+                <a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>:{' '}
                 {item.chart_by[who]}
               </li>
             ))}
@@ -205,7 +205,7 @@ export default class App extends Component {
   render() {
     const items = this.props.chart
       .filter((item) => {
-        if (this.state.artistFilter !== "") {
+        if (this.state.artistFilter !== '') {
           return (
             item.artist.toLowerCase().indexOf(this.state.artistFilter) !== -1
           )
@@ -214,31 +214,31 @@ export default class App extends Component {
         }
       })
       .filter((item) => {
-        if (this.state.titleFilter !== "") {
+        if (this.state.titleFilter !== '') {
           return item.title.toLowerCase().indexOf(this.state.titleFilter) !== -1
         } else {
           return true
         }
       })
       .filter((item) => {
-        if (this.state.genreFilter !== "") {
+        if (this.state.genreFilter !== '') {
           return item.genre.toLowerCase().indexOf(this.state.genreFilter) !== -1
         } else {
           return true
         }
       })
       .filter((item) => {
-        if (this.state.labelFilter !== "") {
+        if (this.state.labelFilter !== '') {
           return item.label.toLowerCase().indexOf(this.state.labelFilter) !== -1
         } else {
           return true
         }
       })
       .filter((item) => {
-        if (this.state.chartByFilter !== "") {
+        if (this.state.chartByFilter !== '') {
           return (
             Object.keys(item.chart_by)
-              .join(" ")
+              .join(' ')
               .toLowerCase()
               .indexOf(this.state.chartByFilter) !== -1
           )
@@ -272,7 +272,7 @@ export default class App extends Component {
             />
             <label
               htmlFor="artist"
-              className={this.state.artistFilter !== "" ? "active" : ""}
+              className={this.state.artistFilter !== '' ? 'active' : ''}
             >
               Artist
             </label>
@@ -286,7 +286,7 @@ export default class App extends Component {
             />
             <label
               htmlFor="title"
-              className={this.state.titleFilter !== "" ? "active" : ""}
+              className={this.state.titleFilter !== '' ? 'active' : ''}
             >
               Title
             </label>
@@ -300,7 +300,7 @@ export default class App extends Component {
             />
             <label
               htmlFor="label"
-              className={this.state.labelFilter !== "" ? "active" : ""}
+              className={this.state.labelFilter !== '' ? 'active' : ''}
             >
               Label
             </label>
@@ -314,7 +314,7 @@ export default class App extends Component {
             />
             <label
               htmlFor="genre"
-              className={this.state.genreFilter !== "" ? "active" : ""}
+              className={this.state.genreFilter !== '' ? 'active' : ''}
             >
               Genre
             </label>
@@ -328,7 +328,7 @@ export default class App extends Component {
             />
             <label
               htmlFor="chart_by"
-              className={this.state.chartByFilter !== "" ? "active" : ""}
+              className={this.state.chartByFilter !== '' ? 'active' : ''}
             >
               Chart By
             </label>
