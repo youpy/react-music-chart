@@ -79,7 +79,6 @@ export default class App extends Component {
         const pageOffset = window.pageYOffset + window.innerHeight
         if (pageOffset > lastItemLoadedOffset) {
           if (this.state.offset < this.props.chart.length) {
-            console.log(1)
             fn()
           }
         }
