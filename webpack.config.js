@@ -19,7 +19,7 @@ module.exports = {
     loaders: [{
       test: /\.jsx?$/,
       loaders: [
-        'react-hot-loader',
+        'react-hot-loader/webpack',
         'babel-loader'
       ],
       include: path.join(__dirname, 'src')
