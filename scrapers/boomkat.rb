@@ -1,5 +1,12 @@
-require 'httpclient'
-require 'nokogiri'
+require 'bundler/inline'
+
+gemfile do
+  source 'https://rubygems.org'
+  gem 'http-cookie'
+  gem 'httpclient'
+  gem 'nokogiri'
+end
+
 require 'json'
 require 'logger'
 
