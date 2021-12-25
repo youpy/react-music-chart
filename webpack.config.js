@@ -1,19 +1,21 @@
 const path = require('path')
 const webpack = require('webpack')
 const ESLintPlugin = require('eslint-webpack-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const outputPath = path.join(__dirname, 'dist');
 
 module.exports = {
   mode: 'development',
   devtool: 'eval-cheap-module-source-map',
   output: {
-    path: path.join(__dirname, 'dist'),
-    filename: 'bundle.js',
-    publicPath: '/static/',
-  },
-  devServer: {
-    static: './',
+    path: outputPath,
+    filename: 'bundle.[contenthash].js',
+    clean: true,
   },
   plugins: [
+    new HtmlWebpackPlugin({
+      template: './public/index.html'
+    }),
     new webpack.HotModuleReplacementPlugin(),
     new ESLintPlugin({
       extensions: ['.js', '.jsx'],
