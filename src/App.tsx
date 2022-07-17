@@ -61,6 +61,7 @@ function App({ title, chart }: Props) {
       const params = qs.parse(location.hash)
       var newState: AppState = assign(initialState, {
         artistFilter: paramValue(params.artist),
+        titleFilter: paramValue(params.title),
         labelFilter: paramValue(params.label),
         genreFilter: paramValue(params.genre),
         chartByFilter: paramValue(params.chart_by),
@@ -83,6 +84,7 @@ function App({ title, chart }: Props) {
       }
     }
 
+    onHashChange()
     window.onhashchange = onHashChange
 
     return () => {
