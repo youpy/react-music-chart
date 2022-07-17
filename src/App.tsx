@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import qs from 'query-string'
 import { Item, ChartItem } from './Item'
+import { assign } from './utils'
 
 type AppState = {
   artistFilter: string
@@ -45,7 +46,11 @@ function App({ title, chart }: Props) {
 
   useEffect(() => {
     const fn = () => {
-      setAppState(Object.assign({}, appState, { offset: appState.offset + 50 }))
+      setAppState(
+        assign(appState, {
+          offset: appState.offset + 50,
+        })
+      )
     }
     const handleScroll = () => {
       const lastItemLoaded = document.querySelector('.items > .item:last-child')
@@ -72,7 +77,7 @@ function App({ title, chart }: Props) {
     const stateFromHash = getStateFromHash()
 
     setAppState(
-      Object.assign({}, initialState, stateFromHash, {
+      assign(stateFromHash, {
         offset: 50,
       })
     )
@@ -82,7 +87,11 @@ function App({ title, chart }: Props) {
     }
   }
 
-  const paramValue = (param: string | (string | null)[]): string => {
+  const paramValue = (param: string | (string | null)[] | null): string => {
+    if (!param) {
+      return ''
+    }
+
     const value = Array.isArray(param) ? param[0] || '' : param
 
     return value.toLowerCase()
@@ -90,30 +99,19 @@ function App({ title, chart }: Props) {
 
   const getStateFromHash = () => {
     const params = qs.parse(location.hash)
-    var newState: AppState = Object.assign({}, initialState)
-
-    if (params.artist) {
-      newState.artistFilter = paramValue(params.artist)
-    }
-
-    if (params.label) {
-      newState.labelFilter = paramValue(params.label)
-    }
-
-    if (params.genre) {
-      newState.genreFilter = paramValue(params.genre)
-    }
-
-    if (params.chart_by) {
-      newState.chartByFilter = paramValue(params.chart_by)
-    }
+    var newState: AppState = assign(initialState, {
+      artistFilter: paramValue(params.artist),
+      labelFilter: paramValue(params.label),
+      genreFilter: paramValue(params.genre),
+      chartByFilter: paramValue(params.chart_by),
+    })
 
     return newState
   }
 
   const onChangeArtistFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
-      Object.assign({}, initialState, {
+      assign(initialState, {
         artistFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
@@ -122,7 +120,7 @@ function App({ title, chart }: Props) {
 
   const onChangeTitleFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
-      Object.assign({}, initialState, {
+      assign(initialState, {
         titleFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
@@ -131,7 +129,7 @@ function App({ title, chart }: Props) {
 
   const onChangeLabelFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
-      Object.assign({}, initialState, {
+      assign(initialState, {
         labelFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
@@ -140,7 +138,7 @@ function App({ title, chart }: Props) {
 
   const onChangeGenreFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
-      Object.assign({}, initialState, {
+      assign(initialState, {
         genreFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
@@ -149,7 +147,7 @@ function App({ title, chart }: Props) {
 
   const onChangeChartByFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
-      Object.assign({}, initialState, {
+      assign(initialState, {
         chartByFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })

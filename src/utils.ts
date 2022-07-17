@@ -64,3 +64,7 @@ export const aggregate = (data: Chart[]) => {
 
   return items
 }
+
+export const assign = <T>(a: T, b: Partial<T>): T => {
+  return Object.assign({}, a, b)
+}
