@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import qs from 'query-string'
 import { Item, ChartItem } from './Item'
 import { assign } from './utils'
@@ -26,17 +26,55 @@ type Props = {
   chart: ChartItem[]
 }
 
+const paramValue = (param: string | (string | null)[] | null): string => {
+  if (!param) {
+    return ''
+  }
+
+  const value = Array.isArray(param) ? param[0] || '' : param
+
+  return value.toLowerCase()
+}
+
 function App({ title, chart }: Props) {
   const [appState, setAppState] = useState<AppState>(initialState)
-
-  const chartBy = Object.keys(
-    chart.reduce((memo, item) => {
-      return Object.assign(memo, item.chart_by)
-    }, {})
-  ).sort()
+  const chartBy = useMemo(() => {
+    return Object.keys(
+      chart.reduce((memo, item) => {
+        return Object.assign(memo, item.chart_by)
+      }, {})
+    ).sort()
+  }, [])
 
   useEffect(() => {
     document.title = title
+
+    const getStateFromHash = () => {
+      const params = qs.parse(location.hash)
+      var newState: AppState = assign(initialState, {
+        artistFilter: paramValue(params.artist),
+        labelFilter: paramValue(params.label),
+        genreFilter: paramValue(params.genre),
+        chartByFilter: paramValue(params.chart_by),
+      })
+
+      return newState
+    }
+
+    const onHashChange = () => {
+      const stateFromHash = getStateFromHash()
+
+      setAppState(
+        assign(stateFromHash, {
+          offset: 50,
+        })
+      )
+
+      if (Object.keys(stateFromHash).length !== 0) {
+        window.scroll(0, 0)
+      }
+    }
+
     window.onhashchange = onHashChange
 
     return () => {
@@ -72,42 +110,6 @@ function App({ title, chart }: Props) {
       window.removeEventListener('scroll', handleScroll)
     }
   }, [appState])
-
-  const onHashChange = () => {
-    const stateFromHash = getStateFromHash()
-
-    setAppState(
-      assign(stateFromHash, {
-        offset: 50,
-      })
-    )
-
-    if (Object.keys(stateFromHash).length !== 0) {
-      window.scroll(0, 0)
-    }
-  }
-
-  const paramValue = (param: string | (string | null)[] | null): string => {
-    if (!param) {
-      return ''
-    }
-
-    const value = Array.isArray(param) ? param[0] || '' : param
-
-    return value.toLowerCase()
-  }
-
-  const getStateFromHash = () => {
-    const params = qs.parse(location.hash)
-    var newState: AppState = assign(initialState, {
-      artistFilter: paramValue(params.artist),
-      labelFilter: paramValue(params.label),
-      genreFilter: paramValue(params.genre),
-      chartByFilter: paramValue(params.chart_by),
-    })
-
-    return newState
-  }
 
   const onChangeFilter = (
     t: 'artist' | 'title' | 'label' | 'genre' | 'chartBy'
