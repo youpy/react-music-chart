@@ -1,16 +1,8 @@
 import { useState, useEffect, useMemo } from 'react'
 import qs from 'query-string'
-import { Item, ChartItem } from './Item'
+import { Item } from './Item'
 import { assign } from './utils'
-
-type AppState = {
-  artistFilter: string
-  genreFilter: string
-  labelFilter: string
-  titleFilter: string
-  chartByFilter: string
-  offset: number
-}
+import { FilterTypes, AppState, ChartItem } from './types'
 
 const initialState: AppState = {
   artistFilter: '',
@@ -121,17 +113,25 @@ function App({ title, chart }: Props) {
     }
   }, [appState])
 
+  const changeFilter = (
+    t: FilterTypes,
+    value: string,
+    resetFilters: boolean = true
+  ) => {
+    const state = assign(resetFilters ? initialState : appState, {
+      offset: 50,
+    })
+
+    state[`${t}Filter`] = value
+
+    setAppState(state)
+  }
+
   const onChangeFilter = (
-    t: 'artist' | 'title' | 'label' | 'genre' | 'chartBy'
+    t: FilterTypes
   ): ((e: React.FormEvent<HTMLInputElement>) => void) => {
     return (e: React.FormEvent<HTMLInputElement>) => {
-      const state = assign(appState, {
-        offset: 50,
-      })
-
-      state[`${t}Filter`] = e.currentTarget.value.toLowerCase()
-
-      setAppState(state)
+      changeFilter(t, e.currentTarget.value.toLowerCase(), false)
     }
   }
 
