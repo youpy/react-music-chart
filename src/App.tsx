@@ -125,7 +125,7 @@ function App({ title, chart }: Props) {
     t: 'artist' | 'title' | 'label' | 'genre' | 'chartBy'
   ): ((e: React.FormEvent<HTMLInputElement>) => void) => {
     return (e: React.FormEvent<HTMLInputElement>) => {
-      const state = assign(initialState, {
+      const state = assign(appState, {
         offset: 50,
       })
 
