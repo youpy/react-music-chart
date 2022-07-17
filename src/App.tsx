@@ -109,49 +109,18 @@ function App({ title, chart }: Props) {
     return newState
   }
 
-  const onChangeArtistFilter = (e: React.FormEvent<HTMLInputElement>) => {
-    setAppState(
-      assign(initialState, {
-        artistFilter: e.currentTarget.value.toLowerCase(),
+  const onChangeFilter = (
+    t: 'artist' | 'title' | 'label' | 'genre' | 'chartBy'
+  ): ((e: React.FormEvent<HTMLInputElement>) => void) => {
+    return (e: React.FormEvent<HTMLInputElement>) => {
+      const state = assign(initialState, {
         offset: 50,
       })
-    )
-  }
 
-  const onChangeTitleFilter = (e: React.FormEvent<HTMLInputElement>) => {
-    setAppState(
-      assign(initialState, {
-        titleFilter: e.currentTarget.value.toLowerCase(),
-        offset: 50,
-      })
-    )
-  }
+      state[`${t}Filter`] = e.currentTarget.value.toLowerCase()
 
-  const onChangeLabelFilter = (e: React.FormEvent<HTMLInputElement>) => {
-    setAppState(
-      assign(initialState, {
-        labelFilter: e.currentTarget.value.toLowerCase(),
-        offset: 50,
-      })
-    )
-  }
-
-  const onChangeGenreFilter = (e: React.FormEvent<HTMLInputElement>) => {
-    setAppState(
-      assign(initialState, {
-        genreFilter: e.currentTarget.value.toLowerCase(),
-        offset: 50,
-      })
-    )
-  }
-
-  const onChangeChartByFilter = (e: React.FormEvent<HTMLInputElement>) => {
-    setAppState(
-      assign(initialState, {
-        chartByFilter: e.currentTarget.value.toLowerCase(),
-        offset: 50,
-      })
-    )
+      setAppState(state)
+    }
   }
 
   const filter = (filterStr: string, target: string): boolean => {
@@ -194,7 +163,7 @@ function App({ title, chart }: Props) {
             className="validate"
             id="artist"
             type="text"
-            onChange={onChangeArtistFilter}
+            onChange={onChangeFilter('artist')}
             value={appState.artistFilter}
           />
           <label
@@ -208,7 +177,7 @@ function App({ title, chart }: Props) {
           <input
             id="title"
             type="text"
-            onChange={onChangeTitleFilter}
+            onChange={onChangeFilter('title')}
             value={appState.titleFilter}
           />
           <label
@@ -222,7 +191,7 @@ function App({ title, chart }: Props) {
           <input
             id="label"
             type="text"
-            onChange={onChangeLabelFilter}
+            onChange={onChangeFilter('label')}
             value={appState.labelFilter}
           />
           <label
@@ -236,7 +205,7 @@ function App({ title, chart }: Props) {
           <input
             id="genre"
             type="text"
-            onChange={onChangeGenreFilter}
+            onChange={onChangeFilter('genre')}
             value={appState.genreFilter}
           />
           <label
@@ -250,7 +219,7 @@ function App({ title, chart }: Props) {
           <input
             id="chart_by"
             type="text"
-            onChange={onChangeChartByFilter}
+            onChange={onChangeFilter('chartBy')}
             value={appState.chartByFilter}
           />
           <label
