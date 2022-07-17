@@ -1,120 +1,116 @@
-import { useState, useEffect } from "react";
-import qs from "query-string";
-import { Item, ChartItem } from "./Item";
+import { useState, useEffect } from 'react'
+import qs from 'query-string'
+import { Item, ChartItem } from './Item'
 
 type AppState = {
-  artistFilter: string;
-  genreFilter: string;
-  labelFilter: string;
-  titleFilter: string;
-  chartByFilter: string;
-  offset: number;
-};
+  artistFilter: string
+  genreFilter: string
+  labelFilter: string
+  titleFilter: string
+  chartByFilter: string
+  offset: number
+}
 
 const initialState: AppState = {
-  artistFilter: "",
-  genreFilter: "",
-  labelFilter: "",
-  titleFilter: "",
-  chartByFilter: "",
+  artistFilter: '',
+  genreFilter: '',
+  labelFilter: '',
+  titleFilter: '',
+  chartByFilter: '',
   offset: 50,
-};
+}
 
 type Props = {
-  title: string;
-  chart: ChartItem[];
-};
+  title: string
+  chart: ChartItem[]
+}
 
 function App({ title, chart }: Props) {
-  const [appState, setAppState] = useState<AppState>(initialState);
+  const [appState, setAppState] = useState<AppState>(initialState)
 
   const chartBy = Object.keys(
     chart.reduce((memo, item) => {
-      return Object.assign(memo, item.chart_by);
+      return Object.assign(memo, item.chart_by)
     }, {})
-  ).sort();
+  ).sort()
 
   useEffect(() => {
-    document.title = title;
-    window.onhashchange = onHashChange;
+    document.title = title
+    window.onhashchange = onHashChange
 
     return () => {
-      window.onhashchange = null;
-    };
-  }, []);
+      window.onhashchange = null
+    }
+  }, [])
 
   useEffect(() => {
     const fn = () => {
-      setAppState(
-        Object.assign({}, appState, { offset: appState.offset + 50 })
-      );
-    };
+      setAppState(Object.assign({}, appState, { offset: appState.offset + 50 }))
+    }
     const handleScroll = () => {
-      const lastItemLoaded = document.querySelector(
-        ".items > .item:last-child"
-      );
+      const lastItemLoaded = document.querySelector('.items > .item:last-child')
       if (lastItemLoaded) {
-        const rect = lastItemLoaded.getBoundingClientRect();
-        const lastItemLoadedOffset = rect.top + rect.width;
-        const pageOffset = window.pageYOffset + window.innerHeight;
+        const rect = lastItemLoaded.getBoundingClientRect()
+        const lastItemLoadedOffset = rect.top + rect.width
+        const pageOffset = window.pageYOffset + window.innerHeight
         if (pageOffset > lastItemLoadedOffset) {
           if (appState.offset < chart.length) {
-            fn();
+            fn()
           }
         }
       }
-    };
-    window.addEventListener("scroll", handleScroll);
-    window.onhashchange = onHashChange;
+    }
+    window.addEventListener('scroll', handleScroll)
+    window.onhashchange = onHashChange
 
     return () => {
-      window.removeEventListener("scroll", handleScroll);
-      window.onhashchange = null;
-    };
-  }, [appState]);
+      window.removeEventListener('scroll', handleScroll)
+      window.onhashchange = null
+    }
+  }, [appState])
 
   const onHashChange = () => {
-    const stateFromHash = getStateFromHash();
+    const stateFromHash = getStateFromHash()
 
     setAppState(
       Object.assign({}, initialState, stateFromHash, {
         offset: 50,
       })
-    );
+    )
 
     if (Object.keys(stateFromHash).length !== 0) {
-      window.scroll(0, 0);
+      window.scroll(0, 0)
     }
-  };
+  }
 
   const paramValue = (param: string | (string | null)[]): string => {
-    const value = Array.isArray(param) ? param[0] || "" : param;
+    const value = Array.isArray(param) ? param[0] || '' : param
 
-    return value.toLowerCase();
-  };
+    return value.toLowerCase()
+  }
 
   const getStateFromHash = () => {
-    const params = qs.parse(location.hash);
-    var newState: AppState = Object.assign({}, initialState);
+    const params = qs.parse(location.hash)
+    var newState: AppState = Object.assign({}, initialState)
 
     if (params.artist) {
-      newState.artistFilter = paramValue(params.artist);
+      newState.artistFilter = paramValue(params.artist)
     }
 
     if (params.label) {
-      newState.labelFilter = paramValue(params.label);
+      newState.labelFilter = paramValue(params.label)
     }
 
     if (params.genre) {
-      newState.genreFilter = paramValue(params.genre);
+      newState.genreFilter = paramValue(params.genre)
     }
 
     if (params.chart_by) {
-      newState.chartByFilter = paramValue(params.chart_by);
+      newState.chartByFilter = paramValue(params.chart_by)
     }
 
-    return newState;
-  };
+    return newState
+  }
 
   const onChangeArtistFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
@@ -122,8 +118,8 @@ function App({ title, chart }: Props) {
         artistFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
-    );
-  };
+    )
+  }
 
   const onChangeTitleFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
@@ -131,8 +127,8 @@ function App({ title, chart }: Props) {
         titleFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
-    );
-  };
+    )
+  }
 
   const onChangeLabelFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
@@ -140,8 +136,8 @@ function App({ title, chart }: Props) {
         labelFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
-    );
-  };
+    )
+  }
 
   const onChangeGenreFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
@@ -149,8 +145,8 @@ function App({ title, chart }: Props) {
         genreFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
-    );
-  };
+    )
+  }
 
   const onChangeChartByFilter = (e: React.FormEvent<HTMLInputElement>) => {
     setAppState(
@@ -158,16 +154,16 @@ function App({ title, chart }: Props) {
         chartByFilter: e.currentTarget.value.toLowerCase(),
         offset: 50,
       })
-    );
-  };
+    )
+  }
 
   const filter = (filterStr: string, target: string): boolean => {
-    if (filterStr !== "") {
-      return target.toLowerCase().indexOf(filterStr) !== -1;
+    if (filterStr !== '') {
+      return target.toLowerCase().indexOf(filterStr) !== -1
     } else {
-      return true;
+      return true
     }
-  };
+  }
 
   const items = chart
     .filter((item) => filter(appState.artistFilter, item.artist))
@@ -177,18 +173,18 @@ function App({ title, chart }: Props) {
     .filter((item) =>
       filter(
         appState.chartByFilter,
-        Object.keys(item.chart_by).join(" ").toLowerCase()
+        Object.keys(item.chart_by).join(' ').toLowerCase()
       )
-    );
+    )
 
   const who = chartBy.find(
     (who) => who.toLowerCase() === appState.chartByFilter
-  );
+  )
   if (who) {
-    items.sort((a, b) => a.chart_by[who] - b.chart_by[who]);
+    items.sort((a, b) => a.chart_by[who] - b.chart_by[who])
   }
 
-  items.splice(appState.offset);
+  items.splice(appState.offset)
 
   return (
     <div>
@@ -206,7 +202,7 @@ function App({ title, chart }: Props) {
           />
           <label
             htmlFor="artist"
-            className={appState.artistFilter !== "" ? "active" : ""}
+            className={appState.artistFilter !== '' ? 'active' : ''}
           >
             Artist
           </label>
@@ -220,7 +216,7 @@ function App({ title, chart }: Props) {
           />
           <label
             htmlFor="title"
-            className={appState.titleFilter !== "" ? "active" : ""}
+            className={appState.titleFilter !== '' ? 'active' : ''}
           >
             Title
           </label>
@@ -234,7 +230,7 @@ function App({ title, chart }: Props) {
           />
           <label
             htmlFor="label"
-            className={appState.labelFilter !== "" ? "active" : ""}
+            className={appState.labelFilter !== '' ? 'active' : ''}
           >
             Label
           </label>
@@ -248,7 +244,7 @@ function App({ title, chart }: Props) {
           />
           <label
             htmlFor="genre"
-            className={appState.genreFilter !== "" ? "active" : ""}
+            className={appState.genreFilter !== '' ? 'active' : ''}
           >
             Genre
           </label>
@@ -262,7 +258,7 @@ function App({ title, chart }: Props) {
           />
           <label
             htmlFor="chart_by"
-            className={appState.chartByFilter !== "" ? "active" : ""}
+            className={appState.chartByFilter !== '' ? 'active' : ''}
           >
             Chart By
           </label>
@@ -271,14 +267,14 @@ function App({ title, chart }: Props) {
       <div className="items">
         {items.map((item) => (
           <Item
-            key={[item.artist, item.title].join("_")}
+            key={[item.artist, item.title].join('_')}
             data={item}
             chartBy={appState.chartByFilter}
           ></Item>
         ))}
       </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

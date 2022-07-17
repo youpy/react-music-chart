@@ -1,25 +1,25 @@
-import LazyLoad from "react-lazyload";
+import LazyLoad from 'react-lazyload'
 
 export type ChartItem = {
-  artist: string;
-  title: string;
-  url: string | null;
-  img_url: string;
-  label: string;
-  genre: string;
-  chart_by: Record<string, number>;
-  score: number;
-};
+  artist: string
+  title: string
+  url: string | null
+  img_url: string
+  label: string
+  genre: string
+  chart_by: Record<string, number>
+  score: number
+}
 
 type Props = {
-  data: ChartItem;
-  chartBy: string;
-};
+  data: ChartItem
+  chartBy: string
+}
 
 export function Item({ data, chartBy }: Props) {
   const onImageError = (e: React.SyntheticEvent<HTMLImageElement>) => {
-    e.currentTarget.style.visibility = "hidden";
-  };
+    e.currentTarget.style.visibility = 'hidden'
+  }
 
   return (
     <div className="item" key={data.title + data.artist}>
@@ -51,16 +51,16 @@ export function Item({ data, chartBy }: Props) {
               key={who}
               className="chip"
               style={{
-                border: data.chart_by[who] === 1 ? "#ccc 2px solid" : undefined,
-                background: who.toLowerCase() === chartBy ? "#fcc" : undefined,
+                border: data.chart_by[who] === 1 ? '#ccc 2px solid' : undefined,
+                background: who.toLowerCase() === chartBy ? '#fcc' : undefined,
               }}
             >
-              <a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>:{" "}
+              <a href={`#chart_by=${encodeURIComponent(who)}`}>{who}</a>:{' '}
               {data.chart_by[who]}
             </li>
           ))}
         </ul>
       </div>
     </div>
-  );
+  )
 }
