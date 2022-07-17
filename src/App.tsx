@@ -36,6 +36,14 @@ const paramValue = (param: string | (string | null)[] | null): string => {
   return value.toLowerCase()
 }
 
+const filter = (filterStr: string, target: string): boolean => {
+  if (filterStr !== '') {
+    return target.toLowerCase().indexOf(filterStr) !== -1
+  } else {
+    return true
+  }
+}
+
 function App({ title, chart }: Props) {
   const [appState, setAppState] = useState<AppState>(initialState)
   const chartBy = useMemo(() => {
@@ -122,14 +130,6 @@ function App({ title, chart }: Props) {
       state[`${t}Filter`] = e.currentTarget.value.toLowerCase()
 
       setAppState(state)
-    }
-  }
-
-  const filter = (filterStr: string, target: string): boolean => {
-    if (filterStr !== '') {
-      return target.toLowerCase().indexOf(filterStr) !== -1
-    } else {
-      return true
     }
   }
 
