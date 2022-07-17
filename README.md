@@ -2,7 +2,7 @@
 
 ## Usage
 
-http://buycheapviagraonlinenow.com/boomkat2021/
+https://boomkat-charts.netlify.app/
 
 ```
 $ ruby scrapers/boomkat.rb 2021 > src/chart.json
