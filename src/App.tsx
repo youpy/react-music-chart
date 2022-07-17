@@ -60,12 +60,11 @@ function App({ title, chart }: Props) {
         }
       }
     }
+
     window.addEventListener('scroll', handleScroll)
-    window.onhashchange = onHashChange
 
     return () => {
       window.removeEventListener('scroll', handleScroll)
-      window.onhashchange = null
     }
   }, [appState])
 
