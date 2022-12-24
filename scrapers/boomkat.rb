@@ -23,7 +23,7 @@ class Scraper
   def scrape
     logger = Logger.new($stderr)
 
-    doc('https://boomkat.com/charts/boomkat-end-of-year-charts-%s' % YEAR).
+    doc('https://boomkat.com/charts/boomkat-end-of-year-charts-%s' % YEAR, '.charts-index-chart').
       css('.charts-index-chart').
       find_all do |a|
       a['href'] && a['href'] !~ /\/charts\/boomkat-end-of-year-charts-#{YEAR}\/94[012]/
@@ -70,7 +70,7 @@ class Scraper
 
   private
 
-  def doc(url)
+  def doc(url, selector = nil)
     @driver.execute_cdp("Page.addScriptToEvaluateOnNewDocument", {
       source: <<-EOM
       let objectToInspect = window,
@@ -85,7 +85,7 @@ class Scraper
     @driver.navigate.to(url)
     body = nil
 
-    timeout(30) do
+    Timeout.timeout(30) do
       loop do
         body = @driver.page_source
         break if selector.nil? || !Nokogiri::HTML(body).css(selector).empty?
