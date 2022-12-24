@@ -3,8 +3,8 @@ require 'bundler/inline'
 gemfile do
   source 'https://rubygems.org'
   gem 'http-cookie'
-  gem 'httpclient'
   gem 'nokogiri'
+  gem 'selenium-webdriver'
 end
 
 require 'json'
@@ -13,6 +13,13 @@ require 'logger'
 YEAR = (ARGV.shift || "2021")
 
 class Scraper
+  def initialize
+    options = Selenium::WebDriver::Chrome::Options.new
+    options.add_argument('start-maximized')
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    @driver = Selenium::WebDriver.for :chrome, options: options
+  end
+
   def scrape
     logger = Logger.new($stderr)
 
@@ -64,13 +71,31 @@ class Scraper
   private
 
   def doc(url)
-    body = http.get_content(url)
-    sleep 0.2
-    Nokogiri::HTML(body)
-  end
+    @driver.execute_cdp("Page.addScriptToEvaluateOnNewDocument", {
+      source: <<-EOM
+      let objectToInspect = window,
+      result = [];
+      while(objectToInspect !== null)
+      { result = result.concat(Object.getOwnPropertyNames(objectToInspect));
+      objectToInspect = Object.getPrototypeOf(objectToInspect); }
+      result.forEach(p => p.match(/.+_.+_(Array|Promise|Symbol)/ig)
+                      &&delete window[p]&&console.log('removed',p))
+      EOM
+    })
+    @driver.navigate.to(url)
+    body = nil
 
-  def http
-    @http ||= HTTPClient.new
+    timeout(30) do
+      loop do
+        body = @driver.page_source
+        break if selector.nil? || !Nokogiri::HTML(body).css(selector).empty?
+        sleep 1
+      end
+    end
+
+    sleep 5
+
+    Nokogiri::HTML(body)
   end
 end
 
