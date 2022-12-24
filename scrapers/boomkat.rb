@@ -71,6 +71,9 @@ class Scraper
   private
 
   def doc(url, selector = nil)
+    # remove props from chromedriver
+    #
+    # see https://github.com/ultrafunkamsterdam/undetected-chromedriver/blob/33d2a728488d12936d0bcc1e97f8e7a040a3b31f/undetected_chromedriver/__init__.py#L637
     @driver.execute_cdp("Page.addScriptToEvaluateOnNewDocument", {
       source: <<-EOM
       let objectToInspect = window,
