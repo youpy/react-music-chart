@@ -17,6 +17,7 @@ class Scraper
     options = Selenium::WebDriver::Chrome::Options.new
     options.add_argument('start-maximized')
     options.add_argument('--disable-blink-features=AutomationControlled')
+    options.add_argument('--user-data-dir=/tmp/profile')
     @driver = Selenium::WebDriver.for :chrome, options: options
   end
 
@@ -35,7 +36,7 @@ class Scraper
   end
 
   def chart(url)
-    doc = doc('https://boomkat.com' + url)
+    doc = doc('https://boomkat.com' + url, '.chart-topbanner-title')
     chart_author = doc.css('.chart-topbanner-title').text.strip.sub(/ #{YEAR}$/, '')
     doc.css('.chart-item').inject({ chart_by: chart_author }) do |memo, div|
       url = nil
