@@ -11,24 +11,19 @@ export function Item({ data, chartBy }: Props) {
     e.currentTarget.style.visibility = 'hidden'
   }
 
+  const url = data.url || googleSearchUrl(`${data.artist} / ${data.title}`)
+
   return (
     <div className="item" key={data.title + data.artist}>
       <LazyLoad height={150}>
         <img src={data.img_url} height="150" onError={onImageError} />
       </LazyLoad>
       <div className="info">
-        {data.url && (
-          <h2 className="flow-text">
-            <a href={`${data.url}`}>
-              {data.artist} / {data.title}
-            </a>
-          </h2>
-        )}
-        {!data.url && (
-          <h2 className="flow-text">
+        <h2 className="flow-text">
+          <a href={`${url}`}>
             {data.artist} / {data.title}
-          </h2>
-        )}
+          </a>
+        </h2>
         <div className="label">
           <a href={`#label=${encodeURIComponent(data.label)}`}>{data.label}</a>
         </div>
@@ -53,4 +48,12 @@ export function Item({ data, chartBy }: Props) {
       </div>
     </div>
   )
+}
+
+function googleSearchUrl(q: string): string {
+  const url = new URL('https://www.google.com/search')
+
+  url.searchParams.set('q', q)
+
+  return url.toString()
 }
